@@ -1,0 +1,1551 @@
+$TTL 172800
+$ORIGIN .
+
+
+; Source AFRINIC
+105.in-addr.arpa.         NS        sec1.apnic.net.
+105.in-addr.arpa.         NS        ns1.afrinic.net.
+105.in-addr.arpa.         NS        ns2.afrinic.net.
+105.in-addr.arpa.         NS        tinnie.arin.net.
+105.in-addr.arpa.         NS        sec3.apnic.net.
+105.in-addr.arpa.         NS        afrinic.authdns.ripe.net.
+105.in-addr.arpa.         NS        ns2.lacnic.net.
+
+; Source AFRINIC
+16.105.in-addr.arpa.         NS        ns3.seacomnet.com.
+16.105.in-addr.arpa.         NS        ns4.seacomnet.com.
+
+; Source AFRINIC
+17.105.in-addr.arpa.         NS        ns3.seacomnet.com.
+17.105.in-addr.arpa.         NS        ns4.seacomnet.com.
+
+; Source AFRINIC
+18.105.in-addr.arpa.         NS        ns3.seacomnet.com.
+18.105.in-addr.arpa.         NS        ns4.seacomnet.com.
+
+; Source AFRINIC
+19.105.in-addr.arpa.         NS        ns3.seacomnet.com.
+19.105.in-addr.arpa.         NS        ns4.seacomnet.com.
+
+; Source AFRINIC
+20.105.in-addr.arpa.         NS        ns3.seacomnet.com.
+20.105.in-addr.arpa.         NS        ns4.seacomnet.com.
+
+; Source AFRINIC
+21.105.in-addr.arpa.         NS        ns3.seacomnet.com.
+21.105.in-addr.arpa.         NS        ns4.seacomnet.com.
+
+; Source AFRINIC
+22.105.in-addr.arpa.         NS        ns3.seacomnet.com.
+22.105.in-addr.arpa.         NS        ns4.seacomnet.com.
+
+; Source AFRINIC
+23.105.in-addr.arpa.         NS        ns3.seacomnet.com.
+23.105.in-addr.arpa.         NS        ns4.seacomnet.com.
+
+; Source AFRINIC
+24.105.in-addr.arpa.         NS        ns3.seacomnet.com.
+24.105.in-addr.arpa.         NS        ns4.seacomnet.com.
+
+; Source AFRINIC
+25.105.in-addr.arpa.         NS        ns3.seacomnet.com.
+25.105.in-addr.arpa.         NS        ns4.seacomnet.com.
+
+; Source AFRINIC
+26.105.in-addr.arpa.         NS        ns3.seacomnet.com.
+26.105.in-addr.arpa.         NS        ns4.seacomnet.com.
+
+; Source AFRINIC
+27.105.in-addr.arpa.         NS        ns3.seacomnet.com.
+27.105.in-addr.arpa.         NS        ns4.seacomnet.com.
+
+; Source AFRINIC
+28.105.in-addr.arpa.         NS        ns3.seacomnet.com.
+28.105.in-addr.arpa.         NS        ns4.seacomnet.com.
+
+; Source AFRINIC
+29.105.in-addr.arpa.         NS        ns3.seacomnet.com.
+29.105.in-addr.arpa.         NS        ns4.seacomnet.com.
+
+; Source AFRINIC
+30.105.in-addr.arpa.         NS        ns3.seacomnet.com.
+30.105.in-addr.arpa.         NS        ns4.seacomnet.com.
+
+; Source AFRINIC
+31.105.in-addr.arpa.         NS        ns3.seacomnet.com.
+31.105.in-addr.arpa.         NS        ns4.seacomnet.com.
+
+; Source AFRINIC
+0.32.105.in-addr.arpa.         NS        ns1.link.net.
+0.32.105.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+0.40.105.in-addr.arpa.         NS        ns1.link.net.
+0.40.105.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+64.105.in-addr.arpa.         NS        ns1.wanamaroc.com.
+64.105.in-addr.arpa.         NS        ns3.wanamaroc.com.
+64.105.in-addr.arpa.         NS        loukos2.wanacorp.com.
+
+; Source AFRINIC
+65.105.in-addr.arpa.         NS        ns1.wanamaroc.com.
+65.105.in-addr.arpa.         NS        ns3.wanamaroc.com.
+65.105.in-addr.arpa.         NS        loukos2.wanacorp.com.
+
+; Source AFRINIC
+66.105.in-addr.arpa.         NS        ns1.wanamaroc.com.
+66.105.in-addr.arpa.         NS        ns3.wanamaroc.com.
+66.105.in-addr.arpa.         NS        loukos2.wanacorp.com.
+
+; Source AFRINIC
+67.105.in-addr.arpa.         NS        ns1.wanamaroc.com.
+67.105.in-addr.arpa.         NS        ns3.wanamaroc.com.
+67.105.in-addr.arpa.         NS        loukos2.wanacorp.com.
+
+; Source AFRINIC
+68.105.in-addr.arpa.         NS        ns1.wanamaroc.com.
+68.105.in-addr.arpa.         NS        ns3.wanamaroc.com.
+68.105.in-addr.arpa.         NS        loukos2.wanacorp.com.
+
+; Source AFRINIC
+69.105.in-addr.arpa.         NS        ns1.wanamaroc.com.
+69.105.in-addr.arpa.         NS        ns3.wanamaroc.com.
+69.105.in-addr.arpa.         NS        loukos2.wanacorp.com.
+
+; Source AFRINIC
+70.105.in-addr.arpa.         NS        ns1.wanamaroc.com.
+70.105.in-addr.arpa.         NS        ns3.wanamaroc.com.
+70.105.in-addr.arpa.         NS        loukos2.wanacorp.com.
+
+; Source AFRINIC
+71.105.in-addr.arpa.         NS        ns1.wanamaroc.com.
+71.105.in-addr.arpa.         NS        ns3.wanamaroc.com.
+71.105.in-addr.arpa.         NS        loukos2.wanacorp.com.
+
+; Source AFRINIC
+72.105.in-addr.arpa.         NS        ns1.wanamaroc.com.
+72.105.in-addr.arpa.         NS        ns3.wanamaroc.com.
+72.105.in-addr.arpa.         NS        loukos2.wanacorp.com.
+
+; Source AFRINIC
+73.105.in-addr.arpa.         NS        ns1.wanamaroc.com.
+73.105.in-addr.arpa.         NS        ns3.wanamaroc.com.
+73.105.in-addr.arpa.         NS        loukos2.wanacorp.com.
+
+; Source AFRINIC
+74.105.in-addr.arpa.         NS        ns1.wanamaroc.com.
+74.105.in-addr.arpa.         NS        ns3.wanamaroc.com.
+74.105.in-addr.arpa.         NS        loukos2.wanacorp.com.
+
+; Source AFRINIC
+80.105.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+80.105.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+81.105.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+81.105.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+82.105.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+82.105.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+83.105.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+83.105.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+84.105.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+84.105.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+85.105.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+85.105.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+86.105.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+86.105.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+87.105.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+87.105.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+88.105.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+88.105.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+89.105.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+89.105.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+90.105.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+90.105.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+91.105.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+91.105.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+92.105.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+92.105.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+93.105.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+93.105.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+94.105.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+94.105.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+95.105.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+95.105.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+8.96.105.in-addr.arpa.         NS        dns-1.djaweb.dz.
+8.96.105.in-addr.arpa.         NS        dns-2.djaweb.dz.
+
+; Source AFRINIC
+15.96.105.in-addr.arpa.         NS        dns-1.djaweb.dz.
+15.96.105.in-addr.arpa.         NS        dns-2.djaweb.dz.
+
+; Source AFRINIC
+148.101.105.in-addr.arpa.         NS        dns-1.djaweb.dz.
+148.101.105.in-addr.arpa.         NS        dns-2.djaweb.dz.
+
+; Source AFRINIC
+1.112.105.in-addr.arpa.         NS        dnsdel.mantraoline.com.
+1.112.105.in-addr.arpa.         NS        aaadel.mantraonline.com.
+
+; Source AFRINIC
+2.112.105.in-addr.arpa.         NS        dnsdel.mantraoline.com.
+2.112.105.in-addr.arpa.         NS        aaadel.mantraonline.com.
+
+; Source AFRINIC
+249.159.105.in-addr.arpa.         NS        dns.menara.ma.
+249.159.105.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+254.159.105.in-addr.arpa.         NS        dns.menara.ma.
+254.159.105.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+0.168.105.in-addr.arpa.         NS        ns1.unitel.co.ao.
+0.168.105.in-addr.arpa.         NS        ns2.unitel.co.ao.
+0.168.105.in-addr.arpa.         NS        ns3.unitel.co.ao.
+0.168.105.in-addr.arpa.         NS        ns4.unitel.co.ao.
+
+; Source AFRINIC
+169.105.in-addr.arpa.         NS        ns1.unitel.co.ao.
+169.105.in-addr.arpa.         NS        ns2.unitel.co.ao.
+169.105.in-addr.arpa.         NS        ns3.unitel.co.ao.
+169.105.in-addr.arpa.         NS        ns4.unitel.co.ao.
+
+; Source AFRINIC
+170.105.in-addr.arpa.         NS        ns1.unitel.co.ao.
+170.105.in-addr.arpa.         NS        ns2.unitel.co.ao.
+170.105.in-addr.arpa.         NS        ns3.unitel.co.ao.
+170.105.in-addr.arpa.         NS        ns4.unitel.co.ao.
+
+; Source AFRINIC
+171.105.in-addr.arpa.         NS        ns1.unitel.co.ao.
+171.105.in-addr.arpa.         NS        ns2.unitel.co.ao.
+171.105.in-addr.arpa.         NS        ns3.unitel.co.ao.
+171.105.in-addr.arpa.         NS        ns4.unitel.co.ao.
+
+; Source AFRINIC
+172.105.in-addr.arpa.         NS        ns1.unitel.co.ao.
+172.105.in-addr.arpa.         NS        ns2.unitel.co.ao.
+172.105.in-addr.arpa.         NS        ns3.unitel.co.ao.
+172.105.in-addr.arpa.         NS        ns4.unitel.co.ao.
+
+; Source AFRINIC
+173.105.in-addr.arpa.         NS        ns1.unitel.co.ao.
+173.105.in-addr.arpa.         NS        ns2.unitel.co.ao.
+173.105.in-addr.arpa.         NS        ns3.unitel.co.ao.
+173.105.in-addr.arpa.         NS        ns4.unitel.co.ao.
+
+; Source AFRINIC
+174.105.in-addr.arpa.         NS        ns1.unitel.co.ao.
+174.105.in-addr.arpa.         NS        ns2.unitel.co.ao.
+174.105.in-addr.arpa.         NS        ns3.unitel.co.ao.
+174.105.in-addr.arpa.         NS        ns4.unitel.co.ao.
+
+; Source AFRINIC
+175.105.in-addr.arpa.         NS        ns1.unitel.co.ao.
+175.105.in-addr.arpa.         NS        ns2.unitel.co.ao.
+175.105.in-addr.arpa.         NS        ns3.unitel.co.ao.
+175.105.in-addr.arpa.         NS        ns4.unitel.co.ao.
+
+; Source AFRINIC
+105.178.105.in-addr.arpa.         NS        ns1.rdb.rw.
+105.178.105.in-addr.arpa.         NS        ns3.rdb.rw.
+
+; Source AFRINIC
+0.180.105.in-addr.arpa.         NS        ns1.link.net.
+0.180.105.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+0.182.105.in-addr.arpa.         NS        ns1.link.net.
+0.182.105.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+184.105.in-addr.arpa.         NS        ns1.telkomsa.net.
+184.105.in-addr.arpa.         NS        ns2.telkomsa.net.
+
+; Source AFRINIC
+185.105.in-addr.arpa.         NS        ns1.telkomsa.net.
+185.105.in-addr.arpa.         NS        ns2.telkomsa.net.
+
+; Source AFRINIC
+186.105.in-addr.arpa.         NS        ns1.telkomsa.net.
+186.105.in-addr.arpa.         NS        ns2.telkomsa.net.
+
+; Source AFRINIC
+187.105.in-addr.arpa.         NS        ns1.telkomsa.net.
+187.105.in-addr.arpa.         NS        ns2.telkomsa.net.
+
+; Source AFRINIC
+0.192.105.in-addr.arpa.         NS        ns1.link.net.
+0.192.105.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+0.194.105.in-addr.arpa.         NS        ns1.link.net.
+0.194.105.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+230.198.105.in-addr.arpa.         NS        ns1.vfe-hosting.net.
+230.198.105.in-addr.arpa.         NS        ns2.vfe-hosting.com.
+
+; Source AFRINIC
+200.105.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+200.105.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+201.105.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+201.105.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+202.105.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+202.105.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+203.105.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+203.105.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+204.105.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+204.105.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+205.105.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+205.105.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+206.105.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+206.105.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+207.105.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+207.105.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+208.105.in-addr.arpa.         NS        ns1.iafrica.com.
+208.105.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+209.105.in-addr.arpa.         NS        ns1.iafrica.com.
+209.105.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+211.105.in-addr.arpa.         NS        ns1.iafrica.com.
+211.105.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+224.105.in-addr.arpa.         NS        ns1.telkomsa.net.
+224.105.in-addr.arpa.         NS        ns2.telkomsa.net.
+
+; Source AFRINIC
+225.105.in-addr.arpa.         NS        ns1.telkomsa.net.
+225.105.in-addr.arpa.         NS        ns2.telkomsa.net.
+
+; Source AFRINIC
+226.105.in-addr.arpa.         NS        ns1.telkomsa.net.
+226.105.in-addr.arpa.         NS        ns2.telkomsa.net.
+
+; Source AFRINIC
+227.105.in-addr.arpa.         NS        ns1.telkomsa.net.
+227.105.in-addr.arpa.         NS        ns2.telkomsa.net.
+
+; Source AFRINIC
+228.105.in-addr.arpa.         NS        ns1.telkomsa.net.
+228.105.in-addr.arpa.         NS        ns2.telkomsa.net.
+
+; Source AFRINIC
+229.105.in-addr.arpa.         NS        ns1.telkomsa.net.
+229.105.in-addr.arpa.         NS        ns2.telkomsa.net.
+
+; Source AFRINIC
+0.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+0.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+0.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+0.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+
+; Source AFRINIC
+1.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+1.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+1.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+1.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+1.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+2.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+2.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+2.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+2.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+2.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+3.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+3.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+3.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+3.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+3.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+4.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+4.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+4.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+4.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+4.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+5.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+5.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+5.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+5.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+5.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+6.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+6.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+6.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+6.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+6.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+7.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+7.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+7.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+7.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+7.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+8.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+8.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+8.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+8.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+8.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+9.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+9.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+9.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+9.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+9.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+10.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+10.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+10.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+10.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+10.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+11.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+11.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+11.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+11.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+11.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+12.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+12.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+12.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+12.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+12.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+13.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+13.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+13.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+13.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+13.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+14.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+14.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+14.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+14.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+14.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+15.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+15.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+15.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+15.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+15.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+16.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+16.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+16.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+16.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+16.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+17.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+17.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+17.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+17.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+17.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+18.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+18.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+18.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+18.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+18.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+19.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+19.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+19.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+19.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+19.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+20.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+20.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+20.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+20.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+20.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+21.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+21.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+21.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+21.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+21.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+22.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+22.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+22.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+22.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+22.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+23.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+23.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+23.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+23.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+23.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+24.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+24.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+24.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+24.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+24.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+25.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+25.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+25.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+25.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+25.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+26.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+26.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+26.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+26.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+26.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+27.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+27.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+27.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+27.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+27.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+28.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+28.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+28.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+28.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+28.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+29.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+29.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+29.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+29.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+29.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+30.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+30.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+30.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+30.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+30.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+31.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+31.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+31.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+31.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+31.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+32.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+32.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+32.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+32.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+32.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+33.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+33.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+33.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+33.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+33.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+34.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+34.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+34.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+34.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+34.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+35.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+35.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+35.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+35.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+35.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+36.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+36.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+36.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+36.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+36.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+37.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+37.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+37.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+37.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+37.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+38.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+38.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+38.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+38.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+38.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+39.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+39.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+39.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+39.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+39.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+40.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+40.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+40.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+40.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+40.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+41.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+41.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+41.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+41.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+41.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+42.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+42.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+42.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+42.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+42.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+43.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+43.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+43.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+43.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+43.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+44.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+44.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+44.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+44.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+44.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+45.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+45.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+45.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+45.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+45.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+46.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+46.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+46.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+46.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+46.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+47.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+47.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+47.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+47.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+47.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+48.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+48.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+48.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+48.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+48.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+49.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+49.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+49.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+49.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+49.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+50.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+50.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+50.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+50.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+50.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+51.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+51.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+51.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+51.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+51.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+52.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+52.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+52.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+52.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+52.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+53.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+53.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+53.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+53.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+53.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+54.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+54.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+54.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+54.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+54.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+55.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+55.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+55.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+55.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+55.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+56.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+56.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+56.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+56.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+
+; Source AFRINIC
+57.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+57.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+57.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+57.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+
+; Source AFRINIC
+58.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+58.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+58.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+58.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+58.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+59.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+59.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+59.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+59.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+59.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+60.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+60.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+60.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+60.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+60.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+61.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+61.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+61.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+61.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+61.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+62.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+62.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+62.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+62.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+62.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+63.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+63.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+63.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+63.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+63.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+64.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+64.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+64.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+64.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+64.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+65.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+65.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+65.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+65.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+65.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+66.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+66.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+66.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+66.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+66.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+67.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+67.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+67.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+67.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+
+; Source AFRINIC
+68.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+68.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+68.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+68.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+68.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+69.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+69.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+69.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+69.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+69.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+70.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+70.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+70.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+70.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+70.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+71.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+71.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+71.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+71.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+71.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+72.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+72.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+72.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+72.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+72.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+73.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+73.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+73.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+73.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+73.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+74.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+74.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+74.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+74.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+74.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+75.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+75.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+75.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+75.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+75.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+76.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+76.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+76.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+76.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+76.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+77.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+77.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+77.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+77.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+77.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+78.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+78.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+78.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+78.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+78.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+79.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+79.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+79.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+79.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+79.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+80.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+80.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+80.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+80.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+80.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+81.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+81.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+81.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+81.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+81.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+82.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+82.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+82.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+82.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+82.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+83.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+83.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+83.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+83.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+83.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+84.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+84.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+84.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+84.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+84.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+85.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+85.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+85.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+85.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+85.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+86.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+86.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+86.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+86.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+86.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+87.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+87.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+87.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+87.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+87.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+88.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+88.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+88.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+88.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+88.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+89.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+89.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+89.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+89.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+89.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+90.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+90.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+90.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+90.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+90.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+91.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+91.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+91.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+91.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+91.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+92.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+92.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+92.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+92.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+92.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+93.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+93.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+93.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+93.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+93.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+94.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+94.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+94.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+94.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+94.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+95.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+95.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+95.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+95.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+95.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+96.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+96.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+96.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+96.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+96.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+97.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+97.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+97.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+97.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+97.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+98.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+98.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+98.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+98.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+98.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+99.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+99.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+99.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+99.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+99.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+100.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+100.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+100.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+100.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+100.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+101.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+101.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+101.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+101.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+101.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+102.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+102.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+102.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+102.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+102.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+103.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+103.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+103.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+103.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+103.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+104.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+104.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+104.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+104.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+104.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+105.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+105.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+105.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+105.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+105.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+106.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+106.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+106.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+106.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+106.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+107.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+107.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+107.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+107.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+107.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+108.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+108.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+108.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+108.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+108.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+109.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+109.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+109.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+109.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+109.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+110.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+110.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+110.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+110.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+110.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+111.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+111.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+111.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+111.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+111.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+112.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+112.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+112.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+112.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+112.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+113.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+113.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+113.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+113.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+113.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+114.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+114.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+114.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+114.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+114.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+115.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+115.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+115.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+115.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+115.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+116.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+116.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+116.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+116.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+116.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+117.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+117.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+117.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+117.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+117.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+118.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+118.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+118.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+118.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+118.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+119.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+119.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+119.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+119.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+119.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+120.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+120.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+120.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+120.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+120.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+121.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+121.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+121.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+121.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+121.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+122.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+122.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+122.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+122.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+122.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+123.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+123.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+123.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+123.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+123.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+124.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+124.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+124.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+124.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+124.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+125.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+125.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+125.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+125.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+125.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+126.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+126.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+126.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+126.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+126.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+127.235.105.in-addr.arpa.         NS        ns1.afnet.net.
+127.235.105.in-addr.arpa.         NS        ns2.afnet.net.
+127.235.105.in-addr.arpa.         NS        ns3.afnet.net.
+127.235.105.in-addr.arpa.         NS        ns4.afnet.net.
+127.235.105.in-addr.arpa.         NS        ns5.afnet.net.
+
+; Source AFRINIC
+160.235.105.in-addr.arpa.         NS        vns1.bytes.co.za.
+160.235.105.in-addr.arpa.         NS        nns1.bytes.co.za.
+
+; Source AFRINIC
+161.235.105.in-addr.arpa.         NS        vns1.bytes.co.za.
+161.235.105.in-addr.arpa.         NS        nns1.bytes.co.za.
+
+; Source AFRINIC
+162.235.105.in-addr.arpa.         NS        vns1.bytes.co.za.
+162.235.105.in-addr.arpa.         NS        nns1.bytes.co.za.
+
+; Source AFRINIC
+163.235.105.in-addr.arpa.         NS        vns1.bytes.co.za.
+163.235.105.in-addr.arpa.         NS        nns1.bytes.co.za.
+
+; Source AFRINIC
+164.235.105.in-addr.arpa.         NS        vns1.bytes.co.za.
+164.235.105.in-addr.arpa.         NS        nns1.bytes.co.za.
+
+; Source AFRINIC
+165.235.105.in-addr.arpa.         NS        vns1.bytes.co.za.
+165.235.105.in-addr.arpa.         NS        nns1.bytes.co.za.
+
+; Source AFRINIC
+166.235.105.in-addr.arpa.         NS        vns1.bytes.co.za.
+166.235.105.in-addr.arpa.         NS        nns1.bytes.co.za.
+
+; Source AFRINIC
+167.235.105.in-addr.arpa.         NS        vns1.bytes.co.za.
+167.235.105.in-addr.arpa.         NS        nns1.bytes.co.za.
+
+; Source AFRINIC
+168.235.105.in-addr.arpa.         NS        vns1.bytes.co.za.
+168.235.105.in-addr.arpa.         NS        nns1.bytes.co.za.
+
+; Source AFRINIC
+169.235.105.in-addr.arpa.         NS        vns1.bytes.co.za.
+169.235.105.in-addr.arpa.         NS        nns1.bytes.co.za.
+
+; Source AFRINIC
+170.235.105.in-addr.arpa.         NS        vns1.bytes.co.za.
+170.235.105.in-addr.arpa.         NS        nns1.bytes.co.za.
+
+; Source AFRINIC
+171.235.105.in-addr.arpa.         NS        vns1.bytes.co.za.
+171.235.105.in-addr.arpa.         NS        nns1.bytes.co.za.
+
+; Source AFRINIC
+172.235.105.in-addr.arpa.         NS        vns1.bytes.co.za.
+172.235.105.in-addr.arpa.         NS        nns1.bytes.co.za.
+
+; Source AFRINIC
+173.235.105.in-addr.arpa.         NS        vns1.bytes.co.za.
+173.235.105.in-addr.arpa.         NS        nns1.bytes.co.za.
+
+; Source AFRINIC
+174.235.105.in-addr.arpa.         NS        vns1.bytes.co.za.
+174.235.105.in-addr.arpa.         NS        nns1.bytes.co.za.
+
+; Source AFRINIC
+175.235.105.in-addr.arpa.         NS        vns1.bytes.co.za.
+175.235.105.in-addr.arpa.         NS        nns1.bytes.co.za.
+
+; Source AFRINIC
+192.235.105.in-addr.arpa.         NS        ns3.ic-sol.net.
+192.235.105.in-addr.arpa.         NS        ns4.ic-sol.net.
+
+; Source AFRINIC
+194.235.105.in-addr.arpa.         NS        ns3.ic-sol.net.
+194.235.105.in-addr.arpa.         NS        ns4.ic-sol.net.
+
+; Source AFRINIC
+195.235.105.in-addr.arpa.         NS        ns3.ic-sol.net.
+195.235.105.in-addr.arpa.         NS        ns4.ic-sol.net.
+
+; Source AFRINIC
+208.235.105.in-addr.arpa.         NS        ns1.rcswimax.com.
+208.235.105.in-addr.arpa.         NS        ns2.rcswimax.com.
+
+; Source AFRINIC
+209.235.105.in-addr.arpa.         NS        ns1.rcswimax.com.
+209.235.105.in-addr.arpa.         NS        ns2.rcswimax.com.
+
+; Source AFRINIC
+210.235.105.in-addr.arpa.         NS        ns1.rcswimax.com.
+210.235.105.in-addr.arpa.         NS        ns2.rcswimax.com.
+
+; Source AFRINIC
+212.235.105.in-addr.arpa.         NS        ns1.rcswimax.com.
+212.235.105.in-addr.arpa.         NS        ns2.rcswimax.com.
+
+; Source AFRINIC
+213.235.105.in-addr.arpa.         NS        ns1.rcswimax.com.
+213.235.105.in-addr.arpa.         NS        ns2.rcswimax.com.
+
+; Source AFRINIC
+214.235.105.in-addr.arpa.         NS        ns1.rcswimax.com.
+214.235.105.in-addr.arpa.         NS        ns2.rcswimax.com.
+
+; Source AFRINIC
+215.235.105.in-addr.arpa.         NS        ns1.rcswimax.com.
+215.235.105.in-addr.arpa.         NS        ns2.rcswimax.com.
+
+; Source AFRINIC
+216.235.105.in-addr.arpa.         NS        ptr1.abaricom.co.mz.
+216.235.105.in-addr.arpa.         NS        ptr2.abaricom.co.mz.
+
+; Source AFRINIC
+217.235.105.in-addr.arpa.         NS        ptr1.abaricom.co.mz.
+217.235.105.in-addr.arpa.         NS        ptr2.abaricom.co.mz.
+
+; Source AFRINIC
+218.235.105.in-addr.arpa.         NS        ptr1.abaricom.co.mz.
+218.235.105.in-addr.arpa.         NS        ptr2.abaricom.co.mz.
+218.235.105.in-addr.arpa.         NS        mail.inp.gov.mz.
+
+; Source AFRINIC
+219.235.105.in-addr.arpa.         NS        ptr1.abaricom.co.mz.
+219.235.105.in-addr.arpa.         NS        ptr2.abaricom.co.mz.
+219.235.105.in-addr.arpa.         NS        ns6.abaricom.co.mz.
+219.235.105.in-addr.arpa.         NS        mail.dana.co.mz.
+
+; Source AFRINIC
+220.235.105.in-addr.arpa.         NS        ptr1.abaricom.co.mz.
+220.235.105.in-addr.arpa.         NS        ptr2.abaricom.co.mz.
+220.235.105.in-addr.arpa.         NS        mail.teste.co.mz.
+220.235.105.in-addr.arpa.         NS        ns6.abaricom.co.mz.
+
+; Source AFRINIC
+221.235.105.in-addr.arpa.         NS        ptr1.abaricom.co.mz.
+221.235.105.in-addr.arpa.         NS        ptr2.abaricom.co.mz.
+221.235.105.in-addr.arpa.         NS        ns6.abaricom.co.mz.
+
+; Source AFRINIC
+224.235.105.in-addr.arpa.         NS        ns0.guineanet.net.
+224.235.105.in-addr.arpa.         NS        ns1.guineanet.net.
+
+; Source AFRINIC
+225.235.105.in-addr.arpa.         NS        ns0.guineanet.net.
+225.235.105.in-addr.arpa.         NS        ns1.guineanet.net.
+
+; Source AFRINIC
+226.235.105.in-addr.arpa.         NS        ns0.guineanet.net.
+226.235.105.in-addr.arpa.         NS        ns1.guineanet.net.
+
+; Source AFRINIC
+227.235.105.in-addr.arpa.         NS        ns0.guineanet.net.
+227.235.105.in-addr.arpa.         NS        ns1.guineanet.net.
+
+; Source AFRINIC
+228.235.105.in-addr.arpa.         NS        ns0.guineanet.net.
+228.235.105.in-addr.arpa.         NS        ns1.guineanet.net.
+
+; Source AFRINIC
+229.235.105.in-addr.arpa.         NS        ns0.guineanet.net.
+229.235.105.in-addr.arpa.         NS        ns1.guineanet.net.
+
+; Source AFRINIC
+230.235.105.in-addr.arpa.         NS        ns0.guineanet.net.
+230.235.105.in-addr.arpa.         NS        ns1.guineanet.net.
+
+; Source AFRINIC
+231.235.105.in-addr.arpa.         NS        ns0.guineanet.net.
+231.235.105.in-addr.arpa.         NS        ns1.guineanet.net.
+
+; Source AFRINIC
+232.235.105.in-addr.arpa.         NS        ns0.guineanet.net.
+232.235.105.in-addr.arpa.         NS        ns1.guineanet.net.
+
+; Source AFRINIC
+233.235.105.in-addr.arpa.         NS        ns0.guineanet.net.
+233.235.105.in-addr.arpa.         NS        ns1.guineanet.net.
+
+; Source AFRINIC
+234.235.105.in-addr.arpa.         NS        ns0.guineanet.net.
+234.235.105.in-addr.arpa.         NS        ns1.guineanet.net.
+
+; Source AFRINIC
+235.235.105.in-addr.arpa.         NS        ns0.guineanet.net.
+235.235.105.in-addr.arpa.         NS        ns1.guineanet.net.
+
+; Source AFRINIC
+236.235.105.in-addr.arpa.         NS        ns0.guineanet.net.
+236.235.105.in-addr.arpa.         NS        ns1.guineanet.net.
+
+; Source AFRINIC
+237.235.105.in-addr.arpa.         NS        ns0.guineanet.net.
+237.235.105.in-addr.arpa.         NS        ns1.guineanet.net.
+
+; Source AFRINIC
+238.235.105.in-addr.arpa.         NS        ns0.guineanet.net.
+238.235.105.in-addr.arpa.         NS        ns1.guineanet.net.
+
+; Source AFRINIC
+239.235.105.in-addr.arpa.         NS        ns0.guineanet.net.
+239.235.105.in-addr.arpa.         NS        ns1.guineanet.net.
+
+; Source AFRINIC
+236.105.in-addr.arpa.         NS        ns1.iafrica.com.
+236.105.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+237.105.in-addr.arpa.         NS        ns1.iafrica.com.
+237.105.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+240.105.in-addr.arpa.         NS        dnsinfo1-mtp.3g.vodacom.co.za.
+240.105.in-addr.arpa.         NS        dnsinfo1-cte.3g.vodacom.co.za.
+240.105.in-addr.arpa.         NS        dnsinfo1-psi.3g.vodacom.co.za.
+
+; Source AFRINIC
+241.105.in-addr.arpa.         NS        dnsinfo1-psi.3g.vodacom.co.za.
+241.105.in-addr.arpa.         NS        dnsinfo1-cte.3g.vodacom.co.za.
+241.105.in-addr.arpa.         NS        dnsinfo1-mtp.3g.vodacom.co.za.
+
+; Source AFRINIC
+242.105.in-addr.arpa.         NS        dnsinfo1-cte.3g.vodacom.co.za.
+242.105.in-addr.arpa.         NS        dnsinfo1-mtp.3g.vodacom.co.za.
+242.105.in-addr.arpa.         NS        dnsinfo1-psi.3g.vodacom.co.za.
+
+; Source AFRINIC
+243.105.in-addr.arpa.         NS        dnsinfo1-mtp.3g.vodacom.co.za.
+243.105.in-addr.arpa.         NS        dnsinfo1-cte.3g.vodacom.co.za.
+243.105.in-addr.arpa.         NS        dnsinfo1-psi.3g.vodacom.co.za.
+
+; Source AFRINIC
+244.105.in-addr.arpa.         NS        dnsinfo1-psi.3g.vodacom.co.za.
+244.105.in-addr.arpa.         NS        dnsinfo1-cte.3g.vodacom.co.za.
+244.105.in-addr.arpa.         NS        dnsinfo1-mtp.3g.vodacom.co.za.
+
+; Source AFRINIC
+245.105.in-addr.arpa.         NS        dnsinfo1-cte.3g.vodacom.co.za.
+245.105.in-addr.arpa.         NS        dnsinfo1-mtp.3g.vodacom.co.za.
+245.105.in-addr.arpa.         NS        dnsinfo1-psi.3g.vodacom.co.za.
+
+; Source AFRINIC
+246.105.in-addr.arpa.         NS        dnsinfo1-psi.3g.vodacom.co.za.
+246.105.in-addr.arpa.         NS        dnsinfo1-cte.3g.vodacom.co.za.
+246.105.in-addr.arpa.         NS        dnsinfo1-mtp.3g.vodacom.co.za.
+
+; Source AFRINIC
+247.105.in-addr.arpa.         NS        ns1.vodacombusiness.co.za.
+247.105.in-addr.arpa.         NS        ns2.vodacombusiness.co.za.
+
+; Source AFRINIC
+248.105.in-addr.arpa.         NS        dnsinfo1-cte.3g.vodacom.co.za.
+248.105.in-addr.arpa.         NS        dnsinfo1-mtp.3g.vodacom.co.za.
+248.105.in-addr.arpa.         NS        dnsinfo1-psi.3g.vodacom.co.za.
+
+; Source AFRINIC
+249.105.in-addr.arpa.         NS        dnsinfo1-psi.3g.vodacom.co.za.
+249.105.in-addr.arpa.         NS        dnsinfo1-mtp.3g.vodacom.co.za.
+249.105.in-addr.arpa.         NS        dnsinfo1-cte.3g.vodacom.co.za.
+
+; Source AFRINIC
+250.105.in-addr.arpa.         NS        dnsinfo1-mtp.3g.vodacom.co.za.
+250.105.in-addr.arpa.         NS        dnsinfo1-psi.3g.vodacom.co.za.
+250.105.in-addr.arpa.         NS        dnsinfo1-cte.3g.vodacom.co.za.
+
+; Source AFRINIC
+251.105.in-addr.arpa.         NS        dnsinfo1-psi.3g.vodacom.co.za.
+251.105.in-addr.arpa.         NS        dnsinfo1-mtp.3g.vodacom.co.za.
+251.105.in-addr.arpa.         NS        dnsinfo1-cte.3g.vodacom.co.za.
+
+; Source AFRINIC
+255.105.in-addr.arpa.         NS        ns1.vodacombusiness.co.za.
+255.105.in-addr.arpa.         NS        ns2.vodacombusiness.co.za.
+
+AFRINIC.105.in-addr.arpa.	IN	TXT	"Generated at 2016-04-10 12:23:34Z with 987 NS records from AFRINIC."
+AFRINIC.105.in-addr.arpa.	IN	TXT	"Generated at 2016-04-10 12:23:34Z with 0 DS records from AFRINIC."

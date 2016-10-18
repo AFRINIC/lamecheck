@@ -1,0 +1,46 @@
+$TTL 172800
+$ORIGIN .
+
+
+; Source AFRINIC
+36.84.in-addr.arpa.         NS        ns2.egynet.com.eg.
+36.84.in-addr.arpa.         NS        ns22.egynet.com.eg.
+
+; Source AFRINIC
+96.205.84.in-addr.arpa.         NS        ns1.star-communications.net.
+96.205.84.in-addr.arpa.         NS        ns2.star-communications.net.
+
+; Source AFRINIC
+97.205.84.in-addr.arpa.         NS        ns1.star-communications.net.
+97.205.84.in-addr.arpa.         NS        ns2.star-communications.net.
+
+; Source AFRINIC
+98.205.84.in-addr.arpa.         NS        ns1.star-communications.net.
+98.205.84.in-addr.arpa.         NS        ns2.star-communications.net.
+
+; Source AFRINIC
+99.205.84.in-addr.arpa.         NS        ns1.star-communications.net.
+99.205.84.in-addr.arpa.         NS        ns2.star-communications.net.
+
+; Source AFRINIC
+100.205.84.in-addr.arpa.         NS        ns1.star-communications.net.
+100.205.84.in-addr.arpa.         NS        ns2.star-communications.net.
+
+; Source AFRINIC
+101.205.84.in-addr.arpa.         NS        ns1.star-communications.net.
+101.205.84.in-addr.arpa.         NS        ns2.star-communications.net.
+
+; Source AFRINIC
+102.205.84.in-addr.arpa.         NS        ns1.star-communications.net.
+102.205.84.in-addr.arpa.         NS        ns2.star-communications.net.
+
+; Source AFRINIC
+103.205.84.in-addr.arpa.         NS        ns1.star-communications.net.
+103.205.84.in-addr.arpa.         NS        ns2.star-communications.net.
+
+; Source AFRINIC
+104.205.84.in-addr.arpa.         NS        ns1.star-communications.net.
+104.205.84.in-addr.arpa.         NS        ns2.star-communications.net.
+
+AFRINIC.84.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:02Z with 20 NS records from AFRINIC."
+AFRINIC.84.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:02Z with 0 DS records from AFRINIC."

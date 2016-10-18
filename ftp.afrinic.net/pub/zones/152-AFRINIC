@@ -1,0 +1,226 @@
+$TTL 172800
+$ORIGIN .
+
+
+; Source AFRINIC
+106.152.in-addr.arpa.         NS        ns1.uj.ac.za.
+106.152.in-addr.arpa.         NS        ns2.uj.ac.za.
+
+; Source AFRINIC
+142.107.152.in-addr.arpa.         NS        demeter.is.co.za.
+142.107.152.in-addr.arpa.         NS        jupiter.is.co.za.
+142.107.152.in-addr.arpa.         NS        titan.is.co.za.
+
+; Source AFRINIC
+143.107.152.in-addr.arpa.         NS        demeter.is.co.za.
+143.107.152.in-addr.arpa.         NS        jupiter.is.co.za.
+143.107.152.in-addr.arpa.         NS        titan.is.co.za.
+
+; Source AFRINIC
+0.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+0.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+1.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+1.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+2.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+2.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+3.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+3.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+4.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+4.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+5.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+5.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+6.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+6.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+7.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+7.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+128.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+128.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+129.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+129.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+130.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+130.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+131.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+131.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+132.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+132.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+133.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+133.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+134.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+134.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+135.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+135.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+224.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+224.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+225.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+225.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+226.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+226.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+227.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+227.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+228.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+228.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+229.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+229.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+230.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+230.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+231.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+231.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+232.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+232.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+233.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+233.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+234.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+234.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+235.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+235.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+236.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+236.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+237.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+237.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+238.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+238.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+239.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+239.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+240.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+240.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+241.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+241.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+242.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+242.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+243.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+243.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+244.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+244.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+245.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+245.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+246.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+246.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+247.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+247.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+248.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+248.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+249.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+249.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+250.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+250.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+251.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+251.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+252.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+252.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+253.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+253.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+254.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+254.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+255.108.152.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+255.108.152.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+110.152.in-addr.arpa.         NS        ddadmin.didata.co.za.
+110.152.in-addr.arpa.         NS        orion.didata.co.za.
+
+; Source AFRINIC
+111.152.in-addr.arpa.         NS        dns01.naspers.com.
+111.152.in-addr.arpa.         NS        dns02.naspers.com.
+
+; Source AFRINIC
+112.152.in-addr.arpa.         NS        ludwig.hsrc.ac.za.
+112.152.in-addr.arpa.         NS        ns.up.ac.za.
+112.152.in-addr.arpa.         NS        hippo.ru.ac.za.
+112.152.in-addr.arpa.         NS        rain.psg.com.
+
+AFRINIC.152.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:03Z with 112 NS records from AFRINIC."
+AFRINIC.152.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:03Z with 0 DS records from AFRINIC."

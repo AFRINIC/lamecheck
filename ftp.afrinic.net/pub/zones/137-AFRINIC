@@ -1,0 +1,119 @@
+$TTL 172800
+$ORIGIN .
+
+
+; Source AFRINIC
+0.63.137.in-addr.arpa.         NS        ns1.afritel.co.
+0.63.137.in-addr.arpa.         NS        ns2.afritel.co.
+
+; Source AFRINIC
+68.63.137.in-addr.arpa.         NS        ns1.afritel.co.
+68.63.137.in-addr.arpa.         NS        ns2.afritel.co.
+
+; Source AFRINIC
+69.63.137.in-addr.arpa.         NS        ns1.afritel.co.
+69.63.137.in-addr.arpa.         NS        ns2.afritel.co.
+
+; Source AFRINIC
+70.63.137.in-addr.arpa.         NS        ns1.afritel.co.
+70.63.137.in-addr.arpa.         NS        ns2.afritel.co.
+
+; Source AFRINIC
+71.63.137.in-addr.arpa.         NS        ns1.afritel.co.
+71.63.137.in-addr.arpa.         NS        ns2.afritel.co.
+
+; Source AFRINIC
+72.63.137.in-addr.arpa.         NS        ns1.afritel.co.
+72.63.137.in-addr.arpa.         NS        ns2.afritel.co.
+
+; Source AFRINIC
+73.63.137.in-addr.arpa.         NS        ns1.afritel.co.
+73.63.137.in-addr.arpa.         NS        ns2.afritel.co.
+
+; Source AFRINIC
+74.63.137.in-addr.arpa.         NS        ns1.afritel.co.
+74.63.137.in-addr.arpa.         NS        ns2.afritel.co.
+
+; Source AFRINIC
+75.63.137.in-addr.arpa.         NS        ns1.afritel.co.
+75.63.137.in-addr.arpa.         NS        ns2.afritel.co.
+
+; Source AFRINIC
+76.63.137.in-addr.arpa.         NS        ns1.afritel.co.
+76.63.137.in-addr.arpa.         NS        ns2.afritel.co.
+
+; Source AFRINIC
+77.63.137.in-addr.arpa.         NS        ns1.afritel.co.
+77.63.137.in-addr.arpa.         NS        ns2.afritel.co.
+
+; Source AFRINIC
+78.63.137.in-addr.arpa.         NS        ns1.afritel.co.
+78.63.137.in-addr.arpa.         NS        ns2.afritel.co.
+
+; Source AFRINIC
+79.63.137.in-addr.arpa.         NS        ns1.afritel.co.
+79.63.137.in-addr.arpa.         NS        ns2.afritel.co.
+
+; Source AFRINIC
+80.63.137.in-addr.arpa.         NS        ns1.afritel.co.
+80.63.137.in-addr.arpa.         NS        ns2.afritel.co.
+
+; Source AFRINIC
+81.63.137.in-addr.arpa.         NS        ns1.afritel.co.
+81.63.137.in-addr.arpa.         NS        ns2.afritel.co.
+
+; Source AFRINIC
+82.63.137.in-addr.arpa.         NS        ns1.afritel.co.
+82.63.137.in-addr.arpa.         NS        ns2.afritel.co.
+
+; Source AFRINIC
+83.63.137.in-addr.arpa.         NS        ns1.afritel.co.
+83.63.137.in-addr.arpa.         NS        ns2.afritel.co.
+
+; Source AFRINIC
+84.63.137.in-addr.arpa.         NS        ns1.afritel.co.
+84.63.137.in-addr.arpa.         NS        ns2.afritel.co.
+
+; Source AFRINIC
+85.63.137.in-addr.arpa.         NS        ns1.afritel.co.
+85.63.137.in-addr.arpa.         NS        ns2.afritel.co.
+
+; Source AFRINIC
+86.63.137.in-addr.arpa.         NS        ns1.afritel.co.
+86.63.137.in-addr.arpa.         NS        ns2.afritel.co.
+
+; Source AFRINIC
+87.63.137.in-addr.arpa.         NS        ns1.afritel.co.
+87.63.137.in-addr.arpa.         NS        ns2.afritel.co.
+
+; Source AFRINIC
+88.63.137.in-addr.arpa.         NS        ns1.afritel.co.
+88.63.137.in-addr.arpa.         NS        ns2.afritel.co.
+
+; Source AFRINIC
+89.63.137.in-addr.arpa.         NS        ns1.afritel.co.
+89.63.137.in-addr.arpa.         NS        ns2.afritel.co.
+
+; Source AFRINIC
+90.63.137.in-addr.arpa.         NS        ns1.afritel.co.
+90.63.137.in-addr.arpa.         NS        ns2.afritel.co.
+
+; Source AFRINIC
+158.137.in-addr.arpa.         NS        ucthpx.uct.ac.za.
+158.137.in-addr.arpa.         NS        netman.uct.ac.za.
+158.137.in-addr.arpa.         NS        hippo.ru.ac.za.
+158.137.in-addr.arpa.         NS        rain.psg.com.
+
+; Source AFRINIC
+214.137.in-addr.arpa.         NS        apies.frd.ac.za.
+214.137.in-addr.arpa.         NS        hippo.ru.ac.za.
+214.137.in-addr.arpa.         NS        rain.psg.com.
+214.137.in-addr.arpa.         NS        ucthpx.uct.ac.za.
+
+; Source AFRINIC
+215.137.in-addr.arpa.         NS        inet.up.ac.za.
+215.137.in-addr.arpa.         NS        suntiger.ee.up.ac.za.
+215.137.in-addr.arpa.         NS        hippo.ru.ac.za.
+
+AFRINIC.137.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:10Z with 59 NS records from AFRINIC."
+AFRINIC.137.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:10Z with 0 DS records from AFRINIC."

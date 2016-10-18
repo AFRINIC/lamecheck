@@ -1,0 +1,1489 @@
+$TTL 172800
+$ORIGIN .
+
+
+; Source AFRINIC
+64.55.213.in-addr.arpa.         NS        dove.telecom.net.et.
+64.55.213.in-addr.arpa.         NS        ns.telecom.net.et.
+64.55.213.in-addr.arpa.         NS        sparrow.telecom.net.et.
+
+; Source AFRINIC
+72.55.213.in-addr.arpa.         NS        ns1.telecom.net.et.
+72.55.213.in-addr.arpa.         NS        ns2.telecom.net.et.
+
+; Source AFRINIC
+73.55.213.in-addr.arpa.         NS        ns1.telecom.net.et.
+73.55.213.in-addr.arpa.         NS        ns2.telecom.net.et.
+
+; Source AFRINIC
+76.55.213.in-addr.arpa.         NS        ns1.telecom.net.et.
+76.55.213.in-addr.arpa.         NS        ns2.telecom.net.et.
+
+; Source AFRINIC
+77.55.213.in-addr.arpa.         NS        ns1.telecom.net.et.
+77.55.213.in-addr.arpa.         NS        ns2.telecom.net.et.
+
+; Source AFRINIC
+79.55.213.in-addr.arpa.         NS        ns1.telecom.net.et.
+79.55.213.in-addr.arpa.         NS        ns2.telecom.net.et.
+
+; Source AFRINIC
+81.55.213.in-addr.arpa.         NS        ns1.telecom.net.et.
+81.55.213.in-addr.arpa.         NS        ns2.telecom.net.et.
+
+; Source AFRINIC
+83.55.213.in-addr.arpa.         NS        ns1.telecom.net.et.
+83.55.213.in-addr.arpa.         NS        ns2.telecom.net.et.
+
+; Source AFRINIC
+84.55.213.in-addr.arpa.         NS        ns1.telecom.net.et.
+84.55.213.in-addr.arpa.         NS        ns2.telecom.net.et.
+
+; Source AFRINIC
+85.55.213.in-addr.arpa.         NS        ns1.telecom.net.et.
+85.55.213.in-addr.arpa.         NS        ns2.telecom.net.et.
+
+; Source AFRINIC
+89.55.213.in-addr.arpa.         NS        ns1.telecom.net.et.
+89.55.213.in-addr.arpa.         NS        ns2.telecom.net.et.
+
+; Source AFRINIC
+90.55.213.in-addr.arpa.         NS        ns1.telecom.net.et.
+90.55.213.in-addr.arpa.         NS        ns2.telecom.net.et.
+
+; Source AFRINIC
+92.55.213.in-addr.arpa.         NS        ns1.telecom.net.et.
+92.55.213.in-addr.arpa.         NS        ns2.telecom.net.et.
+
+; Source AFRINIC
+93.55.213.in-addr.arpa.         NS        ns1.telecom.net.et.
+93.55.213.in-addr.arpa.         NS        ns2.telecom.net.et.
+
+; Source AFRINIC
+94.55.213.in-addr.arpa.         NS        ns1.telecom.net.et.
+94.55.213.in-addr.arpa.         NS        ns2.telecom.net.et.
+
+; Source AFRINIC
+95.55.213.in-addr.arpa.         NS        ns1.aau.edu.et.
+95.55.213.in-addr.arpa.         NS        ns2.aau.edu.et.
+
+; Source AFRINIC
+96.55.213.in-addr.arpa.         NS        ns1.telecom.net.et.
+96.55.213.in-addr.arpa.         NS        ns2.telecom.net.et.
+
+; Source AFRINIC
+97.55.213.in-addr.arpa.         NS        ns1.telecom.net.et.
+97.55.213.in-addr.arpa.         NS        ns2.telecom.net.et.
+
+; Source AFRINIC
+98.55.213.in-addr.arpa.         NS        ns1.telecom.net.et.
+98.55.213.in-addr.arpa.         NS        ns2.telecom.net.et.
+
+; Source AFRINIC
+100.55.213.in-addr.arpa.         NS        ns1.telecom.net.et.
+100.55.213.in-addr.arpa.         NS        ns2.telecom.net.et.
+
+; Source AFRINIC
+101.55.213.in-addr.arpa.         NS        ns1.telecom.net.et.
+101.55.213.in-addr.arpa.         NS        ns2.telecom.net.et.
+
+; Source AFRINIC
+102.55.213.in-addr.arpa.         NS        ns1.telecom.net.et.
+102.55.213.in-addr.arpa.         NS        ns2.telecom.net.et.
+
+; Source AFRINIC
+103.55.213.in-addr.arpa.         NS        ns1.telecom.net.et.
+103.55.213.in-addr.arpa.         NS        ns2.telecom.net.et.
+
+; Source AFRINIC
+64.131.213.in-addr.arpa.         NS        ns1.link.net.
+64.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+65.131.213.in-addr.arpa.         NS        ns1.link.net.
+65.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+66.131.213.in-addr.arpa.         NS        ns1.link.net.
+66.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+67.131.213.in-addr.arpa.         NS        ns1.link.net.
+67.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+68.131.213.in-addr.arpa.         NS        ns1.link.net.
+68.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+69.131.213.in-addr.arpa.         NS        ns1.link.net.
+69.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+70.131.213.in-addr.arpa.         NS        ns1.link.net.
+70.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+71.131.213.in-addr.arpa.         NS        ns1.link.net.
+71.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+72.131.213.in-addr.arpa.         NS        ns1.link.net.
+72.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+73.131.213.in-addr.arpa.         NS        ns1.link.net.
+73.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+74.131.213.in-addr.arpa.         NS        ns1.link.net.
+74.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+75.131.213.in-addr.arpa.         NS        ns1.link.net.
+75.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+76.131.213.in-addr.arpa.         NS        ns1.link.net.
+76.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+77.131.213.in-addr.arpa.         NS        ns1.link.net.
+77.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+78.131.213.in-addr.arpa.         NS        ns1.link.net.
+78.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+79.131.213.in-addr.arpa.         NS        ns1.link.net.
+79.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+80.131.213.in-addr.arpa.         NS        ns1.link.net.
+80.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+81.131.213.in-addr.arpa.         NS        ns1.link.net.
+81.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+82.131.213.in-addr.arpa.         NS        ns1.link.net.
+82.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+83.131.213.in-addr.arpa.         NS        ns1.link.net.
+83.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+84.131.213.in-addr.arpa.         NS        ns1.link.net.
+84.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+85.131.213.in-addr.arpa.         NS        ns1.link.net.
+85.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+86.131.213.in-addr.arpa.         NS        ns1.link.net.
+86.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+87.131.213.in-addr.arpa.         NS        ns1.link.net.
+87.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+88.131.213.in-addr.arpa.         NS        ns1.link.net.
+88.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+89.131.213.in-addr.arpa.         NS        ns1.link.net.
+89.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+90.131.213.in-addr.arpa.         NS        ns1.link.net.
+90.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+91.131.213.in-addr.arpa.         NS        ns1.link.net.
+91.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+92.131.213.in-addr.arpa.         NS        ns1.link.net.
+92.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+93.131.213.in-addr.arpa.         NS        ns1.link.net.
+93.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+94.131.213.in-addr.arpa.         NS        ns1.link.net.
+94.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+95.131.213.in-addr.arpa.         NS        ns1.link.net.
+95.131.213.in-addr.arpa.         NS        ns2.link.net.
+
+; Source AFRINIC
+96.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+96.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+
+; Source AFRINIC
+97.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+97.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+
+; Source AFRINIC
+98.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+98.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+
+; Source AFRINIC
+99.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+99.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+
+; Source AFRINIC
+100.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+100.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+
+; Source AFRINIC
+101.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+101.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+
+; Source AFRINIC
+102.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+102.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+
+; Source AFRINIC
+103.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+103.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+
+; Source AFRINIC
+104.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+104.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+
+; Source AFRINIC
+105.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+105.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+
+; Source AFRINIC
+106.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+106.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+
+; Source AFRINIC
+107.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+107.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+
+; Source AFRINIC
+108.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+108.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+
+; Source AFRINIC
+109.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+109.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+
+; Source AFRINIC
+110.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+110.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+
+; Source AFRINIC
+111.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+111.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+
+; Source AFRINIC
+112.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+112.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+
+; Source AFRINIC
+113.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+113.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+
+; Source AFRINIC
+114.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+114.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+
+; Source AFRINIC
+115.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+115.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+
+; Source AFRINIC
+116.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+116.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+
+; Source AFRINIC
+117.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+117.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+
+; Source AFRINIC
+118.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+118.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+
+; Source AFRINIC
+119.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+119.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+
+; Source AFRINIC
+120.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+120.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+
+; Source AFRINIC
+121.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+121.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+
+; Source AFRINIC
+122.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+122.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+
+; Source AFRINIC
+123.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+123.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+
+; Source AFRINIC
+124.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+124.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+
+; Source AFRINIC
+125.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+125.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+
+; Source AFRINIC
+126.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+126.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+
+; Source AFRINIC
+127.136.213.in-addr.arpa.         NS        yakro.aviso.ci.
+127.136.213.in-addr.arpa.         NS        abidjan.aviso.ci.
+
+; Source AFRINIC
+64.147.213.in-addr.arpa.         NS        ns.nbnet.co.ke.
+64.147.213.in-addr.arpa.         NS        mars.nbnet.co.ke.
+
+; Source AFRINIC
+65.147.213.in-addr.arpa.         NS        ns.nbnet.co.ke.
+65.147.213.in-addr.arpa.         NS        mars.nbnet.co.ke.
+
+; Source AFRINIC
+66.147.213.in-addr.arpa.         NS        ns.nbnet.co.ke.
+66.147.213.in-addr.arpa.         NS        mars.nbnet.co.ke.
+
+; Source AFRINIC
+67.147.213.in-addr.arpa.         NS        ns.nbnet.co.ke.
+67.147.213.in-addr.arpa.         NS        mars.nbnet.co.ke.
+
+; Source AFRINIC
+68.147.213.in-addr.arpa.         NS        ns.nbnet.co.ke.
+68.147.213.in-addr.arpa.         NS        mars.nbnet.co.ke.
+
+; Source AFRINIC
+69.147.213.in-addr.arpa.         NS        ns.nbnet.co.ke.
+69.147.213.in-addr.arpa.         NS        mars.nbnet.co.ke.
+
+; Source AFRINIC
+70.147.213.in-addr.arpa.         NS        ns.nbnet.co.ke.
+70.147.213.in-addr.arpa.         NS        mars.nbnet.co.ke.
+
+; Source AFRINIC
+96.150.213.in-addr.arpa.         NS        linux.form-net.com.
+96.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+96.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+97.150.213.in-addr.arpa.         NS        linux.form-net.com.
+97.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+97.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+98.150.213.in-addr.arpa.         NS        linux.form-net.com.
+98.150.213.in-addr.arpa.         NS        linux.form-net.com.
+98.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+99.150.213.in-addr.arpa.         NS        linux.form-net.com.
+99.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+99.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+
+; Source AFRINIC
+100.150.213.in-addr.arpa.         NS        linux.form-net.com.
+100.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+100.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+101.150.213.in-addr.arpa.         NS        linux.form-net.com.
+101.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+101.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+102.150.213.in-addr.arpa.         NS        linux.form-net.com.
+102.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+102.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+103.150.213.in-addr.arpa.         NS        linux.form-net.com.
+103.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+103.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+104.150.213.in-addr.arpa.         NS        linux.form-net.com.
+104.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+104.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+105.150.213.in-addr.arpa.         NS        linux.form-net.com.
+105.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+105.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+106.150.213.in-addr.arpa.         NS        linux.form-net.com.
+106.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+106.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+107.150.213.in-addr.arpa.         NS        linux.form-net.com.
+107.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+107.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+108.150.213.in-addr.arpa.         NS        linux.form-net.com.
+108.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+108.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+109.150.213.in-addr.arpa.         NS        linux.form-net.com.
+109.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+109.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+110.150.213.in-addr.arpa.         NS        linux.form-net.com.
+110.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+110.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+111.150.213.in-addr.arpa.         NS        linux.form-net.com.
+111.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+111.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+112.150.213.in-addr.arpa.         NS        linux.form-net.com.
+112.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+112.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+113.150.213.in-addr.arpa.         NS        linux.form-net.com.
+113.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+113.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+114.150.213.in-addr.arpa.         NS        linux.form-net.com.
+114.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+114.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+115.150.213.in-addr.arpa.         NS        linux.form-net.com.
+115.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+115.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+116.150.213.in-addr.arpa.         NS        linux.form-net.com.
+116.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+116.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+117.150.213.in-addr.arpa.         NS        linux.form-net.com.
+117.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+117.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+118.150.213.in-addr.arpa.         NS        linux.form-net.com.
+118.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+118.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+119.150.213.in-addr.arpa.         NS        linux.form-net.com.
+119.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+119.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+120.150.213.in-addr.arpa.         NS        linux.form-net.com.
+120.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+120.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+121.150.213.in-addr.arpa.         NS        linux.form-net.com.
+121.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+121.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+
+; Source AFRINIC
+122.150.213.in-addr.arpa.         NS        linux.form-net.com.
+122.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+122.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+123.150.213.in-addr.arpa.         NS        linux.form-net.com.
+123.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+123.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+124.150.213.in-addr.arpa.         NS        linux.form-net.com.
+124.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+124.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+125.150.213.in-addr.arpa.         NS        linux.form-net.com.
+125.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+125.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+126.150.213.in-addr.arpa.         NS        linux.form-net.com.
+126.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+126.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+127.150.213.in-addr.arpa.         NS        linux.form-net.com.
+127.150.213.in-addr.arpa.         NS        bwana.kenyaonline.com.
+127.150.213.in-addr.arpa.         NS        puck.nether.net.
+
+; Source AFRINIC
+160.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+160.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+160.150.213.in-addr.arpa.         DS        12091 8 2 0E4371319AC759C76F0474B8DA206B441C14BDA929437A229894C9EA6EF733B8
+
+; Source AFRINIC
+161.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+161.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+161.150.213.in-addr.arpa.         DS        28630 8 2 66C4A2BF2A1C1DF75C0CBF7E86EAECDCBDAFCA47F75B72150055F505AD053DF9
+
+; Source AFRINIC
+162.150.213.in-addr.arpa.         NS        ns1.atlax.com.
+162.150.213.in-addr.arpa.         NS        ns2.atlax.com.
+162.150.213.in-addr.arpa.         NS        ns3.atlax.com.
+
+; Source AFRINIC
+163.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+163.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+163.150.213.in-addr.arpa.         DS        65509 8 2 EE1E93A98CE92FA19AEB77B1C65580677CB71FE7E43997323761B6790E5E9044
+
+; Source AFRINIC
+164.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+164.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+164.150.213.in-addr.arpa.         DS        35776 8 2 4F408AE79C658A8FC6F8024A7EF90EFC29E1FD2B509B044DEF8FD4C36BE415FA
+
+; Source AFRINIC
+165.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+165.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+165.150.213.in-addr.arpa.         DS        47512 8 2 CC5F0164E0517D765AC246E073C44E1D458A2E3A2CD17E634E512220A12413EE
+
+; Source AFRINIC
+166.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+166.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+166.150.213.in-addr.arpa.         DS        15931 8 2 8668B034C6B9226904DB6304BDA5DB3605894BE64EFFCBB1EDE52AA15F691895
+
+; Source AFRINIC
+167.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+167.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+167.150.213.in-addr.arpa.         DS        5134 8 2 B48C70506BCC04E4E9BC581077092F097A19059450D0EA578E6D81DCC54ACCC1
+
+; Source AFRINIC
+168.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+168.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+168.150.213.in-addr.arpa.         DS        6391 8 2 916DEBF9EB6D816A2CBE3202920E9A30B37254DE45492863E0541F0EDEC9FC28
+
+; Source AFRINIC
+169.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+169.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+169.150.213.in-addr.arpa.         DS        60262 8 2 69B4F2BB949A9FDB477508FF3F596612EF548513F60B19A23C5D9D4960CF3C7C
+
+; Source AFRINIC
+170.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+170.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+170.150.213.in-addr.arpa.         DS        33265 8 2 F013AFD8E9343F43AFC4ED09F676CBA24C080E2B395B07718B6DD53F02CE1D7D
+
+; Source AFRINIC
+171.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+171.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+171.150.213.in-addr.arpa.         DS        32239 8 2 871B072795B362BFDD52661A7A7BCCA321C26B01DDD3170AA4D6F96F5496A36B
+
+; Source AFRINIC
+172.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+172.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+172.150.213.in-addr.arpa.         DS        7534 8 2 AB5DA480C16621699078BE5333D3356F7594F4E4D8DC046D134C08B2B0A08254
+
+; Source AFRINIC
+173.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+173.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+173.150.213.in-addr.arpa.         DS        34414 8 2 2B0DFB523FDCA4633BC5B741451DC2B816E60D430DF8E89B66E59D8D148D5E1D
+
+; Source AFRINIC
+174.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+174.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+174.150.213.in-addr.arpa.         DS        4087 8 2 BCB105AFF45351DBD0E02E893AEC0CE4CDB768609F7C2F8A0AEF681C2A08F1AF
+
+; Source AFRINIC
+175.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+175.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+175.150.213.in-addr.arpa.         DS        64264 8 2 47C26051C38FF0C6364D6DB64FF044AC21F3ABF2690ADC7B3255E5C0DED2F884
+
+; Source AFRINIC
+176.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+176.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+176.150.213.in-addr.arpa.         DS        54406 8 2 4B0E84C15FFD4EDC72029197DFCBCE744FCA9F2DC57CFAD89DA3A93F0F6357D0
+
+; Source AFRINIC
+177.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+177.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+177.150.213.in-addr.arpa.         DS        46087 8 2 F37D0D210B410C707C8DEC6075AB7AB3488CE6E66E239531A947A700A2679810
+
+; Source AFRINIC
+178.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+178.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+178.150.213.in-addr.arpa.         DS        47887 8 2 19A532BC1495483314562909894B680830479185917E7A1E90CFB154F3B0D6C8
+
+; Source AFRINIC
+179.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+179.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+179.150.213.in-addr.arpa.         DS        24199 8 2 602F2456067B1D7A95676F5898D88163CBD27A1D168DEE8FCAC49F4BDA426056
+
+; Source AFRINIC
+180.150.213.in-addr.arpa.         NS        ns1.gnet.tn.
+180.150.213.in-addr.arpa.         NS        ns2.gnet.tn.
+180.150.213.in-addr.arpa.         NS        ns4.gnet.tn.
+180.150.213.in-addr.arpa.         NS        ns5.gnet.tn.
+
+; Source AFRINIC
+181.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+181.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+181.150.213.in-addr.arpa.         DS        34975 8 2 E4289796437894CFA7EF5DF84458D9168A2C3E8490BBB4485DF726693F786ADF
+
+; Source AFRINIC
+182.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+182.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+182.150.213.in-addr.arpa.         DS        55870 8 2 788DB3F06C6370C5C70CBCFAA08BB44CA6576752CEECB40E2ADA23B175D15781
+
+; Source AFRINIC
+183.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+183.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+183.150.213.in-addr.arpa.         DS        12886 8 2 9D7BB182393D51E0390B357635EBD6DD9E558643C3BFD489571E85DC22229F18
+
+; Source AFRINIC
+184.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+184.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+184.150.213.in-addr.arpa.         DS        61360 8 2 1CD9E83700B67DC61721902117E6D44C7FB1F16323CE0DB4134C6B3CFA96018F
+
+; Source AFRINIC
+185.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+185.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+185.150.213.in-addr.arpa.         DS        11299 8 2 EA895BF7B855CB79812F59F25C0F2F29EF45526B2C740F20540AA6B9019FE766
+
+; Source AFRINIC
+186.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+186.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+
+; Source AFRINIC
+187.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+187.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+187.150.213.in-addr.arpa.         DS        57124 8 2 16E63BB1FF02CBDB23AEFB48613AB98C99D730EE8F91E08868189C9E39D7B2DA
+
+; Source AFRINIC
+188.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+188.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+188.150.213.in-addr.arpa.         DS        44929 8 2 CD7CE49AAB21D47505270C5EAFE599E06631C6E6176FD2918B441F5C7A6456CC
+
+; Source AFRINIC
+189.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+189.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+189.150.213.in-addr.arpa.         DS        56491 8 2 D69B6A5F29358E3A23A77AA980D31D6940A3DBF874293FB57A4EC9C2364605AE
+
+; Source AFRINIC
+190.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+190.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+190.150.213.in-addr.arpa.         DS        37135 8 2 F70B06BDD87F6AD003B274F07D7FBC697894C98EC30CE032D2C18FA99C7A3BBB
+
+; Source AFRINIC
+191.150.213.in-addr.arpa.         NS        ns1.ati.tn.
+191.150.213.in-addr.arpa.         NS        ns2.ati.tn.
+191.150.213.in-addr.arpa.         DS        13990 8 2 B71CAA8E46EA50B89AA12E464164FEF6FC2C2ED79F3C0C992C02593EEDBE7ADA
+
+; Source AFRINIC
+194.150.213.in-addr.arpa.         NS        ns1.gov.cv.
+194.150.213.in-addr.arpa.         NS        ns1.gov.cv.
+
+; Source AFRINIC
+200.150.213.in-addr.arpa.         NS        ns1.u-host.co.za.
+200.150.213.in-addr.arpa.         NS        ns2.u-host.co.za.
+
+; Source AFRINIC
+201.150.213.in-addr.arpa.         NS        ns1.u-host.co.za.
+201.150.213.in-addr.arpa.         NS        ns2.u-host.co.za.
+
+; Source AFRINIC
+202.150.213.in-addr.arpa.         NS        ns1.u-host.co.za.
+202.150.213.in-addr.arpa.         NS        ns2.u-host.co.za.
+
+; Source AFRINIC
+203.150.213.in-addr.arpa.         NS        ns1.u-host.co.za.
+203.150.213.in-addr.arpa.         NS        ns2.u-host.co.za.
+
+; Source AFRINIC
+204.150.213.in-addr.arpa.         NS        ns1.u-host.co.za.
+204.150.213.in-addr.arpa.         NS        ns2.u-host.co.za.
+
+; Source AFRINIC
+205.150.213.in-addr.arpa.         NS        ns1.u-host.co.za.
+205.150.213.in-addr.arpa.         NS        ns2.u-host.co.za.
+
+; Source AFRINIC
+206.150.213.in-addr.arpa.         NS        ns1.u-host.co.za.
+206.150.213.in-addr.arpa.         NS        ns2.u-host.co.za.
+
+; Source AFRINIC
+207.150.213.in-addr.arpa.         NS        ns1.u-host.co.za.
+207.150.213.in-addr.arpa.         NS        ns2.u-host.co.za.
+
+; Source AFRINIC
+208.150.213.in-addr.arpa.         NS        pyrostria.sevenc.co.za.
+208.150.213.in-addr.arpa.         NS        acacia.sevenc.co.za.
+
+; Source AFRINIC
+209.150.213.in-addr.arpa.         NS        pyrostria.sevenc.co.za.
+209.150.213.in-addr.arpa.         NS        acacia.sevenc.co.za.
+
+; Source AFRINIC
+210.150.213.in-addr.arpa.         NS        pyrostria.sevenc.co.za.
+210.150.213.in-addr.arpa.         NS        acacia.sevenc.co.za.
+
+; Source AFRINIC
+211.150.213.in-addr.arpa.         NS        pyrostria.sevenc.co.za.
+211.150.213.in-addr.arpa.         NS        acacia.sevenc.co.za.
+
+; Source AFRINIC
+212.150.213.in-addr.arpa.         NS        pyrostria.sevenc.co.za.
+212.150.213.in-addr.arpa.         NS        acacia.sevenc.co.za.
+
+; Source AFRINIC
+213.150.213.in-addr.arpa.         NS        pyrostria.sevenc.co.za.
+213.150.213.in-addr.arpa.         NS        acacia.sevenc.co.za.
+
+; Source AFRINIC
+214.150.213.in-addr.arpa.         NS        pyrostria.sevenc.co.za.
+214.150.213.in-addr.arpa.         NS        acacia.sevenc.co.za.
+
+; Source AFRINIC
+215.150.213.in-addr.arpa.         NS        pyrostria.sevenc.co.za.
+215.150.213.in-addr.arpa.         NS        acacia.sevenc.co.za.
+
+; Source AFRINIC
+216.150.213.in-addr.arpa.         NS        visp.clearaccess.co.za.
+216.150.213.in-addr.arpa.         NS        eya.clearaccess.co.za.
+216.150.213.in-addr.arpa.         NS        unuptanium.clearaccess.co.za.
+216.150.213.in-addr.arpa.         NS        moon.clearaccess.co.za.
+
+; Source AFRINIC
+217.150.213.in-addr.arpa.         NS        visp.clearaccess.co.za.
+217.150.213.in-addr.arpa.         NS        eya.clearaccess.co.za.
+217.150.213.in-addr.arpa.         NS        unuptanium.clearaccess.co.za.
+217.150.213.in-addr.arpa.         NS        moon.clearaccess.co.za.
+
+; Source AFRINIC
+218.150.213.in-addr.arpa.         NS        visp.clearaccess.co.za.
+218.150.213.in-addr.arpa.         NS        eya.clearaccess.co.za.
+218.150.213.in-addr.arpa.         NS        unuptanium.clearaccess.co.za.
+218.150.213.in-addr.arpa.         NS        moon.clearaccess.co.za.
+
+; Source AFRINIC
+219.150.213.in-addr.arpa.         NS        visp.clearaccess.co.za.
+219.150.213.in-addr.arpa.         NS        eya.clearaccess.co.za.
+219.150.213.in-addr.arpa.         NS        unuptanium.clearaccess.co.za.
+219.150.213.in-addr.arpa.         NS        moon.clearaccess.co.za.
+
+; Source AFRINIC
+220.150.213.in-addr.arpa.         NS        visp.clearaccess.co.za.
+220.150.213.in-addr.arpa.         NS        eya.clearaccess.co.za.
+220.150.213.in-addr.arpa.         NS        unuptanium.clearaccess.co.za.
+220.150.213.in-addr.arpa.         NS        moon.clearaccess.co.za.
+
+; Source AFRINIC
+221.150.213.in-addr.arpa.         NS        visp.clearaccess.co.za.
+221.150.213.in-addr.arpa.         NS        eya.clearaccess.co.za.
+221.150.213.in-addr.arpa.         NS        unuptanium.clearaccess.co.za.
+221.150.213.in-addr.arpa.         NS        moon.clearaccess.co.za.
+
+; Source AFRINIC
+222.150.213.in-addr.arpa.         NS        visp.clearaccess.co.za.
+222.150.213.in-addr.arpa.         NS        eya.clearaccess.co.za.
+222.150.213.in-addr.arpa.         NS        unuptanium.clearaccess.co.za.
+222.150.213.in-addr.arpa.         NS        moon.clearaccess.co.za.
+
+; Source AFRINIC
+223.150.213.in-addr.arpa.         NS        visp.clearaccess.co.za.
+223.150.213.in-addr.arpa.         NS        eya.clearaccess.co.za.
+223.150.213.in-addr.arpa.         NS        unuptanium.clearaccess.co.za.
+223.150.213.in-addr.arpa.         NS        moon.clearaccess.co.za.
+
+; Source AFRINIC
+64.152.213.in-addr.arpa.         NS        sc.soficom.com.eg.
+64.152.213.in-addr.arpa.         NS        aaa.soficom.net.
+
+; Source AFRINIC
+65.152.213.in-addr.arpa.         NS        sc.soficom.com.eg.
+65.152.213.in-addr.arpa.         NS        aaa.soficom.net.
+
+; Source AFRINIC
+66.152.213.in-addr.arpa.         NS        sc.soficom.com.eg.
+66.152.213.in-addr.arpa.         NS        aaa.soficom.net.
+
+; Source AFRINIC
+67.152.213.in-addr.arpa.         NS        sc.soficom.com.eg.
+67.152.213.in-addr.arpa.         NS        aaa.soficom.net.
+
+; Source AFRINIC
+68.152.213.in-addr.arpa.         NS        sc.soficom.com.eg.
+68.152.213.in-addr.arpa.         NS        aaa.soficom.net.
+
+; Source AFRINIC
+69.152.213.in-addr.arpa.         NS        sc.soficom.com.eg.
+69.152.213.in-addr.arpa.         NS        aaa.soficom.net.
+
+; Source AFRINIC
+70.152.213.in-addr.arpa.         NS        aaa.soficom.net.
+70.152.213.in-addr.arpa.         NS        sc.soficom.com.eg.
+
+; Source AFRINIC
+72.152.213.in-addr.arpa.         NS        sc.soficom.com.eg.
+72.152.213.in-addr.arpa.         NS        aaa.soficom.net.
+
+; Source AFRINIC
+73.152.213.in-addr.arpa.         NS        sc.soficom.com.eg.
+73.152.213.in-addr.arpa.         NS        aaa.soficom.net.
+
+; Source AFRINIC
+74.152.213.in-addr.arpa.         NS        sc.soficom.com.eg.
+74.152.213.in-addr.arpa.         NS        aaa.soficom.net.
+
+; Source AFRINIC
+75.152.213.in-addr.arpa.         NS        aaa.soficom.net.
+75.152.213.in-addr.arpa.         NS        sc.soficom.com.eg.
+
+; Source AFRINIC
+78.152.213.in-addr.arpa.         NS        sc.soficom.com.eg.
+78.152.213.in-addr.arpa.         NS        aaa.soficom.net.
+
+; Source AFRINIC
+80.152.213.in-addr.arpa.         NS        aaa.soficom.net.
+80.152.213.in-addr.arpa.         NS        sc.soficom.com.eg.
+
+; Source AFRINIC
+82.152.213.in-addr.arpa.         NS        aaa.soficom.net.
+82.152.213.in-addr.arpa.         NS        sc.soficom.com.eg.
+
+; Source AFRINIC
+83.152.213.in-addr.arpa.         NS        aaa.soficom.net.
+83.152.213.in-addr.arpa.         NS        sc.soficom.com.eg.
+
+; Source AFRINIC
+84.152.213.in-addr.arpa.         NS        aaa.soficom.net.
+84.152.213.in-addr.arpa.         NS        sc.soficom.com.eg.
+
+; Source AFRINIC
+85.152.213.in-addr.arpa.         NS        ns1.nile-online.net.
+85.152.213.in-addr.arpa.         NS        ns2.nile-online.net.
+85.152.213.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+86.152.213.in-addr.arpa.         NS        aaa.soficom.net.
+86.152.213.in-addr.arpa.         NS        sc.soficom.com.eg.
+
+; Source AFRINIC
+88.152.213.in-addr.arpa.         NS        sc.soficom.com.eg.
+88.152.213.in-addr.arpa.         NS        aaa.soficom.net.
+
+; Source AFRINIC
+92.152.213.in-addr.arpa.         NS        sc.soficom.com.eg.
+92.152.213.in-addr.arpa.         NS        aaa.soficom.net.
+
+; Source AFRINIC
+94.152.213.in-addr.arpa.         NS        aaa.soficom.net.
+94.152.213.in-addr.arpa.         NS        sc.soficom.com.eg.
+
+; Source AFRINIC
+95.152.213.in-addr.arpa.         NS        sc.soficom.com.eg.
+95.152.213.in-addr.arpa.         NS        aaa.soficom.net.
+
+; Source AFRINIC
+32.154.213.in-addr.arpa.         NS        brainy1.ie-eg.com.
+32.154.213.in-addr.arpa.         NS        brainy2.ie-eg.com.
+
+; Source AFRINIC
+33.154.213.in-addr.arpa.         NS        brainy1.ie-eg.com.
+33.154.213.in-addr.arpa.         NS        brainy2.ie-eg.com.
+
+; Source AFRINIC
+39.154.213.in-addr.arpa.         NS        dns1.ie-eg.com.
+39.154.213.in-addr.arpa.         NS        dns2.ie-eg.com.
+
+; Source AFRINIC
+40.154.213.in-addr.arpa.         NS        brainy1.ie-eg.com.
+40.154.213.in-addr.arpa.         NS        brainy2.ie-eg.com.
+
+; Source AFRINIC
+45.154.213.in-addr.arpa.         NS        dns1.ie-eg.com.
+45.154.213.in-addr.arpa.         NS        dns2.ie-eg.com.
+
+; Source AFRINIC
+48.154.213.in-addr.arpa.         NS        brainy1.ie-eg.com.
+48.154.213.in-addr.arpa.         NS        brainy2.ie-eg.com.
+
+; Source AFRINIC
+55.154.213.in-addr.arpa.         NS        ns1.eccsolutions.net.
+55.154.213.in-addr.arpa.         NS        ns2.eccsolutions.net.
+
+; Source AFRINIC
+64.154.213.in-addr.arpa.         NS        ns.sonatel.sn.
+64.154.213.in-addr.arpa.         NS        ns2.sonatel.sn.
+
+; Source AFRINIC
+65.154.213.in-addr.arpa.         NS        ns.sonatel.sn.
+65.154.213.in-addr.arpa.         NS        ns2.sonatel.sn.
+
+; Source AFRINIC
+70.154.213.in-addr.arpa.         NS        ns.sonatel.sn.
+70.154.213.in-addr.arpa.         NS        ns2.sonatel.sn.
+
+; Source AFRINIC
+71.154.213.in-addr.arpa.         NS        ns.sonatel.sn.
+71.154.213.in-addr.arpa.         NS        ns2.sonatel.sn.
+
+; Source AFRINIC
+72.154.213.in-addr.arpa.         NS        ns.sonatel.sn.
+72.154.213.in-addr.arpa.         NS        ns2.sonatel.sn.
+
+; Source AFRINIC
+73.154.213.in-addr.arpa.         NS        ns.sonatel.sn.
+73.154.213.in-addr.arpa.         NS        ns2.sonatel.sn.
+
+; Source AFRINIC
+74.154.213.in-addr.arpa.         NS        ns.sonatel.sn.
+74.154.213.in-addr.arpa.         NS        ns2.sonatel.sn.
+
+; Source AFRINIC
+75.154.213.in-addr.arpa.         NS        ns.sonatel.sn.
+75.154.213.in-addr.arpa.         NS        ns2.sonatel.sn.
+
+; Source AFRINIC
+76.154.213.in-addr.arpa.         NS        ns.sonatel.sn.
+76.154.213.in-addr.arpa.         NS        ns2.sonatel.sn.
+
+; Source AFRINIC
+77.154.213.in-addr.arpa.         NS        ns.sentoo.sn.
+77.154.213.in-addr.arpa.         NS        ns2.sentoo.sn.
+
+; Source AFRINIC
+78.154.213.in-addr.arpa.         NS        ns.sonatel.sn.
+78.154.213.in-addr.arpa.         NS        ns2.sonatel.sn.
+
+; Source AFRINIC
+79.154.213.in-addr.arpa.         NS        ns.sonatel.sn.
+79.154.213.in-addr.arpa.         NS        ns2.sonatel.sn.
+
+; Source AFRINIC
+80.154.213.in-addr.arpa.         NS        ns.sonatel.sn.
+80.154.213.in-addr.arpa.         NS        ns2.sonatel.sn.
+
+; Source AFRINIC
+81.154.213.in-addr.arpa.         NS        ns.sonatel.sn.
+81.154.213.in-addr.arpa.         NS        ns2.sonatel.sn.
+
+; Source AFRINIC
+82.154.213.in-addr.arpa.         NS        ns.sonatel.sn.
+82.154.213.in-addr.arpa.         NS        ns2.sonatel.sn.
+
+; Source AFRINIC
+83.154.213.in-addr.arpa.         NS        ns.sonatel.sn.
+83.154.213.in-addr.arpa.         NS        ns2.sonatel.sn.
+
+; Source AFRINIC
+85.154.213.in-addr.arpa.         NS        ns.sonatel.sn.
+85.154.213.in-addr.arpa.         NS        ns2.sonatel.sn.
+
+; Source AFRINIC
+86.154.213.in-addr.arpa.         NS        ns.sonatel.sn.
+86.154.213.in-addr.arpa.         NS        ns2.sonatel.sn.
+
+; Source AFRINIC
+89.154.213.in-addr.arpa.         NS        ns.sonatel.sn.
+89.154.213.in-addr.arpa.         NS        ns2.sonatel.sn.
+
+; Source AFRINIC
+95.154.213.in-addr.arpa.         NS        ns.sonatel.sn.
+95.154.213.in-addr.arpa.         NS        ns2.sonatel.sn.
+
+; Source AFRINIC
+160.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+160.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+161.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+161.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+162.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+162.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+163.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+163.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+164.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+164.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+165.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+165.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+166.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+166.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+167.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+167.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+168.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+168.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+169.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+169.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+170.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+170.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+171.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+171.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+172.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+172.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+173.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+173.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+174.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+174.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+175.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+175.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+176.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+176.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+177.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+177.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+178.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+178.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+179.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+179.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+180.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+180.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+181.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+181.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+182.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+182.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+183.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+183.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+184.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+184.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+185.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+185.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+186.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+186.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+187.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+187.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+188.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+188.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+189.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+189.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+190.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+190.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+191.158.213.in-addr.arpa.         NS        ns1.tedata.net.
+191.158.213.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+132.172.213.in-addr.arpa.         NS        dns2.gh.com.
+132.172.213.in-addr.arpa.         NS        austin.gh.com.
+132.172.213.in-addr.arpa.         NS        mantse.gh.com.
+
+; Source AFRINIC
+160.179.213.in-addr.arpa.         NS        ns1.nic.dz.
+160.179.213.in-addr.arpa.         NS        ns2.nic.dz.
+160.179.213.in-addr.arpa.         NS        ns3.nic.fr.
+160.179.213.in-addr.arpa.         NS        ns-dz.ripe.net.
+
+; Source AFRINIC
+170.179.213.in-addr.arpa.         NS        ns1.nic.dz.
+170.179.213.in-addr.arpa.         NS        ns2.nic.dz.
+170.179.213.in-addr.arpa.         NS        ns3.nic.fr.
+170.179.213.in-addr.arpa.         NS        ns-dz.ripe.net.
+
+; Source AFRINIC
+181.179.213.in-addr.arpa.         NS        ns1.nic.dz.
+181.179.213.in-addr.arpa.         NS        ns2.nic.dz.
+181.179.213.in-addr.arpa.         NS        ns3.nic.fr.
+181.179.213.in-addr.arpa.         NS        ns-dz.ripe.net.
+
+; Source AFRINIC
+224.181.213.in-addr.arpa.         NS        aucns1.aucegypt.edu.
+224.181.213.in-addr.arpa.         NS        aucns2.aucegypt.edu.
+224.181.213.in-addr.arpa.         NS        ns.aucegypt.edu.
+
+; Source AFRINIC
+225.181.213.in-addr.arpa.         NS        aucns1.aucegypt.edu.
+225.181.213.in-addr.arpa.         NS        aucns2.aucegypt.edu.
+225.181.213.in-addr.arpa.         NS        ns.aucegypt.edu.
+
+; Source AFRINIC
+226.181.213.in-addr.arpa.         NS        aucns1.aucegypt.edu.
+226.181.213.in-addr.arpa.         NS        aucns2.aucegypt.edu.
+226.181.213.in-addr.arpa.         NS        ns.aucegypt.edu.
+
+; Source AFRINIC
+227.181.213.in-addr.arpa.         NS        aucns1.aucegypt.edu.
+227.181.213.in-addr.arpa.         NS        aucns2.aucegypt.edu.
+227.181.213.in-addr.arpa.         NS        ns.aucegypt.edu.
+
+; Source AFRINIC
+228.181.213.in-addr.arpa.         NS        aucns1.aucegypt.edu.
+228.181.213.in-addr.arpa.         NS        aucns2.aucegypt.edu.
+228.181.213.in-addr.arpa.         NS        ns.aucegypt.edu.
+
+; Source AFRINIC
+229.181.213.in-addr.arpa.         NS        aucns1.aucegypt.edu.
+229.181.213.in-addr.arpa.         NS        aucns2.aucegypt.edu.
+229.181.213.in-addr.arpa.         NS        ns.aucegypt.edu.
+
+; Source AFRINIC
+230.181.213.in-addr.arpa.         NS        aucns1.aucegypt.edu.
+230.181.213.in-addr.arpa.         NS        aucns2.aucegypt.edu.
+230.181.213.in-addr.arpa.         NS        ns.aucegypt.edu.
+
+; Source AFRINIC
+231.181.213.in-addr.arpa.         NS        aucns1.aucegypt.edu.
+231.181.213.in-addr.arpa.         NS        aucns2.aucegypt.edu.
+231.181.213.in-addr.arpa.         NS        ns.aucegypt.edu.
+
+; Source AFRINIC
+232.181.213.in-addr.arpa.         NS        aucns1.aucegypt.edu.
+232.181.213.in-addr.arpa.         NS        aucns2.aucegypt.edu.
+232.181.213.in-addr.arpa.         NS        ns.aucegypt.edu.
+
+; Source AFRINIC
+233.181.213.in-addr.arpa.         NS        aucns1.aucegypt.edu.
+233.181.213.in-addr.arpa.         NS        aucns2.aucegypt.edu.
+233.181.213.in-addr.arpa.         NS        ns.aucegypt.edu.
+
+; Source AFRINIC
+234.181.213.in-addr.arpa.         NS        aucns1.aucegypt.edu.
+234.181.213.in-addr.arpa.         NS        aucns2.aucegypt.edu.
+234.181.213.in-addr.arpa.         NS        ns.aucegypt.edu.
+
+; Source AFRINIC
+235.181.213.in-addr.arpa.         NS        aucns1.aucegypt.edu.
+235.181.213.in-addr.arpa.         NS        aucns2.aucegypt.edu.
+235.181.213.in-addr.arpa.         NS        ns.aucegypt.edu.
+
+; Source AFRINIC
+236.181.213.in-addr.arpa.         NS        aucns1.aucegypt.edu.
+236.181.213.in-addr.arpa.         NS        aucns2.aucegypt.edu.
+236.181.213.in-addr.arpa.         NS        ns.aucegypt.edu.
+
+; Source AFRINIC
+237.181.213.in-addr.arpa.         NS        aucns1.aucegypt.edu.
+237.181.213.in-addr.arpa.         NS        aucns2.aucegypt.edu.
+237.181.213.in-addr.arpa.         NS        ns.aucegypt.edu.
+
+; Source AFRINIC
+238.181.213.in-addr.arpa.         NS        aucns1.aucegypt.edu.
+238.181.213.in-addr.arpa.         NS        aucns2.aucegypt.edu.
+238.181.213.in-addr.arpa.         NS        ns.aucegypt.edu.
+
+; Source AFRINIC
+239.181.213.in-addr.arpa.         NS        aucns1.aucegypt.edu.
+239.181.213.in-addr.arpa.         NS        aucns2.aucegypt.edu.
+239.181.213.in-addr.arpa.         NS        ns.aucegypt.edu.
+
+; Source AFRINIC
+240.181.213.in-addr.arpa.         NS        aucns1.aucegypt.edu.
+240.181.213.in-addr.arpa.         NS        aucns2.aucegypt.edu.
+240.181.213.in-addr.arpa.         NS        ns.aucegypt.edu.
+
+; Source AFRINIC
+241.181.213.in-addr.arpa.         NS        aucns1.aucegypt.edu.
+241.181.213.in-addr.arpa.         NS        aucns2.aucegypt.edu.
+241.181.213.in-addr.arpa.         NS        ns.aucegypt.edu.
+
+; Source AFRINIC
+242.181.213.in-addr.arpa.         NS        aucns1.aucegypt.edu.
+242.181.213.in-addr.arpa.         NS        aucns2.aucegypt.edu.
+242.181.213.in-addr.arpa.         NS        ns.aucegypt.edu.
+
+; Source AFRINIC
+243.181.213.in-addr.arpa.         NS        aucns1.aucegypt.edu.
+243.181.213.in-addr.arpa.         NS        aucns2.aucegypt.edu.
+243.181.213.in-addr.arpa.         NS        ns.aucegypt.edu.
+
+; Source AFRINIC
+244.181.213.in-addr.arpa.         NS        aucns1.aucegypt.edu.
+244.181.213.in-addr.arpa.         NS        aucns2.aucegypt.edu.
+244.181.213.in-addr.arpa.         NS        ns.aucegypt.edu.
+
+; Source AFRINIC
+245.181.213.in-addr.arpa.         NS        aucns1.aucegypt.edu.
+245.181.213.in-addr.arpa.         NS        aucns2.aucegypt.edu.
+245.181.213.in-addr.arpa.         NS        ns.aucegypt.edu.
+
+; Source AFRINIC
+32.193.213.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+32.193.213.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+
+; Source AFRINIC
+33.193.213.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+33.193.213.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+
+; Source AFRINIC
+34.193.213.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+34.193.213.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+
+; Source AFRINIC
+35.193.213.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+35.193.213.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+
+; Source AFRINIC
+36.193.213.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+36.193.213.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+
+; Source AFRINIC
+37.193.213.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+37.193.213.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+
+; Source AFRINIC
+38.193.213.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+38.193.213.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+
+; Source AFRINIC
+39.193.213.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+39.193.213.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+
+; Source AFRINIC
+40.193.213.in-addr.arpa.         NS        ns1.iafrica.com.
+40.193.213.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+41.193.213.in-addr.arpa.         NS        ns1.iafrica.com.
+41.193.213.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+42.193.213.in-addr.arpa.         NS        ns1.iafrica.com.
+42.193.213.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+43.193.213.in-addr.arpa.         NS        ns1.iafrica.com.
+43.193.213.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+44.193.213.in-addr.arpa.         NS        ns1.iafrica.com.
+44.193.213.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+45.193.213.in-addr.arpa.         NS        ns1.iafrica.com.
+45.193.213.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+46.193.213.in-addr.arpa.         NS        ns1.iafrica.com.
+46.193.213.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+47.193.213.in-addr.arpa.         NS        ns1.iafrica.com.
+47.193.213.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+48.193.213.in-addr.arpa.         NS        ns1.iafrica.com.
+48.193.213.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+49.193.213.in-addr.arpa.         NS        ns1.iafrica.com.
+49.193.213.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+50.193.213.in-addr.arpa.         NS        ns1.iafrica.com.
+50.193.213.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+51.193.213.in-addr.arpa.         NS        ns1.iafrica.com.
+51.193.213.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+52.193.213.in-addr.arpa.         NS        ns1.iafrica.com.
+52.193.213.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+61.193.213.in-addr.arpa.         NS        ns1.iafrica.com.
+61.193.213.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+62.193.213.in-addr.arpa.         NS        ns1.iafrica.com.
+62.193.213.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+63.193.213.in-addr.arpa.         NS        ns1.iafrica.com.
+63.193.213.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+192.212.213.in-addr.arpa.         NS        ns1.vfe-hosting.net.
+192.212.213.in-addr.arpa.         NS        ns2.vfe-hosting.com.
+
+; Source AFRINIC
+196.212.213.in-addr.arpa.         NS        ns1.vfe-hosting.net.
+196.212.213.in-addr.arpa.         NS        ns2.vfe-hosting.com.
+
+; Source AFRINIC
+199.212.213.in-addr.arpa.         NS        ns.access.com.eg.
+199.212.213.in-addr.arpa.         NS        ns1.vfe-hosting.net.
+199.212.213.in-addr.arpa.         NS        ns2.vfe-hosting.com.
+
+; Source AFRINIC
+200.212.213.in-addr.arpa.         NS        ns1.vfe-hosting.net.
+200.212.213.in-addr.arpa.         NS        ns2.vfe-hosting.com.
+200.212.213.in-addr.arpa.         NS        ns.access.com.eg.
+
+; Source AFRINIC
+201.212.213.in-addr.arpa.         NS        ns.access.com.eg.
+201.212.213.in-addr.arpa.         NS        ns1.vfe-hosting.net.
+201.212.213.in-addr.arpa.         NS        ns2.vfe-hosting.com.
+
+; Source AFRINIC
+202.212.213.in-addr.arpa.         NS        ns1.vfe-hosting.net.
+202.212.213.in-addr.arpa.         NS        ns2.vfe-hosting.com.
+
+; Source AFRINIC
+208.212.213.in-addr.arpa.         NS        ns1.vfe-hosting.net.
+208.212.213.in-addr.arpa.         NS        ns2.vfe-hosting.com.
+
+; Source AFRINIC
+211.212.213.in-addr.arpa.         NS        ns1.vfe-hosting.net.
+211.212.213.in-addr.arpa.         NS        ns2.vfe-hosting.com.
+
+; Source AFRINIC
+212.212.213.in-addr.arpa.         NS        ns1.vfe-hosting.net.
+212.212.213.in-addr.arpa.         NS        ns2.vfe-hosting.com.
+
+; Source AFRINIC
+213.212.213.in-addr.arpa.         NS        ns1.vfe-hosting.net.
+213.212.213.in-addr.arpa.         NS        ns2.vfe-hosting.com.
+
+; Source AFRINIC
+214.212.213.in-addr.arpa.         NS        ns1.vfe-hosting.net.
+214.212.213.in-addr.arpa.         NS        ns2.vfe-hosting.com.
+
+; Source AFRINIC
+215.212.213.in-addr.arpa.         NS        ns1.vfe-hosting.net.
+215.212.213.in-addr.arpa.         NS        ns2.vfe-hosting.com.
+
+; Source AFRINIC
+216.212.213.in-addr.arpa.         NS        ns1.vfe-hosting.net.
+216.212.213.in-addr.arpa.         NS        ns2.vfe-hosting.com.
+
+; Source AFRINIC
+219.212.213.in-addr.arpa.         NS        ns1.vfe-hosting.net.
+219.212.213.in-addr.arpa.         NS        ns2.vfe-hosting.com.
+
+; Source AFRINIC
+234.212.213.in-addr.arpa.         NS        ns1.vfe-hosting.net.
+234.212.213.in-addr.arpa.         NS        ns2.vfe-hosting.com.
+
+; Source AFRINIC
+236.212.213.in-addr.arpa.         NS        ns1.vfe-hosting.net.
+236.212.213.in-addr.arpa.         NS        ns2.vfe-hosting.com.
+
+; Source AFRINIC
+237.212.213.in-addr.arpa.         NS        ns1.vfe-hosting.net.
+237.212.213.in-addr.arpa.         NS        ns2.vfe-hosting.com.
+
+; Source AFRINIC
+238.212.213.in-addr.arpa.         NS        ns1.vfe-hosting.net.
+238.212.213.in-addr.arpa.         NS        ns2.vfe-hosting.com.
+
+; Source AFRINIC
+239.212.213.in-addr.arpa.         NS        ns1.vfe-hosting.net.
+239.212.213.in-addr.arpa.         NS        ns2.vfe-hosting.com.
+
+; Source AFRINIC
+240.212.213.in-addr.arpa.         NS        ns1.vfe-hosting.net.
+240.212.213.in-addr.arpa.         NS        ns2.vfe-hosting.com.
+
+; Source AFRINIC
+244.212.213.in-addr.arpa.         NS        ns1.vfe-hosting.net.
+244.212.213.in-addr.arpa.         NS        ns2.vfe-hosting.com.
+
+; Source AFRINIC
+249.212.213.in-addr.arpa.         NS        ns1.vfe-hosting.net.
+249.212.213.in-addr.arpa.         NS        ns2.vfe-hosting.com.
+
+; Source AFRINIC
+251.212.213.in-addr.arpa.         NS        ns1.vfe-hosting.net.
+251.212.213.in-addr.arpa.         NS        ns2.vfe-hosting.com.
+
+; Source AFRINIC
+252.212.213.in-addr.arpa.         NS        ns1.vfe-hosting.net.
+252.212.213.in-addr.arpa.         NS        ns2.vfe-hosting.com.
+
+; Source AFRINIC
+253.212.213.in-addr.arpa.         NS        ns1.vfe-hosting.net.
+253.212.213.in-addr.arpa.         NS        ns2.vfe-hosting.com.
+
+; Source AFRINIC
+254.212.213.in-addr.arpa.         NS        ns1.vfe-hosting.net.
+254.212.213.in-addr.arpa.         NS        ns2.vfe-hosting.com.
+
+; Source AFRINIC
+255.212.213.in-addr.arpa.         NS        ns1.vfe-hosting.net.
+255.212.213.in-addr.arpa.         NS        ns2.vfe-hosting.com.
+
+; Source AFRINIC
+0.247.213.in-addr.arpa.         NS        dns1.easydns.com.
+0.247.213.in-addr.arpa.         NS        dns2.easydns.net.
+0.247.213.in-addr.arpa.         NS        dns3.easydns.ca.
+
+AFRINIC.213.in-addr.arpa.	IN	TXT	"Generated at 2016-04-16 21:23:21Z with 770 NS records from AFRINIC."
+AFRINIC.213.in-addr.arpa.	IN	TXT	"Generated at 2016-04-16 21:23:21Z with 29 DS records from AFRINIC."

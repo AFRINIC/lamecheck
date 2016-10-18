@@ -1,0 +1,10 @@
+$TTL 172800
+$ORIGIN .
+
+
+; Source AFRINIC
+53.139.in-addr.arpa.         NS        toco.ceg.co.za.
+53.139.in-addr.arpa.         NS        sangoma.ceg.co.za.
+
+AFRINIC.139.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:06Z with 2 NS records from AFRINIC."
+AFRINIC.139.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:06Z with 0 DS records from AFRINIC."

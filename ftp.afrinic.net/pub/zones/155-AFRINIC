@@ -1,0 +1,1453 @@
+$TTL 172800
+$ORIGIN .
+
+
+; Source AFRINIC
+0.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+0.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+0.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+1.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+1.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+1.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+2.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+2.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+2.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+3.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+3.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+3.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+4.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+4.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+4.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+5.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+5.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+5.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+6.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+6.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+6.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+7.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+7.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+7.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+8.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+8.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+8.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+9.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+9.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+9.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+10.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+10.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+10.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+11.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+11.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+11.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+12.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+12.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+12.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+13.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+13.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+13.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+14.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+14.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+14.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+15.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+15.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+15.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+16.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+16.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+16.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+17.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+17.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+17.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+18.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+18.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+18.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+19.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+19.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+19.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+20.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+20.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+20.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+21.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+21.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+21.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+22.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+22.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+22.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+23.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+23.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+23.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+24.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+24.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+24.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+25.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+25.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+25.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+26.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+26.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+26.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+27.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+27.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+27.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+28.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+28.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+28.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+29.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+29.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+29.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+30.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+30.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+30.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+31.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+31.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+31.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+32.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+32.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+32.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+33.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+33.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+33.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+34.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+34.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+34.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+35.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+35.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+35.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+36.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+36.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+36.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+37.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+37.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+37.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+38.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+38.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+38.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+39.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+39.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+39.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+40.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+40.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+40.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+41.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+41.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+41.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+42.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+42.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+42.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+43.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+43.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+43.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+44.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+44.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+44.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+45.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+45.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+45.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+46.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+46.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+46.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+47.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+47.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+47.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+48.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+48.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+48.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+49.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+49.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+49.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+50.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+50.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+50.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+51.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+51.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+51.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+52.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+52.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+52.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+53.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+53.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+53.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+54.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+54.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+54.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+55.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+55.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+55.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+56.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+56.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+56.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+57.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+57.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+57.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+58.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+58.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+58.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+59.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+59.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+59.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+60.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+60.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+60.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+61.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+61.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+61.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+62.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+62.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+62.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+63.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+63.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+63.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+64.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+64.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+64.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+65.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+65.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+65.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+66.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+66.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+66.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+67.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+67.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+67.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+68.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+68.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+68.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+69.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+69.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+69.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+70.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+70.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+70.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+71.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+71.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+71.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+72.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+72.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+72.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+73.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+73.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+73.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+74.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+74.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+74.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+75.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+75.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+75.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+76.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+76.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+76.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+77.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+77.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+77.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+78.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+78.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+78.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+79.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+79.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+79.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+80.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+80.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+80.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+81.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+81.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+81.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+82.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+82.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+82.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+83.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+83.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+83.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+84.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+84.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+84.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+85.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+85.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+85.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+86.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+86.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+86.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+87.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+87.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+87.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+88.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+88.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+88.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+89.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+89.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+89.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+90.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+90.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+90.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+91.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+91.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+91.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+92.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+92.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+92.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+93.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+93.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+93.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+94.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+94.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+94.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+95.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+95.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+95.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+96.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+96.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+96.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+97.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+97.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+97.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+98.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+98.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+98.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+99.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+99.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+99.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+100.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+100.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+100.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+101.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+101.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+101.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+102.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+102.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+102.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+103.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+103.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+103.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+104.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+104.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+104.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+105.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+105.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+105.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+106.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+106.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+106.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+107.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+107.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+107.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+108.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+108.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+108.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+109.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+109.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+109.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+110.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+110.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+110.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+111.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+111.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+111.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+112.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+112.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+112.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+113.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+113.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+113.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+114.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+114.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+114.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+115.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+115.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+115.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+116.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+116.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+116.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+117.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+117.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+117.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+118.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+118.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+118.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+119.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+119.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+119.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+120.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+120.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+120.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+121.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+121.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+121.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+122.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+122.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+122.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+123.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+123.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+123.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+124.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+124.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+124.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+125.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+125.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+125.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+126.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+126.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+126.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+127.12.155.in-addr.arpa.         NS        dns1.simbanet.net.
+127.12.155.in-addr.arpa.         NS        ns1.simbanetwork.com.
+127.12.155.in-addr.arpa.         NS        dn1.simbanet.net.
+
+; Source AFRINIC
+0.159.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+0.159.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+1.159.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+1.159.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+2.159.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+2.159.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+3.159.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+3.159.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+4.159.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+4.159.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+5.159.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+5.159.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+6.159.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+6.159.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+7.159.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+7.159.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+128.159.155.in-addr.arpa.         NS        dns-eu1.powerdns.net.
+128.159.155.in-addr.arpa.         NS        dns-eu2.powerdns.net.
+
+; Source AFRINIC
+129.159.155.in-addr.arpa.         NS        dns-eu1.powerdns.net.
+129.159.155.in-addr.arpa.         NS        dns-eu2.powerdns.net.
+
+; Source AFRINIC
+130.159.155.in-addr.arpa.         NS        dns-eu1.powerdns.net.
+130.159.155.in-addr.arpa.         NS        dns-eu2.powerdns.net.
+
+; Source AFRINIC
+131.159.155.in-addr.arpa.         NS        dns-eu1.powerdns.net.
+131.159.155.in-addr.arpa.         NS        dns-eu2.powerdns.net.
+
+; Source AFRINIC
+224.159.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+224.159.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+225.159.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+225.159.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+226.159.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+226.159.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+227.159.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+227.159.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+228.159.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+228.159.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+229.159.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+229.159.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+230.159.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+230.159.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+231.159.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+231.159.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+232.159.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+232.159.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+233.159.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+233.159.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+234.159.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+234.159.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+235.159.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+235.159.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+236.159.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+236.159.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+237.159.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+237.159.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+238.159.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+238.159.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+239.159.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+239.159.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+248.159.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+248.159.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+249.159.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+249.159.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+250.159.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+250.159.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+251.159.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+251.159.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+252.159.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+252.159.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+253.159.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+253.159.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+254.159.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+254.159.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+255.159.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+255.159.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+232.155.in-addr.arpa.         NS        disa.tenet.ac.za.
+232.155.in-addr.arpa.         NS        titan.is.co.za.
+232.155.in-addr.arpa.         NS        rain.psg.com.
+232.155.in-addr.arpa.         NS        ucthpx.uct.ac.za.
+
+; Source AFRINIC
+233.155.in-addr.arpa.         NS        tolkien.freetrans.co.za.
+233.155.in-addr.arpa.         NS        switch.freetrans.co.za.
+
+; Source AFRINIC
+234.155.in-addr.arpa.         NS        demeter.is.co.za.
+234.155.in-addr.arpa.         NS        titan.is.co.za.
+234.155.in-addr.arpa.         NS        icm1.icp.net.
+234.155.in-addr.arpa.         NS        ns1-auth.sprintlink.net.
+234.155.in-addr.arpa.         NS        ns2-auth.sprintlink.net.
+234.155.in-addr.arpa.         NS        ns3-auth.sprintlink.net.
+
+; Source AFRINIC
+0.235.155.in-addr.arpa.         NS        dns-eu1.powerdns.net.
+0.235.155.in-addr.arpa.         NS        dns-eu2.powerdns.net.
+
+; Source AFRINIC
+1.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+1.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+2.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+2.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+3.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+3.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+4.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+4.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+5.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+5.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+6.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+6.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+7.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+7.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+8.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+8.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+9.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+9.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+10.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+10.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+11.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+11.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+12.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+12.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+13.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+13.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+14.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+14.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+15.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+15.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+16.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+16.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+17.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+17.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+18.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+18.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+19.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+19.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+20.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+20.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+21.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+21.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+22.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+22.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+23.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+23.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+24.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+24.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+25.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+25.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+26.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+26.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+27.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+27.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+28.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+28.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+29.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+29.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+30.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+30.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+31.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+31.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+32.235.155.in-addr.arpa.         NS        dns1.miraclenethosting.com.
+32.235.155.in-addr.arpa.         NS        dns2.miraclenethosting.com.
+
+; Source AFRINIC
+128.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+128.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+129.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+129.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+130.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+130.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+131.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+131.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+132.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+132.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+133.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+133.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+134.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+134.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+135.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+135.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+136.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+136.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+137.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+137.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+138.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+138.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+139.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+139.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+140.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+140.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+141.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+141.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+142.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+142.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+143.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+143.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+144.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+144.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+145.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+145.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+146.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+146.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+147.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+147.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+148.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+148.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+149.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+149.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+150.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+150.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+151.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+151.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+152.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+152.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+153.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+153.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+154.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+154.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+155.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+155.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+156.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+156.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+157.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+157.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+158.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+158.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+159.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+159.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+224.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+224.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+225.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+225.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+226.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+226.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+227.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+227.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+228.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+228.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+229.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+229.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+230.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+230.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+231.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+231.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+232.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+232.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+233.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+233.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+234.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+234.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+235.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+235.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+236.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+236.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+237.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+237.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+238.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+238.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+239.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+239.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+240.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+240.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+241.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+241.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+242.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+242.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+243.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+243.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+244.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+244.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+245.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+245.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+246.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+246.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+247.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+247.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+248.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+248.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+249.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+249.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+250.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+250.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+251.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+251.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+252.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+252.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+253.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+253.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+254.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+254.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+255.235.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+255.235.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+236.155.in-addr.arpa.         NS        titan.is.co.za.
+236.155.in-addr.arpa.         NS        demeter.is.co.za.
+236.155.in-addr.arpa.         NS        hera.is.co.za.
+
+; Source AFRINIC
+0.237.155.in-addr.arpa.         NS        dns1.pwekey.com.
+0.237.155.in-addr.arpa.         NS        dns2.pwekey.com.
+
+; Source AFRINIC
+1.237.155.in-addr.arpa.         NS        dns1.pwekey.com.
+1.237.155.in-addr.arpa.         NS        dns2.pwekey.com.
+
+; Source AFRINIC
+2.237.155.in-addr.arpa.         NS        dns1.pwekey.com.
+2.237.155.in-addr.arpa.         NS        dns2.pwekey.com.
+
+; Source AFRINIC
+3.237.155.in-addr.arpa.         NS        dns1.pwekey.com.
+3.237.155.in-addr.arpa.         NS        dns2.pwekey.com.
+
+; Source AFRINIC
+4.237.155.in-addr.arpa.         NS        dns1.pwekey.com.
+4.237.155.in-addr.arpa.         NS        dns2.pwekey.com.
+
+; Source AFRINIC
+5.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+5.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+6.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+6.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+7.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+7.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+128.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+128.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+129.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+129.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+130.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+130.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+131.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+131.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+132.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+132.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+133.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+133.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+134.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+134.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+135.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+135.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+136.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+136.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+137.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+137.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+138.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+138.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+139.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+139.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+140.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+140.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+141.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+141.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+142.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+142.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+143.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+143.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+144.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+144.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+145.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+145.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+146.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+146.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+147.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+147.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+148.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+148.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+149.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+149.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+150.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+150.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+151.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+151.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+152.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+152.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+153.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+153.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+154.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+154.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+155.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+155.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+156.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+156.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+157.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+157.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+158.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+158.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+159.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+159.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+160.237.155.in-addr.arpa.         NS        ns1.sa-mtnbusiness.co.za.
+160.237.155.in-addr.arpa.         NS        ns2.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+224.237.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+224.237.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+225.237.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+225.237.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+226.237.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+226.237.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+227.237.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+227.237.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+228.237.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+228.237.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+229.237.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+229.237.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+230.237.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+230.237.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+231.237.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+231.237.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+232.237.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+232.237.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+233.237.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+233.237.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+234.237.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+234.237.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+235.237.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+235.237.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+236.237.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+236.237.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+237.237.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+237.237.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+238.237.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+238.237.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+239.237.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+239.237.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+240.237.155.in-addr.arpa.         NS        ns3.sa-mtnbusiness.co.za.
+240.237.155.in-addr.arpa.         NS        ns4.sa-mtnbusiness.co.za.
+
+; Source AFRINIC
+238.155.in-addr.arpa.         NS        ctech.ac.za.
+238.155.in-addr.arpa.         NS        ucthpx.uct.ac.za.
+238.155.in-addr.arpa.         NS        daisy.ee.und.ac.za.
+238.155.in-addr.arpa.         NS        hippo.ru.ac.za.
+238.155.in-addr.arpa.         NS        rain.psg.com.
+
+; Source AFRINIC
+239.155.in-addr.arpa.         NS        igubu.saix.net.
+239.155.in-addr.arpa.         NS        sangoma.saix.net.
+239.155.in-addr.arpa.         NS        induna.saix.net.
+239.155.in-addr.arpa.         NS        sabela.saix.net.
+239.155.in-addr.arpa.         NS        ns2.telkom.co.za.
+239.155.in-addr.arpa.         NS        ns3.telkom.co.za.
+
+; Source AFRINIC
+240.155.in-addr.arpa.         NS        jupiter.is.co.za.
+240.155.in-addr.arpa.         NS        titan.is.co.za.
+240.155.in-addr.arpa.         NS        demeter.is.co.za.
+
+AFRINIC.155.in-addr.arpa.	IN	TXT	"Generated at 2016-04-01 08:23:56Z with 795 NS records from AFRINIC."
+AFRINIC.155.in-addr.arpa.	IN	TXT	"Generated at 2016-04-01 08:23:56Z with 0 DS records from AFRINIC."

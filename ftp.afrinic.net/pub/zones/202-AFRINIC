@@ -1,0 +1,134 @@
+$TTL 172800
+$ORIGIN .
+
+
+; Source AFRINIC
+0.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+0.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+1.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+1.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+2.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+2.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+3.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+3.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+4.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+4.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+5.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+5.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+6.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+6.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+7.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+7.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+8.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+8.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+9.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+9.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+10.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+10.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+11.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+11.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+12.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+12.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+13.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+13.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+14.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+14.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+15.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+15.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+16.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+16.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+17.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+17.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+18.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+18.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+19.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+19.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+20.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+20.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+21.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+21.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+22.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+22.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+23.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+23.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+24.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+24.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+25.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+25.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+26.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+26.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+27.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+27.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+28.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+28.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+29.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+29.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+30.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+30.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+; Source AFRINIC
+31.123.202.in-addr.arpa.         NS        dns1.intnet.mu.
+31.123.202.in-addr.arpa.         NS        dns2.intnet.mu.
+
+AFRINIC.202.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:06Z with 64 NS records from AFRINIC."
+AFRINIC.202.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:06Z with 0 DS records from AFRINIC."

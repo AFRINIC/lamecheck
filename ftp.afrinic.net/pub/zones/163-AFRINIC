@@ -1,0 +1,54 @@
+$TTL 172800
+$ORIGIN .
+
+
+; Source AFRINIC
+121.163.in-addr.arpa.         NS        ns.idsc.gov.eg.
+121.163.in-addr.arpa.         NS        frcu.eun.eg.
+121.163.in-addr.arpa.         NS        ns2.idsc.gov.eg.
+121.163.in-addr.arpa.         NS        ns4.idsc.gov.eg.
+
+; Source AFRINIC
+195.163.in-addr.arpa.         NS        ns1.gov.za.
+195.163.in-addr.arpa.         NS        ns2.gov.za.
+195.163.in-addr.arpa.         NS        johan.sprintlink.co.za.
+195.163.in-addr.arpa.         NS        aztec.co.za.
+
+; Source AFRINIC
+196.163.in-addr.arpa.         NS        ns1.infovan.co.za.
+196.163.in-addr.arpa.         NS        ns.infovan.co.za.
+196.163.in-addr.arpa.         NS        ns2.infovan.co.za.
+196.163.in-addr.arpa.         NS        ns3.infovan.co.za.
+
+; Source AFRINIC
+197.163.in-addr.arpa.         NS        titan.is.co.za.
+197.163.in-addr.arpa.         NS        demeter.is.co.za.
+197.163.in-addr.arpa.         NS        ns.pipex.net.
+
+; Source AFRINIC
+199.163.in-addr.arpa.         NS        demeter.is.co.za.
+199.163.in-addr.arpa.         NS        titan.is.co.za.
+199.163.in-addr.arpa.         NS        ns.pipex.net.
+
+; Source AFRINIC
+200.163.in-addr.arpa.         NS        risc.unisa.ac.za.
+200.163.in-addr.arpa.         NS        risc1.unisa.ac.za.
+200.163.in-addr.arpa.         NS        mopanie.unisa.ac.za.
+200.163.in-addr.arpa.         NS        ns1.tsa.ac.za.
+
+; Source AFRINIC
+201.163.in-addr.arpa.         NS        ns1.iafrica.com.
+201.163.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+202.163.in-addr.arpa.         NS        demeter.is.co.za.
+202.163.in-addr.arpa.         NS        titan.is.co.za.
+
+; Source AFRINIC
+203.163.in-addr.arpa.         NS        gate.iclafrica.com.
+203.163.in-addr.arpa.         NS        jupiter.is.co.za.
+203.163.in-addr.arpa.         NS        titan.is.co.za.
+203.163.in-addr.arpa.         NS        demeter.is.co.za.
+
+AFRINIC.163.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:10Z with 30 NS records from AFRINIC."
+AFRINIC.163.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:10Z with 0 DS records from AFRINIC."

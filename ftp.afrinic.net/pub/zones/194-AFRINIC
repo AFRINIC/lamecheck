@@ -1,0 +1,339 @@
+$TTL 172800
+$ORIGIN .
+
+
+; Source AFRINIC
+64.9.194.in-addr.arpa.         NS        ns0.accesskenya.com.
+64.9.194.in-addr.arpa.         NS        ukns1.accesskenya.com.
+64.9.194.in-addr.arpa.         NS        ns1.safaricombusiness.co.ke.
+64.9.194.in-addr.arpa.         NS        ns2.safaricombusiness.co.ke.
+64.9.194.in-addr.arpa.         NS        ns3.safaricombusiness.co.ke.
+64.9.194.in-addr.arpa.         NS        ns4.safaricombusiness.co.ke.
+64.9.194.in-addr.arpa.         NS        ns1.accesskenya.com.
+
+; Source AFRINIC
+82.9.194.in-addr.arpa.         NS        ns1.afolke.com.
+82.9.194.in-addr.arpa.         NS        ns2.afolke.com.
+
+; Source AFRINIC
+83.9.194.in-addr.arpa.         NS        ns1.afolke.com.
+83.9.194.in-addr.arpa.         NS        ns2.afolke.com.
+
+; Source AFRINIC
+96.79.194.in-addr.arpa.         NS        dns1.ie-eg.com.
+96.79.194.in-addr.arpa.         NS        dns2.ie-eg.com.
+
+; Source AFRINIC
+97.79.194.in-addr.arpa.         NS        brainy1.ie-eg.com.
+97.79.194.in-addr.arpa.         NS        brainy2.ie-eg.com.
+
+; Source AFRINIC
+98.79.194.in-addr.arpa.         NS        dns1.ie-eg.com.
+98.79.194.in-addr.arpa.         NS        dns2.ie-eg.com.
+
+; Source AFRINIC
+99.79.194.in-addr.arpa.         NS        dns1.ie-eg.com.
+99.79.194.in-addr.arpa.         NS        dns2.ie-eg.com.
+
+; Source AFRINIC
+100.79.194.in-addr.arpa.         NS        brainy1.ie-eg.com.
+100.79.194.in-addr.arpa.         NS        brainy2.ie-eg.com.
+
+; Source AFRINIC
+101.79.194.in-addr.arpa.         NS        brainy1.ie-eg.com.
+101.79.194.in-addr.arpa.         NS        brainy2.ie-eg.com.
+
+; Source AFRINIC
+102.79.194.in-addr.arpa.         NS        brainy1.ie-eg.com.
+102.79.194.in-addr.arpa.         NS        brainy2.ie-eg.com.
+
+; Source AFRINIC
+103.79.194.in-addr.arpa.         NS        dns1.ie-eg.com.
+103.79.194.in-addr.arpa.         NS        dns2.ie-eg.com.
+
+; Source AFRINIC
+107.79.194.in-addr.arpa.         NS        brainy1.ie-eg.com.
+107.79.194.in-addr.arpa.         NS        brainy2.ie-eg.com.
+
+; Source AFRINIC
+109.79.194.in-addr.arpa.         NS        brainy1.ie-eg.com.
+109.79.194.in-addr.arpa.         NS        brainy2.ie-eg.com.
+
+; Source AFRINIC
+110.79.194.in-addr.arpa.         NS        brainy1.ie-eg.com.
+110.79.194.in-addr.arpa.         NS        brainy2.ie-eg.com.
+
+; Source AFRINIC
+112.79.194.in-addr.arpa.         NS        dns1.ie-eg.com.
+112.79.194.in-addr.arpa.         NS        dns2.ie-eg.com.
+
+; Source AFRINIC
+113.79.194.in-addr.arpa.         NS        brainy1.ie-eg.com.
+113.79.194.in-addr.arpa.         NS        brainy2.ie-eg.com.
+
+; Source AFRINIC
+114.79.194.in-addr.arpa.         NS        brainy1.ie-eg.com.
+114.79.194.in-addr.arpa.         NS        brainy2.ie-eg.com.
+
+; Source AFRINIC
+116.79.194.in-addr.arpa.         NS        brainy1.ie-eg.com.
+116.79.194.in-addr.arpa.         NS        brainy2.ie-eg.com.
+
+; Source AFRINIC
+117.79.194.in-addr.arpa.         NS        brainy1.ie-eg.com.
+117.79.194.in-addr.arpa.         NS        brainy2.ie-eg.com.
+
+; Source AFRINIC
+120.79.194.in-addr.arpa.         NS        dns1.ie-eg.com.
+120.79.194.in-addr.arpa.         NS        dns2.ie-eg.com.
+
+; Source AFRINIC
+121.79.194.in-addr.arpa.         NS        brainy1.ie-eg.com.
+121.79.194.in-addr.arpa.         NS        brainy2.ie-eg.com.
+
+; Source AFRINIC
+123.79.194.in-addr.arpa.         NS        brainy1.ie-eg.com.
+123.79.194.in-addr.arpa.         NS        brainy2.ie-eg.com.
+
+; Source AFRINIC
+192.204.194.in-addr.arpa.         NS        dns.menara.ma.
+192.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+193.204.194.in-addr.arpa.         NS        dns.menara.ma.
+193.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+194.204.194.in-addr.arpa.         NS        dns.menara.ma.
+194.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+195.204.194.in-addr.arpa.         NS        ns1.wanadoo.ma.
+195.204.194.in-addr.arpa.         NS        ns2.wanadoo.ma.
+
+; Source AFRINIC
+196.204.194.in-addr.arpa.         NS        dns.menara.ma.
+196.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+197.204.194.in-addr.arpa.         NS        dns.menara.ma.
+197.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+198.204.194.in-addr.arpa.         NS        dns.menara.ma.
+198.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+199.204.194.in-addr.arpa.         NS        dns.menara.ma.
+199.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+200.204.194.in-addr.arpa.         NS        briouat.mtds.com.
+200.204.194.in-addr.arpa.         NS        chorba.mtds.com.
+
+; Source AFRINIC
+201.204.194.in-addr.arpa.         NS        dns.menara.ma.
+201.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+202.204.194.in-addr.arpa.         NS        dns.menara.ma.
+202.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+203.204.194.in-addr.arpa.         NS        ns1.wanadoo.ma.
+203.204.194.in-addr.arpa.         NS        ns2.wanadoo.ma.
+
+; Source AFRINIC
+204.204.194.in-addr.arpa.         NS        dns.menara.ma.
+204.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+206.204.194.in-addr.arpa.         NS        dns.menara.ma.
+206.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+207.204.194.in-addr.arpa.         NS        dns.menara.ma.
+207.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+208.204.194.in-addr.arpa.         NS        dns.menara.ma.
+208.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+209.204.194.in-addr.arpa.         NS        ibnsina.inpt.ac.ma.
+209.204.194.in-addr.arpa.         NS        webserv.inpt.ac.ma.
+
+; Source AFRINIC
+211.204.194.in-addr.arpa.         NS        dns1.finances.gov.ma.
+211.204.194.in-addr.arpa.         NS        dns2.finances.gov.ma.
+
+; Source AFRINIC
+213.204.194.in-addr.arpa.         NS        dns.menara.ma.
+213.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+214.204.194.in-addr.arpa.         NS        dns.menara.ma.
+214.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+216.204.194.in-addr.arpa.         NS        dns.menara.ma.
+216.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+217.204.194.in-addr.arpa.         NS        dns.menara.ma.
+217.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+218.204.194.in-addr.arpa.         NS        dns.menara.ma.
+218.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+219.204.194.in-addr.arpa.         NS        dns.menara.ma.
+219.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+220.204.194.in-addr.arpa.         NS        dns.menara.ma.
+220.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+221.204.194.in-addr.arpa.         NS        dns.menara.ma.
+221.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+222.204.194.in-addr.arpa.         NS        dns.menara.ma.
+222.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+223.204.194.in-addr.arpa.         NS        dns.menara.ma.
+223.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+224.204.194.in-addr.arpa.         NS        dns.menara.ma.
+224.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+225.204.194.in-addr.arpa.         NS        dns.menara.ma.
+225.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+226.204.194.in-addr.arpa.         NS        dns.menara.ma.
+226.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+227.204.194.in-addr.arpa.         NS        dns.menara.ma.
+227.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+228.204.194.in-addr.arpa.         NS        dns.menara.ma.
+228.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+229.204.194.in-addr.arpa.         NS        dns.menara.ma.
+229.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+230.204.194.in-addr.arpa.         NS        dns.menara.ma.
+230.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+231.204.194.in-addr.arpa.         NS        dns.menara.ma.
+231.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+232.204.194.in-addr.arpa.         NS        dns.menara.ma.
+232.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+233.204.194.in-addr.arpa.         NS        dns.menara.ma.
+233.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+234.204.194.in-addr.arpa.         NS        dns.menara.ma.
+234.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+235.204.194.in-addr.arpa.         NS        dns.menara.ma.
+235.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+236.204.194.in-addr.arpa.         NS        dns.menara.ma.
+236.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+237.204.194.in-addr.arpa.         NS        dns.menara.ma.
+237.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+238.204.194.in-addr.arpa.         NS        dns.menara.ma.
+238.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+239.204.194.in-addr.arpa.         NS        dns.menara.ma.
+239.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+240.204.194.in-addr.arpa.         NS        dns.menara.ma.
+240.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+241.204.194.in-addr.arpa.         NS        dns.menara.ma.
+241.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+242.204.194.in-addr.arpa.         NS        briouat.mtds.com.
+242.204.194.in-addr.arpa.         NS        chorba.mtds.com.
+
+; Source AFRINIC
+243.204.194.in-addr.arpa.         NS        dns.menara.ma.
+243.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+244.204.194.in-addr.arpa.         NS        dns.menara.ma.
+244.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+245.204.194.in-addr.arpa.         NS        dns.menara.ma.
+245.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+246.204.194.in-addr.arpa.         NS        dns.menara.ma.
+246.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+247.204.194.in-addr.arpa.         NS        dns.menara.ma.
+247.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+248.204.194.in-addr.arpa.         NS        dns.menara.ma.
+248.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+249.204.194.in-addr.arpa.         NS        dns.menara.ma.
+249.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+250.204.194.in-addr.arpa.         NS        dns.menara.ma.
+250.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+251.204.194.in-addr.arpa.         NS        dns.menara.ma.
+251.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+252.204.194.in-addr.arpa.         NS        dns.menara.ma.
+252.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+253.204.194.in-addr.arpa.         NS        dns.menara.ma.
+253.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+254.204.194.in-addr.arpa.         NS        dns.menara.ma.
+254.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+; Source AFRINIC
+255.204.194.in-addr.arpa.         NS        dns.menara.ma.
+255.204.194.in-addr.arpa.         NS        dns1.menara.ma.
+
+AFRINIC.194.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:10Z with 169 NS records from AFRINIC."
+AFRINIC.194.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:10Z with 0 DS records from AFRINIC."

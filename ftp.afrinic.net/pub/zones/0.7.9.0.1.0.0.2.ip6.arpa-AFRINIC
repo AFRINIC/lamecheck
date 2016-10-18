@@ -1,0 +1,5 @@
+$TTL 172800
+$ORIGIN .
+
+
+AFRINIC.0.7.9.0.1.0.0.2.ip6.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:07Z with 0 NS records from AFRINIC, 0 DS records from AFRINIC."

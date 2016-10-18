@@ -1,0 +1,70 @@
+$TTL 172800
+$ORIGIN .
+
+
+; Source AFRINIC
+176.236.216.in-addr.arpa.         NS        ns1.idws.com.
+176.236.216.in-addr.arpa.         NS        ns2.idws.com.
+
+; Source AFRINIC
+177.236.216.in-addr.arpa.         NS        ns1.idws.com.
+177.236.216.in-addr.arpa.         NS        ns2.idws.com.
+
+; Source AFRINIC
+178.236.216.in-addr.arpa.         NS        ns1.idws.com.
+178.236.216.in-addr.arpa.         NS        ns2.idws.com.
+
+; Source AFRINIC
+179.236.216.in-addr.arpa.         NS        ns1.idws.com.
+179.236.216.in-addr.arpa.         NS        ns2.idws.com.
+
+; Source AFRINIC
+180.236.216.in-addr.arpa.         NS        ns1.idws.com.
+180.236.216.in-addr.arpa.         NS        ns2.idws.com.
+
+; Source AFRINIC
+181.236.216.in-addr.arpa.         NS        ns1.idws.com.
+181.236.216.in-addr.arpa.         NS        ns2.idws.com.
+
+; Source AFRINIC
+182.236.216.in-addr.arpa.         NS        ns1.idws.com.
+182.236.216.in-addr.arpa.         NS        ns2.idws.com.
+
+; Source AFRINIC
+183.236.216.in-addr.arpa.         NS        ns1.idws.com.
+183.236.216.in-addr.arpa.         NS        ns2.idws.com.
+
+; Source AFRINIC
+184.236.216.in-addr.arpa.         NS        ns1.idws.com.
+184.236.216.in-addr.arpa.         NS        ns2.idws.com.
+
+; Source AFRINIC
+185.236.216.in-addr.arpa.         NS        ns1.idws.com.
+185.236.216.in-addr.arpa.         NS        ns2.idws.com.
+
+; Source AFRINIC
+186.236.216.in-addr.arpa.         NS        ns1.idws.com.
+186.236.216.in-addr.arpa.         NS        ns2.idws.com.
+
+; Source AFRINIC
+187.236.216.in-addr.arpa.         NS        ns1.idws.com.
+187.236.216.in-addr.arpa.         NS        ns2.idws.com.
+
+; Source AFRINIC
+188.236.216.in-addr.arpa.         NS        ns1.idws.com.
+188.236.216.in-addr.arpa.         NS        ns2.idws.com.
+
+; Source AFRINIC
+189.236.216.in-addr.arpa.         NS        ns1.idws.com.
+189.236.216.in-addr.arpa.         NS        ns2.idws.com.
+
+; Source AFRINIC
+190.236.216.in-addr.arpa.         NS        ns1.idws.com.
+190.236.216.in-addr.arpa.         NS        ns2.idws.com.
+
+; Source AFRINIC
+191.236.216.in-addr.arpa.         NS        ns1.idws.com.
+191.236.216.in-addr.arpa.         NS        ns2.idws.com.
+
+AFRINIC.216.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:10Z with 32 NS records from AFRINIC."
+AFRINIC.216.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:10Z with 0 DS records from AFRINIC."

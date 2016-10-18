@@ -1,0 +1,11 @@
+$TTL 172800
+$ORIGIN .
+
+
+; Source AFRINIC
+110.147.in-addr.arpa.         NS        mp2ls001.eskom.co.za.
+110.147.in-addr.arpa.         NS        ns1.iafrica.com.
+110.147.in-addr.arpa.         NS        ns2.iafrica.com.
+
+AFRINIC.147.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:10Z with 3 NS records from AFRINIC."
+AFRINIC.147.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:10Z with 0 DS records from AFRINIC."

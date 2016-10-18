@@ -1,0 +1,554 @@
+$TTL 172800
+$ORIGIN .
+
+
+; Source AFRINIC
+96.72.80.in-addr.arpa.         NS        ns1.iwayafrica.com.
+96.72.80.in-addr.arpa.         NS        ns2.iwayafrica.com.
+
+; Source AFRINIC
+100.72.80.in-addr.arpa.         NS        ns1.iwayafrica.com.
+100.72.80.in-addr.arpa.         NS        ns2.iwayafrica.com.
+
+; Source AFRINIC
+101.72.80.in-addr.arpa.         NS        ns1.iwayafrica.com.
+101.72.80.in-addr.arpa.         NS        ns2.iwayafrica.com.
+
+; Source AFRINIC
+102.72.80.in-addr.arpa.         NS        ns1.iwayafrica.com.
+102.72.80.in-addr.arpa.         NS        ns2.iwayafrica.com.
+
+; Source AFRINIC
+103.72.80.in-addr.arpa.         NS        ns1.iwayafrica.com.
+103.72.80.in-addr.arpa.         NS        ns2.iwayafrica.com.
+
+; Source AFRINIC
+105.72.80.in-addr.arpa.         NS        ns1.iwayafrica.com.
+105.72.80.in-addr.arpa.         NS        ns2.iwayafrica.com.
+
+; Source AFRINIC
+111.72.80.in-addr.arpa.         NS        ns1.iwayafrica.com.
+111.72.80.in-addr.arpa.         NS        ns2.iwayafrica.com.
+
+; Source AFRINIC
+160.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+160.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+
+; Source AFRINIC
+161.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+161.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+161.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+162.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+162.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+162.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+163.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+163.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+163.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+164.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+164.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+164.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+165.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+165.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+165.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+166.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+166.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+166.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+167.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+167.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+167.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+168.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+168.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+168.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+169.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+169.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+169.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+170.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+170.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+170.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+171.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+171.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+171.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+172.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+172.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+172.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+173.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+173.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+173.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+174.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+174.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+174.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+175.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+175.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+175.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+176.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+176.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+
+; Source AFRINIC
+177.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+177.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+177.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+178.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+178.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+178.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+179.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+179.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+179.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+180.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+180.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+180.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+181.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+181.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+181.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+182.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+182.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+182.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+183.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+183.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+183.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+184.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+184.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+184.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+185.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+185.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+185.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+186.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+186.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+186.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+187.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+187.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+187.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+188.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+188.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+188.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+189.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+189.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+189.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+190.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+190.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+190.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+191.75.80.in-addr.arpa.         NS        ns2.egynet.com.eg.
+191.75.80.in-addr.arpa.         NS        ns22.egynet.com.eg.
+191.75.80.in-addr.arpa.         NS        ns.ripe.net.
+
+; Source AFRINIC
+64.87.80.in-addr.arpa.         NS        snshq901.ghanatel.com.gh.
+64.87.80.in-addr.arpa.         NS        snshq902.ghanatel.com.gh.
+64.87.80.in-addr.arpa.         NS        mantse.gh.com.
+
+; Source AFRINIC
+65.87.80.in-addr.arpa.         NS        snshq901.ghanatel.com.gh.
+65.87.80.in-addr.arpa.         NS        snshq902.ghanatel.com.gh.
+65.87.80.in-addr.arpa.         NS        mantse.gh.com.
+
+; Source AFRINIC
+66.87.80.in-addr.arpa.         NS        snshq901.ghanatel.com.gh.
+66.87.80.in-addr.arpa.         NS        snshq902.ghanatel.com.gh.
+66.87.80.in-addr.arpa.         NS        mantse.gh.com.
+
+; Source AFRINIC
+67.87.80.in-addr.arpa.         NS        snshq901.ghanatel.com.gh.
+67.87.80.in-addr.arpa.         NS        snshq902.ghanatel.com.gh.
+67.87.80.in-addr.arpa.         NS        mantse.gh.com.
+
+; Source AFRINIC
+68.87.80.in-addr.arpa.         NS        snshq901.ghanatel.com.gh.
+68.87.80.in-addr.arpa.         NS        snshq902.ghanatel.com.gh.
+68.87.80.in-addr.arpa.         NS        mantse.gh.com.
+
+; Source AFRINIC
+69.87.80.in-addr.arpa.         NS        snshq901.ghanatel.com.gh.
+69.87.80.in-addr.arpa.         NS        snshq902.ghanatel.com.gh.
+69.87.80.in-addr.arpa.         NS        mantse.gh.com.
+
+; Source AFRINIC
+70.87.80.in-addr.arpa.         NS        snshq901.ghanatel.com.gh.
+70.87.80.in-addr.arpa.         NS        snshq902.ghanatel.com.gh.
+70.87.80.in-addr.arpa.         NS        mantse.gh.com.
+
+; Source AFRINIC
+71.87.80.in-addr.arpa.         NS        snshq901.ghanatel.com.gh.
+71.87.80.in-addr.arpa.         NS        snshq902.ghanatel.com.gh.
+71.87.80.in-addr.arpa.         NS        mantse.gh.com.
+
+; Source AFRINIC
+72.87.80.in-addr.arpa.         NS        snshq901.ghanatel.com.gh.
+72.87.80.in-addr.arpa.         NS        snshq902.ghanatel.com.gh.
+72.87.80.in-addr.arpa.         NS        mantse.gh.com.
+
+; Source AFRINIC
+73.87.80.in-addr.arpa.         NS        snshq901.ghanatel.com.gh.
+73.87.80.in-addr.arpa.         NS        snshq902.ghanatel.com.gh.
+73.87.80.in-addr.arpa.         NS        mantse.gh.com.
+
+; Source AFRINIC
+74.87.80.in-addr.arpa.         NS        snshq901.ghanatel.com.gh.
+74.87.80.in-addr.arpa.         NS        snshq902.ghanatel.com.gh.
+74.87.80.in-addr.arpa.         NS        mantse.gh.com.
+
+; Source AFRINIC
+75.87.80.in-addr.arpa.         NS        snshq901.ghanatel.com.gh.
+75.87.80.in-addr.arpa.         NS        snshq902.ghanatel.com.gh.
+75.87.80.in-addr.arpa.         NS        mantse.gh.com.
+
+; Source AFRINIC
+76.87.80.in-addr.arpa.         NS        snshq901.ghanatel.com.gh.
+76.87.80.in-addr.arpa.         NS        snshq902.ghanatel.com.gh.
+76.87.80.in-addr.arpa.         NS        mantse.gh.com.
+
+; Source AFRINIC
+77.87.80.in-addr.arpa.         NS        snshq901.ghanatel.com.gh.
+77.87.80.in-addr.arpa.         NS        snshq902.ghanatel.com.gh.
+77.87.80.in-addr.arpa.         NS        mantse.gh.com.
+
+; Source AFRINIC
+78.87.80.in-addr.arpa.         NS        snshq901.ghanatel.com.gh.
+78.87.80.in-addr.arpa.         NS        snshq902.ghanatel.com.gh.
+78.87.80.in-addr.arpa.         NS        mantse.gh.com.
+
+; Source AFRINIC
+79.87.80.in-addr.arpa.         NS        snshq901.ghanatel.com.gh.
+79.87.80.in-addr.arpa.         NS        snshq902.ghanatel.com.gh.
+79.87.80.in-addr.arpa.         NS        mantse.gh.com.
+
+; Source AFRINIC
+80.87.80.in-addr.arpa.         NS        snshq901.ghanatel.com.gh.
+80.87.80.in-addr.arpa.         NS        snshq902.ghanatel.com.gh.
+80.87.80.in-addr.arpa.         NS        mantse.gh.com.
+
+; Source AFRINIC
+81.87.80.in-addr.arpa.         NS        snshq901.ghanatel.com.gh.
+81.87.80.in-addr.arpa.         NS        snshq902.ghanatel.com.gh.
+81.87.80.in-addr.arpa.         NS        mantse.gh.com.
+
+; Source AFRINIC
+82.87.80.in-addr.arpa.         NS        snshq901.ghanatel.com.gh.
+82.87.80.in-addr.arpa.         NS        snshq902.ghanatel.com.gh.
+82.87.80.in-addr.arpa.         NS        mantse.gh.com.
+
+; Source AFRINIC
+83.87.80.in-addr.arpa.         NS        snshq901.ghanatel.com.gh.
+83.87.80.in-addr.arpa.         NS        snshq902.ghanatel.com.gh.
+83.87.80.in-addr.arpa.         NS        mantse.gh.com.
+
+; Source AFRINIC
+84.87.80.in-addr.arpa.         NS        snshq901.ghanatel.com.gh.
+84.87.80.in-addr.arpa.         NS        snshq902.ghanatel.com.gh.
+84.87.80.in-addr.arpa.         NS        mantse.gh.com.
+
+; Source AFRINIC
+85.87.80.in-addr.arpa.         NS        snshq901.ghanatel.com.gh.
+85.87.80.in-addr.arpa.         NS        snshq902.ghanatel.com.gh.
+85.87.80.in-addr.arpa.         NS        mantse.gh.com.
+
+; Source AFRINIC
+86.87.80.in-addr.arpa.         NS        snshq901.ghanatel.com.gh.
+86.87.80.in-addr.arpa.         NS        snshq902.ghanatel.com.gh.
+86.87.80.in-addr.arpa.         NS        mantse.gh.com.
+
+; Source AFRINIC
+87.87.80.in-addr.arpa.         NS        snshq901.ghanatel.com.gh.
+87.87.80.in-addr.arpa.         NS        snshq902.ghanatel.com.gh.
+87.87.80.in-addr.arpa.         NS        mantse.gh.com.
+
+; Source AFRINIC
+88.87.80.in-addr.arpa.         NS        snshq901.ghanatel.com.gh.
+88.87.80.in-addr.arpa.         NS        snshq902.ghanatel.com.gh.
+88.87.80.in-addr.arpa.         NS        mantse.gh.com.
+
+; Source AFRINIC
+89.87.80.in-addr.arpa.         NS        snshq901.ghanatel.com.gh.
+89.87.80.in-addr.arpa.         NS        snshq902.ghanatel.com.gh.
+89.87.80.in-addr.arpa.         NS        mantse.gh.com.
+
+; Source AFRINIC
+90.87.80.in-addr.arpa.         NS        snshq901.ghanatel.com.gh.
+90.87.80.in-addr.arpa.         NS        snshq902.ghanatel.com.gh.
+90.87.80.in-addr.arpa.         NS        mantse.gh.com.
+
+; Source AFRINIC
+94.87.80.in-addr.arpa.         NS        snshq901.ghanatel.com.gh.
+94.87.80.in-addr.arpa.         NS        snshq902.ghanatel.com.gh.
+94.87.80.in-addr.arpa.         NS        mantse.gh.com.
+
+; Source AFRINIC
+15.88.80.in-addr.arpa.         NS        ns1.ooredoo.dz.
+15.88.80.in-addr.arpa.         NS        ns2.ooredoo.dz.
+
+; Source AFRINIC
+0.95.80.in-addr.arpa.         NS        ns0.rms-dns.co.za.
+0.95.80.in-addr.arpa.         NS        ns1.rms-dns.co.za.
+0.95.80.in-addr.arpa.         NS        ns2.rms-dns.co.za.
+
+; Source AFRINIC
+1.95.80.in-addr.arpa.         NS        ns0.rms-dns.co.za.
+1.95.80.in-addr.arpa.         NS        ns1.rms-dns.co.za.
+1.95.80.in-addr.arpa.         NS        ns2.rms-dns.co.za.
+1.95.80.in-addr.arpa.         DS        10975 8 1 19e0bab52f7544d446d2b186779765c50bfeb5c6
+1.95.80.in-addr.arpa.         DS        10975 8 2 5fc252038ea20fe70d9718d1073b542c67ebe038c2a05ca6da707b75398cdd08
+
+; Source AFRINIC
+2.95.80.in-addr.arpa.         NS        ns0.rms-dns.co.za.
+2.95.80.in-addr.arpa.         NS        ns1.rms-dns.co.za.
+2.95.80.in-addr.arpa.         NS        ns2.rms-dns.co.za.
+2.95.80.in-addr.arpa.         DS        17362 8 1 5c9121925013057e9656baeebb7bd6bb29cee495
+2.95.80.in-addr.arpa.         DS        17362 8 2 f492422de8c593049a28ebfd5fe6bb28871539da2de172fd023ec7e663b8b4e3
+
+; Source AFRINIC
+3.95.80.in-addr.arpa.         NS        ns0.rms-dns.co.za.
+3.95.80.in-addr.arpa.         NS        ns1.rms-dns.co.za.
+3.95.80.in-addr.arpa.         NS        ns2.rms-dns.co.za.
+3.95.80.in-addr.arpa.         DS        41722 8 1 3ed1c4dc4bb0b4eac67cf047e4253676c3afb175
+3.95.80.in-addr.arpa.         DS        41722 8 2 4ff927612b5add300e8ccd889d660d90048913411880f768a4fb270451c28905
+
+; Source AFRINIC
+4.95.80.in-addr.arpa.         NS        ns0.rms-dns.co.za.
+4.95.80.in-addr.arpa.         NS        ns1.rms-dns.co.za.
+
+; Source AFRINIC
+5.95.80.in-addr.arpa.         NS        ns0.rms-dns.co.za.
+5.95.80.in-addr.arpa.         NS        ns1.rms-dns.co.za.
+
+; Source AFRINIC
+6.95.80.in-addr.arpa.         NS        ns0.rms-dns.co.za.
+6.95.80.in-addr.arpa.         NS        ns1.rms-dns.co.za.
+
+; Source AFRINIC
+7.95.80.in-addr.arpa.         NS        ns0.rms-dns.co.za.
+7.95.80.in-addr.arpa.         NS        ns1.rms-dns.co.za.
+
+; Source AFRINIC
+193.240.80.in-addr.arpa.         NS        auth1.liquidtelecom.com.
+193.240.80.in-addr.arpa.         NS        auth2.liquidtelecom.com.
+
+; Source AFRINIC
+194.240.80.in-addr.arpa.         NS        auth1.liquidtelecom.com.
+194.240.80.in-addr.arpa.         NS        auth2.liquidtelecom.com.
+
+; Source AFRINIC
+202.240.80.in-addr.arpa.         NS        ns1.swiftkenya.com.
+202.240.80.in-addr.arpa.         NS        ns2.swiftkenya.com.
+
+; Source AFRINIC
+203.240.80.in-addr.arpa.         NS        ns1.swiftkenya.com.
+203.240.80.in-addr.arpa.         NS        ns2.swiftkenya.com.
+
+; Source AFRINIC
+0.246.80.in-addr.arpa.         NS        ns1.tda.dz.
+0.246.80.in-addr.arpa.         NS        ns2.tda.dz.
+
+; Source AFRINIC
+1.246.80.in-addr.arpa.         NS        ns1.tda.dz.
+1.246.80.in-addr.arpa.         NS        ns2.tda.dz.
+
+; Source AFRINIC
+2.246.80.in-addr.arpa.         NS        ns1.tda.dz.
+2.246.80.in-addr.arpa.         NS        ns2.tda.dz.
+
+; Source AFRINIC
+3.246.80.in-addr.arpa.         NS        ns1.tda.dz.
+3.246.80.in-addr.arpa.         NS        ns2.tda.dz.
+
+; Source AFRINIC
+4.246.80.in-addr.arpa.         NS        ns1.tda.dz.
+4.246.80.in-addr.arpa.         NS        ns2.tda.dz.
+
+; Source AFRINIC
+11.246.80.in-addr.arpa.         NS        ns1.tda.dz.
+11.246.80.in-addr.arpa.         NS        ns2.tda.dz.
+
+; Source AFRINIC
+0.248.80.in-addr.arpa.         NS        flying-dove1.21ctl.com.
+0.248.80.in-addr.arpa.         NS        flying-dove2.21ctl.com.
+
+; Source AFRINIC
+1.248.80.in-addr.arpa.         NS        flying-dove1.21ctl.com.
+1.248.80.in-addr.arpa.         NS        flying-dove2.21ctl.com.
+
+; Source AFRINIC
+2.248.80.in-addr.arpa.         NS        flying-dove1.21ctl.com.
+2.248.80.in-addr.arpa.         NS        flying-dove2.21ctl.com.
+
+; Source AFRINIC
+3.248.80.in-addr.arpa.         NS        flying-dove1.21ctl.com.
+3.248.80.in-addr.arpa.         NS        flying-dove2.21ctl.com.
+
+; Source AFRINIC
+4.248.80.in-addr.arpa.         NS        flying-dove1.21ctl.com.
+4.248.80.in-addr.arpa.         NS        flying-dove2.21ctl.com.
+
+; Source AFRINIC
+5.248.80.in-addr.arpa.         NS        flying-dove1.21ctl.com.
+5.248.80.in-addr.arpa.         NS        flying-dove2.21ctl.com.
+
+; Source AFRINIC
+6.248.80.in-addr.arpa.         NS        flying-dove1.21ctl.com.
+6.248.80.in-addr.arpa.         NS        flying-dove2.21ctl.com.
+
+; Source AFRINIC
+7.248.80.in-addr.arpa.         NS        flying-dove1.21ctl.com.
+7.248.80.in-addr.arpa.         NS        flying-dove2.21ctl.com.
+
+; Source AFRINIC
+8.248.80.in-addr.arpa.         NS        flying-dove1.21ctl.com.
+8.248.80.in-addr.arpa.         NS        flying-dove2.21ctl.com.
+
+; Source AFRINIC
+9.248.80.in-addr.arpa.         NS        flying-dove1.21ctl.com.
+9.248.80.in-addr.arpa.         NS        flying-dove2.21ctl.com.
+
+; Source AFRINIC
+10.248.80.in-addr.arpa.         NS        flying-dove1.21ctl.com.
+10.248.80.in-addr.arpa.         NS        flying-dove2.21ctl.com.
+
+; Source AFRINIC
+11.248.80.in-addr.arpa.         NS        flying-dove1.21ctl.com.
+11.248.80.in-addr.arpa.         NS        flying-dove2.21ctl.com.
+
+; Source AFRINIC
+12.248.80.in-addr.arpa.         NS        flying-dove1.21ctl.com.
+12.248.80.in-addr.arpa.         NS        flying-dove2.21ctl.com.
+
+; Source AFRINIC
+13.248.80.in-addr.arpa.         NS        flying-dove1.21ctl.com.
+13.248.80.in-addr.arpa.         NS        flying-dove2.21ctl.com.
+
+; Source AFRINIC
+14.248.80.in-addr.arpa.         NS        flying-dove1.21ctl.com.
+14.248.80.in-addr.arpa.         NS        flying-dove2.21ctl.com.
+
+; Source AFRINIC
+15.248.80.in-addr.arpa.         NS        flying-dove1.21ctl.com.
+15.248.80.in-addr.arpa.         NS        flying-dove2.21ctl.com.
+
+; Source AFRINIC
+64.248.80.in-addr.arpa.         NS        ns1.cafe.tg.
+64.248.80.in-addr.arpa.         NS        ns2.cafe.tg.
+
+; Source AFRINIC
+65.248.80.in-addr.arpa.         NS        ns1.cafe.tg.
+65.248.80.in-addr.arpa.         NS        ns2.cafe.tg.
+
+; Source AFRINIC
+66.248.80.in-addr.arpa.         NS        ns1.cafe.tg.
+66.248.80.in-addr.arpa.         NS        ns2.cafe.tg.
+
+; Source AFRINIC
+67.248.80.in-addr.arpa.         NS        ns1.cafe.tg.
+67.248.80.in-addr.arpa.         NS        ns2.cafe.tg.
+
+; Source AFRINIC
+68.248.80.in-addr.arpa.         NS        ns1.cafe.tg.
+68.248.80.in-addr.arpa.         NS        ns2.cafe.tg.
+
+; Source AFRINIC
+69.248.80.in-addr.arpa.         NS        ns1.cafe.tg.
+69.248.80.in-addr.arpa.         NS        ns2.cafe.tg.
+
+; Source AFRINIC
+70.248.80.in-addr.arpa.         NS        ns1.cafe.tg.
+70.248.80.in-addr.arpa.         NS        ns2.cafe.tg.
+
+; Source AFRINIC
+71.248.80.in-addr.arpa.         NS        ns1.cafe.tg.
+71.248.80.in-addr.arpa.         NS        ns2.cafe.tg.
+
+; Source AFRINIC
+73.248.80.in-addr.arpa.         NS        dns.madleets.com.
+73.248.80.in-addr.arpa.         NS        b0x1.madleets.com.
+
+; Source AFRINIC
+77.248.80.in-addr.arpa.         NS        ns1.cafe.tg.
+77.248.80.in-addr.arpa.         NS        ns2.cafe.tg.
+
+; Source AFRINIC
+65.249.80.in-addr.arpa.         NS        dns-1.djaweb.dz.
+65.249.80.in-addr.arpa.         NS        dns-2.djaweb.dz.
+
+; Source AFRINIC
+68.249.80.in-addr.arpa.         NS        dns-1.djaweb.dz.
+68.249.80.in-addr.arpa.         NS        dns-2.djaweb.dz.
+
+; Source AFRINIC
+70.249.80.in-addr.arpa.         NS        dns-1.djaweb.dz.
+70.249.80.in-addr.arpa.         NS        dns-2.djaweb.dz.
+
+; Source AFRINIC
+72.249.80.in-addr.arpa.         NS        dns-1.djaweb.dz.
+72.249.80.in-addr.arpa.         NS        dns-2.djaweb.dz.
+
+; Source AFRINIC
+73.249.80.in-addr.arpa.         NS        dns-1.djaweb.dz.
+73.249.80.in-addr.arpa.         NS        dns-2.djaweb.dz.
+
+; Source AFRINIC
+74.249.80.in-addr.arpa.         NS        dns-1.djaweb.dz.
+74.249.80.in-addr.arpa.         NS        dns-2.djaweb.dz.
+
+; Source AFRINIC
+75.249.80.in-addr.arpa.         NS        dns-1.djaweb.dz.
+75.249.80.in-addr.arpa.         NS        dns-2.djaweb.dz.
+
+; Source AFRINIC
+76.249.80.in-addr.arpa.         NS        dns-1.djaweb.dz.
+76.249.80.in-addr.arpa.         NS        dns-2.djaweb.dz.
+
+AFRINIC.80.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:14Z with 302 NS records from AFRINIC."
+AFRINIC.80.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:14Z with 6 DS records from AFRINIC."

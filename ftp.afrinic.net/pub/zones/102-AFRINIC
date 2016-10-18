@@ -1,0 +1,15 @@
+$TTL 172800
+$ORIGIN .
+
+
+; Source AFRINIC
+102.in-addr.arpa.         NS        ns1.afrinic.net.
+102.in-addr.arpa.         NS        ns2.afrinic.net.
+102.in-addr.arpa.         NS        tinnie.arin.net.
+102.in-addr.arpa.         NS        ns2.lacnic.net.
+102.in-addr.arpa.         NS        sec1.apnic.net.
+102.in-addr.arpa.         NS        afrinic.authdns.ripe.net.
+102.in-addr.arpa.         NS        sec3.apnic.net.
+
+AFRINIC.102.in-addr.arpa.	IN	TXT	"Generated at 2016-03-17 14:24:01Z with 7 NS records from AFRINIC."
+AFRINIC.102.in-addr.arpa.	IN	TXT	"Generated at 2016-03-17 14:24:01Z with 0 DS records from AFRINIC."

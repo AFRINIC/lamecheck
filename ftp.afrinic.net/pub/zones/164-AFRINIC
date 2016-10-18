@@ -1,0 +1,20 @@
+$TTL 172800
+$ORIGIN .
+
+
+; Source AFRINIC
+88.164.in-addr.arpa.         NS        demeter.is.co.za.
+88.164.in-addr.arpa.         NS        titan.is.co.za.
+88.164.in-addr.arpa.         NS        icm1.icp.net.
+
+; Source AFRINIC
+151.164.in-addr.arpa.         NS        ccsdns1.gov.za.
+151.164.in-addr.arpa.         NS        ccsvwb1.gov.za.
+
+; Source AFRINIC
+155.164.in-addr.arpa.         NS        titan.is.co.za.
+155.164.in-addr.arpa.         NS        demeter.is.co.za.
+155.164.in-addr.arpa.         NS        ns.pipex.net.
+
+AFRINIC.164.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:03Z with 8 NS records from AFRINIC."
+AFRINIC.164.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:03Z with 0 DS records from AFRINIC."

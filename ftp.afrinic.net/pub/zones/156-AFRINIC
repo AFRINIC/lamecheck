@@ -1,0 +1,266 @@
+$TTL 172800
+$ORIGIN .
+
+
+; Source AFRINIC
+8.156.in-addr.arpa.         NS        demeter.is.co.za.
+8.156.in-addr.arpa.         NS        titan.is.co.za.
+
+; Source AFRINIC
+160.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+160.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+161.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+161.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+162.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+162.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+163.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+163.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+164.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+164.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+165.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+165.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+166.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+166.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+167.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+167.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+168.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+168.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+169.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+169.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+170.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+170.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+171.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+171.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+172.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+172.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+173.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+173.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+174.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+174.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+175.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+175.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+176.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+176.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+177.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+177.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+178.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+178.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+179.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+179.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+180.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+180.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+181.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+181.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+182.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+182.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+183.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+183.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+184.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+184.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+185.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+185.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+186.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+186.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+187.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+187.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+188.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+188.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+189.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+189.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+190.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+190.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+191.156.in-addr.arpa.         NS        dns04.etisalat.com.eg.
+191.156.in-addr.arpa.         NS        dns03.etisalat.com.eg.
+
+; Source AFRINIC
+192.156.in-addr.arpa.         NS        ns1.tedata.net.
+192.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+193.156.in-addr.arpa.         NS        ns1.tedata.net.
+193.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+194.156.in-addr.arpa.         NS        ns1.tedata.net.
+194.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+195.156.in-addr.arpa.         NS        ns1.tedata.net.
+195.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+196.156.in-addr.arpa.         NS        ns1.tedata.net.
+196.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+197.156.in-addr.arpa.         NS        ns1.tedata.net.
+197.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+198.156.in-addr.arpa.         NS        ns1.tedata.net.
+198.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+199.156.in-addr.arpa.         NS        ns1.tedata.net.
+199.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+200.156.in-addr.arpa.         NS        ns1.tedata.net.
+200.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+201.156.in-addr.arpa.         NS        ns1.tedata.net.
+201.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+202.156.in-addr.arpa.         NS        ns1.tedata.net.
+202.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+203.156.in-addr.arpa.         NS        ns1.tedata.net.
+203.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+204.156.in-addr.arpa.         NS        ns1.tedata.net.
+204.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+205.156.in-addr.arpa.         NS        ns1.tedata.net.
+205.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+206.156.in-addr.arpa.         NS        ns1.tedata.net.
+206.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+207.156.in-addr.arpa.         NS        ns1.tedata.net.
+207.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+208.156.in-addr.arpa.         NS        ns1.tedata.net.
+208.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+209.156.in-addr.arpa.         NS        ns1.tedata.net.
+209.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+210.156.in-addr.arpa.         NS        ns1.tedata.net.
+210.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+211.156.in-addr.arpa.         NS        ns1.tedata.net.
+211.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+212.156.in-addr.arpa.         NS        ns1.tedata.net.
+212.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+213.156.in-addr.arpa.         NS        ns1.tedata.net.
+213.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+214.156.in-addr.arpa.         NS        ns1.tedata.net.
+214.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+215.156.in-addr.arpa.         NS        ns1.tedata.net.
+215.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+216.156.in-addr.arpa.         NS        ns1.tedata.net.
+216.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+217.156.in-addr.arpa.         NS        ns1.tedata.net.
+217.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+218.156.in-addr.arpa.         NS        ns1.tedata.net.
+218.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+219.156.in-addr.arpa.         NS        ns1.tedata.net.
+219.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+220.156.in-addr.arpa.         NS        ns1.tedata.net.
+220.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+221.156.in-addr.arpa.         NS        ns1.tedata.net.
+221.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+222.156.in-addr.arpa.         NS        ns1.tedata.net.
+222.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+; Source AFRINIC
+223.156.in-addr.arpa.         NS        ns1.tedata.net.
+223.156.in-addr.arpa.         NS        ns2.tedata.net.
+
+AFRINIC.156.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:07Z with 130 NS records from AFRINIC."
+AFRINIC.156.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:07Z with 0 DS records from AFRINIC."

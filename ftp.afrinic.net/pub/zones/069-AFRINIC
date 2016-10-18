@@ -1,0 +1,150 @@
+$TTL 172800
+$ORIGIN .
+
+
+; Source AFRINIC
+64.63.69.in-addr.arpa.         NS        ns1.swazi.net.
+64.63.69.in-addr.arpa.         NS        ns2.eu.concert.net.
+64.63.69.in-addr.arpa.         NS        ns2.swazi.net.
+
+; Source AFRINIC
+65.63.69.in-addr.arpa.         NS        ns1.swazi.net.
+65.63.69.in-addr.arpa.         NS        ns2.eu.concert.net.
+65.63.69.in-addr.arpa.         NS        ns2.swazi.net.
+
+; Source AFRINIC
+66.63.69.in-addr.arpa.         NS        ns1.swazi.net.
+66.63.69.in-addr.arpa.         NS        ns2.eu.concert.net.
+66.63.69.in-addr.arpa.         NS        ns2.swazi.net.
+
+; Source AFRINIC
+67.63.69.in-addr.arpa.         NS        ns1.swazi.net.
+67.63.69.in-addr.arpa.         NS        ns2.eu.concert.net.
+67.63.69.in-addr.arpa.         NS        ns2.swazi.net.
+
+; Source AFRINIC
+68.63.69.in-addr.arpa.         NS        ns1.swazi.net.
+68.63.69.in-addr.arpa.         NS        ns2.eu.concert.net.
+68.63.69.in-addr.arpa.         NS        ns2.swazi.net.
+
+; Source AFRINIC
+69.63.69.in-addr.arpa.         NS        ns1.swazi.net.
+69.63.69.in-addr.arpa.         NS        ns2.eu.concert.net.
+69.63.69.in-addr.arpa.         NS        ns2.swazi.net.
+
+; Source AFRINIC
+70.63.69.in-addr.arpa.         NS        ns1.swazi.net.
+70.63.69.in-addr.arpa.         NS        ns2.eu.concert.net.
+70.63.69.in-addr.arpa.         NS        ns2.swazi.net.
+
+; Source AFRINIC
+71.63.69.in-addr.arpa.         NS        ns1.swazi.net.
+71.63.69.in-addr.arpa.         NS        ns2.eu.concert.net.
+71.63.69.in-addr.arpa.         NS        ns2.swazi.net.
+
+; Source AFRINIC
+72.63.69.in-addr.arpa.         NS        ns1.swazi.net.
+72.63.69.in-addr.arpa.         NS        ns2.eu.concert.net.
+72.63.69.in-addr.arpa.         NS        ns2.swazi.net.
+
+; Source AFRINIC
+73.63.69.in-addr.arpa.         NS        ns1.swazi.net.
+73.63.69.in-addr.arpa.         NS        ns2.eu.concert.net.
+73.63.69.in-addr.arpa.         NS        ns2.swazi.net.
+
+; Source AFRINIC
+74.63.69.in-addr.arpa.         NS        ns1.swazi.net.
+74.63.69.in-addr.arpa.         NS        ns2.eu.concert.net.
+74.63.69.in-addr.arpa.         NS        ns2.swazi.net.
+
+; Source AFRINIC
+75.63.69.in-addr.arpa.         NS        ns1.swazi.net.
+75.63.69.in-addr.arpa.         NS        ns2.eu.concert.net.
+75.63.69.in-addr.arpa.         NS        ns2.swazi.net.
+
+; Source AFRINIC
+76.63.69.in-addr.arpa.         NS        ns1.swazi.net.
+76.63.69.in-addr.arpa.         NS        ns2.eu.concert.net.
+76.63.69.in-addr.arpa.         NS        ns2.swazi.net.
+
+; Source AFRINIC
+77.63.69.in-addr.arpa.         NS        ns1.swazi.net.
+77.63.69.in-addr.arpa.         NS        ns2.eu.concert.net.
+77.63.69.in-addr.arpa.         NS        ns2.swazi.net.
+
+; Source AFRINIC
+78.63.69.in-addr.arpa.         NS        ns1.swazi.net.
+78.63.69.in-addr.arpa.         NS        ns2.eu.concert.net.
+78.63.69.in-addr.arpa.         NS        ns2.swazi.net.
+
+; Source AFRINIC
+79.63.69.in-addr.arpa.         NS        ns1.swazi.net.
+79.63.69.in-addr.arpa.         NS        ns2.eu.concert.net.
+79.63.69.in-addr.arpa.         NS        ns2.swazi.net.
+
+; Source AFRINIC
+32.67.69.in-addr.arpa.         NS        dns1.cmcnetworks.net.
+32.67.69.in-addr.arpa.         NS        dns2.cmcnetworks.net.
+
+; Source AFRINIC
+33.67.69.in-addr.arpa.         NS        dns1.cmcnetworks.net.
+33.67.69.in-addr.arpa.         NS        dns2.cmcnetworks.net.
+
+; Source AFRINIC
+34.67.69.in-addr.arpa.         NS        dns1.cmcnetworks.net.
+34.67.69.in-addr.arpa.         NS        dns2.cmcnetworks.net.
+
+; Source AFRINIC
+35.67.69.in-addr.arpa.         NS        dns1.cmcnetworks.net.
+35.67.69.in-addr.arpa.         NS        dns2.cmcnetworks.net.
+
+; Source AFRINIC
+36.67.69.in-addr.arpa.         NS        dns1.cmcnetworks.net.
+36.67.69.in-addr.arpa.         NS        dns2.cmcnetworks.net.
+
+; Source AFRINIC
+37.67.69.in-addr.arpa.         NS        dns1.cmcnetworks.net.
+37.67.69.in-addr.arpa.         NS        dns2.cmcnetworks.net.
+
+; Source AFRINIC
+38.67.69.in-addr.arpa.         NS        dns1.cmcnetworks.net.
+38.67.69.in-addr.arpa.         NS        dns2.cmcnetworks.net.
+
+; Source AFRINIC
+39.67.69.in-addr.arpa.         NS        dns1.cmcnetworks.net.
+39.67.69.in-addr.arpa.         NS        dns2.cmcnetworks.net.
+
+; Source AFRINIC
+40.67.69.in-addr.arpa.         NS        dns1.cmcnetworks.net.
+40.67.69.in-addr.arpa.         NS        dns2.cmcnetworks.net.
+
+; Source AFRINIC
+41.67.69.in-addr.arpa.         NS        dns1.cmcnetworks.net.
+41.67.69.in-addr.arpa.         NS        dns2.cmcnetworks.net.
+
+; Source AFRINIC
+42.67.69.in-addr.arpa.         NS        dns1.cmcnetworks.net.
+42.67.69.in-addr.arpa.         NS        dns2.cmcnetworks.net.
+
+; Source AFRINIC
+43.67.69.in-addr.arpa.         NS        dns1.cmcnetworks.net.
+43.67.69.in-addr.arpa.         NS        dns2.cmcnetworks.net.
+
+; Source AFRINIC
+44.67.69.in-addr.arpa.         NS        dns1.cmcnetworks.net.
+44.67.69.in-addr.arpa.         NS        dns2.cmcnetworks.net.
+
+; Source AFRINIC
+45.67.69.in-addr.arpa.         NS        dns1.cmcnetworks.net.
+45.67.69.in-addr.arpa.         NS        dns2.cmcnetworks.net.
+
+; Source AFRINIC
+46.67.69.in-addr.arpa.         NS        dns1.cmcnetworks.net.
+46.67.69.in-addr.arpa.         NS        dns2.cmcnetworks.net.
+
+; Source AFRINIC
+47.67.69.in-addr.arpa.         NS        dns1.cmcnetworks.net.
+47.67.69.in-addr.arpa.         NS        dns2.cmcnetworks.net.
+
+AFRINIC.69.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:14Z with 80 NS records from AFRINIC."
+AFRINIC.69.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:14Z with 0 DS records from AFRINIC."

@@ -1,0 +1,12 @@
+$TTL 172800
+$ORIGIN .
+
+
+; Source AFRINIC
+85.166.in-addr.arpa.         NS        net4.sbic.co.za.
+85.166.in-addr.arpa.         NS        net1.sbic.co.za.
+85.166.in-addr.arpa.         NS        myrtle.proxima.alt.za.
+85.166.in-addr.arpa.         NS        daisy.ee.und.ac.za.
+
+AFRINIC.166.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:10Z with 4 NS records from AFRINIC."
+AFRINIC.166.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:10Z with 0 DS records from AFRINIC."

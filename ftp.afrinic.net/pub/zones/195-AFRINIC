@@ -1,0 +1,590 @@
+$TTL 172800
+$ORIGIN .
+
+
+; Source AFRINIC
+192.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+192.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+192.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+193.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+193.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+193.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+194.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+194.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+194.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+195.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+195.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+195.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+196.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+196.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+196.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+197.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+197.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+197.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+198.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+198.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+198.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+199.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+199.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+199.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+200.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+200.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+200.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+201.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+201.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+201.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+201.24.195.in-addr.arpa.         NS        sanaga.camnet.cm.
+
+; Source AFRINIC
+202.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+202.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+202.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+203.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+203.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+203.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+204.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+204.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+204.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+205.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+205.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+205.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+206.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+206.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+206.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+207.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+207.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+207.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+208.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+208.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+208.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+209.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+209.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+209.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+210.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+210.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+210.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+211.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+211.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+211.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+212.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+212.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+212.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+213.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+213.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+213.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+214.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+214.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+214.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+215.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+215.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+215.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+216.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+216.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+216.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+217.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+217.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+217.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+218.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+218.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+218.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+219.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+219.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+219.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+220.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+220.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+220.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+221.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+221.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+221.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+222.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+222.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+222.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+223.24.195.in-addr.arpa.         NS        kim.camnet.cm.
+223.24.195.in-addr.arpa.         NS        mbam.camnet.cm.
+223.24.195.in-addr.arpa.         NS        benoue.camnet.cm.
+
+; Source AFRINIC
+0.43.195.in-addr.arpa.         NS        dxmon.cern.ch.
+0.43.195.in-addr.arpa.         NS        ns1.eunet.eg.net.
+0.43.195.in-addr.arpa.         NS        ns.eu.net.
+0.43.195.in-addr.arpa.         NS        ns.eunet.eg.net.
+0.43.195.in-addr.arpa.         NS        ns.ripe.net.
+0.43.195.in-addr.arpa.         NS        sunic.sunet.se.
+
+; Source AFRINIC
+1.43.195.in-addr.arpa.         NS        ns.eunet.eg.net.
+1.43.195.in-addr.arpa.         NS        dxmon.cern.ch.
+1.43.195.in-addr.arpa.         NS        ns1.eunet.eg.net.
+1.43.195.in-addr.arpa.         NS        ns.eu.net.
+1.43.195.in-addr.arpa.         NS        ns.ripe.net.
+1.43.195.in-addr.arpa.         NS        sunic.sunet.se.
+
+; Source AFRINIC
+2.43.195.in-addr.arpa.         NS        ns.eunet.eg.net.
+2.43.195.in-addr.arpa.         NS        dxmon.cern.ch.
+2.43.195.in-addr.arpa.         NS        ns1.eunet.eg.net.
+2.43.195.in-addr.arpa.         NS        ns.eu.net.
+2.43.195.in-addr.arpa.         NS        ns.ripe.net.
+2.43.195.in-addr.arpa.         NS        sunic.sunet.se.
+
+; Source AFRINIC
+3.43.195.in-addr.arpa.         NS        ns.eunet.eg.net.
+3.43.195.in-addr.arpa.         NS        ns1.eunet.eg.net.
+3.43.195.in-addr.arpa.         NS        ns.eu.net.
+3.43.195.in-addr.arpa.         NS        ns.ripe.net.
+3.43.195.in-addr.arpa.         NS        sunic.sunet.se.
+
+; Source AFRINIC
+4.43.195.in-addr.arpa.         NS        ns.eunet.eg.net.
+4.43.195.in-addr.arpa.         NS        dxmon.cern.ch.
+4.43.195.in-addr.arpa.         NS        ns1.eunet.eg.net.
+4.43.195.in-addr.arpa.         NS        ns.eu.net.
+4.43.195.in-addr.arpa.         NS        sunic.sunet.se.
+
+; Source AFRINIC
+5.43.195.in-addr.arpa.         NS        ns1.eunet.eg.net.
+5.43.195.in-addr.arpa.         NS        ns.eu.net.
+5.43.195.in-addr.arpa.         NS        ns.eunet.eg.net.
+5.43.195.in-addr.arpa.         NS        sunic.sunet.se.
+
+; Source AFRINIC
+6.43.195.in-addr.arpa.         NS        ns1.eunet.eg.net.
+6.43.195.in-addr.arpa.         NS        ns.eu.net.
+6.43.195.in-addr.arpa.         NS        ns.eunet.eg.net.
+6.43.195.in-addr.arpa.         NS        sunic.sunet.se.
+
+; Source AFRINIC
+7.43.195.in-addr.arpa.         NS        ns1.eunet.eg.net.
+7.43.195.in-addr.arpa.         NS        ns.eu.net.
+7.43.195.in-addr.arpa.         NS        ns.eunet.eg.net.
+7.43.195.in-addr.arpa.         NS        sunic.sunet.se.
+
+; Source AFRINIC
+8.43.195.in-addr.arpa.         NS        dxmon.cern.ch.
+8.43.195.in-addr.arpa.         NS        ns1.eunet.eg.net.
+8.43.195.in-addr.arpa.         NS        ns.eu.net.
+8.43.195.in-addr.arpa.         NS        ns.eunet.eg.net.
+8.43.195.in-addr.arpa.         NS        sunic.sunet.se.
+
+; Source AFRINIC
+9.43.195.in-addr.arpa.         NS        dxmon.cern.ch.
+9.43.195.in-addr.arpa.         NS        ns1.eunet.eg.net.
+9.43.195.in-addr.arpa.         NS        ns.eu.net.
+9.43.195.in-addr.arpa.         NS        ns.eunet.eg.net.
+9.43.195.in-addr.arpa.         NS        sunic.sunet.se.
+
+; Source AFRINIC
+10.43.195.in-addr.arpa.         NS        dxmon.cern.ch.
+10.43.195.in-addr.arpa.         NS        ns1.eunet.eg.net.
+10.43.195.in-addr.arpa.         NS        ns.eu.net.
+10.43.195.in-addr.arpa.         NS        ns.eunet.eg.net.
+10.43.195.in-addr.arpa.         NS        sunic.sunet.se.
+
+; Source AFRINIC
+11.43.195.in-addr.arpa.         NS        dxmon.cern.ch.
+11.43.195.in-addr.arpa.         NS        ns1.eunet.eg.net.
+11.43.195.in-addr.arpa.         NS        ns.eu.net.
+11.43.195.in-addr.arpa.         NS        ns.eunet.eg.net.
+11.43.195.in-addr.arpa.         NS        sunic.sunet.se.
+
+; Source AFRINIC
+12.43.195.in-addr.arpa.         NS        dxmon.cern.ch.
+12.43.195.in-addr.arpa.         NS        ns1.eunet.eg.net.
+12.43.195.in-addr.arpa.         NS        ns.eu.net.
+12.43.195.in-addr.arpa.         NS        ns.eunet.eg.net.
+12.43.195.in-addr.arpa.         NS        sunic.sunet.se.
+
+; Source AFRINIC
+13.43.195.in-addr.arpa.         NS        ns.eunet.eg.net.
+13.43.195.in-addr.arpa.         NS        ns1.eunet.eg.net.
+
+; Source AFRINIC
+14.43.195.in-addr.arpa.         NS        ns.eunet.eg.net.
+14.43.195.in-addr.arpa.         NS        ns1.eunet.eg.net.
+
+; Source AFRINIC
+15.43.195.in-addr.arpa.         NS        ns.eunet.eg.net.
+15.43.195.in-addr.arpa.         NS        ns1.eunet.eg.net.
+
+; Source AFRINIC
+16.43.195.in-addr.arpa.         NS        ns.eunet.eg.net.
+16.43.195.in-addr.arpa.         NS        ns1.eunet.eg.net.
+
+; Source AFRINIC
+17.43.195.in-addr.arpa.         NS        ns.eunet.eg.net.
+17.43.195.in-addr.arpa.         NS        ns1.eunet.eg.net.
+
+; Source AFRINIC
+18.43.195.in-addr.arpa.         NS        ns.eunet.eg.net.
+18.43.195.in-addr.arpa.         NS        ns1.eunet.eg.net.
+
+; Source AFRINIC
+19.43.195.in-addr.arpa.         NS        ns.eunet.eg.net.
+19.43.195.in-addr.arpa.         NS        ns1.eunet.eg.net.
+
+; Source AFRINIC
+20.43.195.in-addr.arpa.         NS        ns.eunet.eg.net.
+20.43.195.in-addr.arpa.         NS        ns1.eunet.eg.net.
+
+; Source AFRINIC
+21.43.195.in-addr.arpa.         NS        ns.eunet.eg.net.
+21.43.195.in-addr.arpa.         NS        ns1.eunet.eg.net.
+
+; Source AFRINIC
+22.43.195.in-addr.arpa.         NS        ns.eunet.eg.net.
+22.43.195.in-addr.arpa.         NS        ns1.eunet.eg.net.
+
+; Source AFRINIC
+64.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+64.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+64.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+64.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+65.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+65.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+65.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+65.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+66.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+66.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+66.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+66.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+67.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+67.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+67.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+67.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+68.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+68.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+68.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+68.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+69.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+69.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+69.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+69.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+70.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+70.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+70.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+70.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+71.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+71.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+71.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+71.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+72.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+72.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+72.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+72.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+73.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+73.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+73.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+73.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+74.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+74.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+74.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+74.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+75.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+75.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+75.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+75.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+76.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+76.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+76.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+76.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+77.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+77.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+77.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+77.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+78.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+78.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+78.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+78.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+79.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+79.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+79.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+79.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+80.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+80.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+80.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+80.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+81.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+81.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+81.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+81.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+82.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+82.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+82.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+82.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+83.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+83.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+83.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+83.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+84.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+84.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+84.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+84.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+85.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+85.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+85.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+85.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+86.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+86.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+86.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+86.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+87.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+87.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+87.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+87.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+88.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+88.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+88.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+88.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+89.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+89.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+89.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+89.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+90.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+90.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+90.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+90.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+91.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+91.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+91.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+91.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+92.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+92.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+92.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+92.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+93.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+93.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+93.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+93.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+94.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+94.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+94.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+94.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+95.202.195.in-addr.arpa.         NS        ns1.mtnbusiness.co.ke.
+95.202.195.in-addr.arpa.         NS        ns1.iafrica.com.
+95.202.195.in-addr.arpa.         NS        ns2.mtnbusiness.co.ke.
+95.202.195.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+168.234.195.in-addr.arpa.         NS        osiris.cr-ix.net.
+168.234.195.in-addr.arpa.         NS        pacific.prtsystems.net.
+
+; Source AFRINIC
+32.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+33.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+34.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+35.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+36.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+37.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+38.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+39.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+40.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+41.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+42.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+43.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+44.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+45.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+46.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+47.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+48.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+49.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+50.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+51.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+52.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+53.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+54.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+55.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+56.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+57.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+58.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+59.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+60.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+61.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+62.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+; Source AFRINIC
+63.246.195.in-addr.arpa.         NS        frcu.eun.eg.
+
+AFRINIC.195.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:03Z with 344 NS records from AFRINIC."
+AFRINIC.195.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:03Z with 0 DS records from AFRINIC."

@@ -1,0 +1,60 @@
+$TTL 172800
+$ORIGIN .
+
+
+; Source AFRINIC
+2.4.1.0.0.2.ip6.arpa.         NS        ns1.afrinic.net.
+2.4.1.0.0.2.ip6.arpa.         NS        ns2.afrinic.net.
+2.4.1.0.0.2.ip6.arpa.         NS        tinnie.arin.net.
+2.4.1.0.0.2.ip6.arpa.         NS        ns2.lacnic.net.
+2.4.1.0.0.2.ip6.arpa.         NS        sec1.apnic.net.
+2.4.1.0.0.2.ip6.arpa.         NS        afrinic.authdns.ripe.net.
+
+; Source AFRINIC
+0.0.2.4.1.0.0.2.ip6.arpa.         NS        disa.tenet.ac.za.
+0.0.2.4.1.0.0.2.ip6.arpa.         NS        hippo.ru.ac.za.
+
+; Source AFRINIC
+0.1.2.4.1.0.0.2.ip6.arpa.         NS        dns1.cmcnetworks.net.
+0.1.2.4.1.0.0.2.ip6.arpa.         NS        dns2.cmcnetworks.net.
+
+; Source AFRINIC
+8.1.2.4.1.0.0.2.ip6.arpa.         NS        ns1.iafrica.com.
+8.1.2.4.1.0.0.2.ip6.arpa.         NS        ns2.iafrica.com.
+8.1.2.4.1.0.0.2.ip6.arpa.         NS        auth200.ns.uu.net.
+8.1.2.4.1.0.0.2.ip6.arpa.         NS        auth210.ns.uu.net.
+
+; Source AFRINIC
+8.4.2.4.1.0.0.2.ip6.arpa.         NS        ns1.emtelworld.com.
+8.4.2.4.1.0.0.2.ip6.arpa.         NS        ns1.emtelclub.com.
+
+; Source AFRINIC
+8.5.2.4.1.0.0.2.ip6.arpa.         NS        dns1.simbanet.net.
+8.5.2.4.1.0.0.2.ip6.arpa.         NS        ns1.simbanetwork.com.
+
+; Source AFRINIC
+8.7.2.4.1.0.0.2.ip6.arpa.         NS        ns.ipv6-sonatel.sn.
+8.7.2.4.1.0.0.2.ip6.arpa.         NS        ns2.ipv6-sonatel.sn.
+
+; Source AFRINIC
+0.a.2.4.1.0.0.2.ip6.arpa.         NS        mje99.posix.co.za.
+0.a.2.4.1.0.0.2.ip6.arpa.         NS        secdns1.posix.co.za.
+0.a.2.4.1.0.0.2.ip6.arpa.         NS        secdns2.posix.co.za.
+
+; Source AFRINIC
+0.b.2.4.1.0.0.2.ip6.arpa.         NS        ns1.africaonline.co.zw.
+0.b.2.4.1.0.0.2.ip6.arpa.         NS        ns2.africaonline.co.zw.
+0.b.2.4.1.0.0.2.ip6.arpa.         NS        ns9.africaonline.co.zw.
+
+; Source AFRINIC
+8.c.2.4.1.0.0.2.ip6.arpa.         NS        ns1.as6453.net.
+8.c.2.4.1.0.0.2.ip6.arpa.         NS        ns2.as6453.net.
+
+; Source AFRINIC
+0.d.2.4.1.0.0.2.ip6.arpa.         NS        ns2.afrinic.net.
+0.d.2.4.1.0.0.2.ip6.arpa.         NS        tinnie.arin.net.
+0.d.2.4.1.0.0.2.ip6.arpa.         NS        ns1.afrinic.net.
+0.d.2.4.1.0.0.2.ip6.arpa.         NS        ns3.afrinic.net.
+
+AFRINIC.2.4.1.0.0.2.ip6.arpa.	IN	TXT	"Generated at 2016-04-16 21:23:27Z with 32 NS records from AFRINIC."
+AFRINIC.2.4.1.0.0.2.ip6.arpa.	IN	TXT	"Generated at 2016-04-16 21:23:27Z with 0 DS records from AFRINIC."

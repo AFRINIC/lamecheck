@@ -1,0 +1,551 @@
+$TTL 172800
+$ORIGIN .
+
+
+; Source AFRINIC
+10.33.192.in-addr.arpa.         NS        ucthpx.uct.ac.za.
+10.33.192.in-addr.arpa.         NS        daisy.ee.und.ac.za.
+10.33.192.in-addr.arpa.         NS        hippo.ru.ac.za.
+10.33.192.in-addr.arpa.         NS        rain.psg.com.
+10.33.192.in-addr.arpa.         NS        nacdh4.nac.ac.za.
+
+; Source AFRINIC
+99.42.192.in-addr.arpa.         NS        hippo.ru.ac.za.
+99.42.192.in-addr.arpa.         NS        terrapin.ru.ac.za.
+99.42.192.in-addr.arpa.         NS        raccoon.ru.ac.za.
+99.42.192.in-addr.arpa.         NS        ucthpx.uct.ac.za.
+99.42.192.in-addr.arpa.         DS        17905 8 1 8B185DF2BE087DE09E2E3924E2024DA85B1FC64F
+99.42.192.in-addr.arpa.         DS        17905 8 2 AC2537D3074E9325B3015765722A6BFECB7178F35EF4CAAD5406375498B9B6EE
+
+; Source AFRINIC
+232.52.192.in-addr.arpa.         NS        decst.cerist.dz.
+232.52.192.in-addr.arpa.         NS        vaxst.cerist.dz.
+232.52.192.in-addr.arpa.         NS        nameserver.cnr.it.
+
+; Source AFRINIC
+138.68.192.in-addr.arpa.         NS        alyssa.rsinet.tn.
+138.68.192.in-addr.arpa.         NS        spiky.rsinet.tn.
+
+; Source AFRINIC
+237.70.192.in-addr.arpa.         NS        daisy.ee.und.ac.za.
+237.70.192.in-addr.arpa.         NS        hawk.cc.und.ac.za.
+237.70.192.in-addr.arpa.         NS        hippo.ru.ac.za.
+237.70.192.in-addr.arpa.         NS        rain.psg.com.
+
+; Source AFRINIC
+142.82.192.in-addr.arpa.         NS        cd4380.ufh.ac.za.
+142.82.192.in-addr.arpa.         NS        hippo.ru.ac.za.
+142.82.192.in-addr.arpa.         NS        daisy.ee.und.ac.za.
+142.82.192.in-addr.arpa.         NS        ucthpx.uct.ac.za.
+142.82.192.in-addr.arpa.         NS        rain.psg.com.
+
+; Source AFRINIC
+61.94.192.in-addr.arpa.         NS        gondor.mrc.ac.za.
+61.94.192.in-addr.arpa.         NS        ucthpx.uct.ac.za.
+61.94.192.in-addr.arpa.         NS        hippo.ru.ac.za.
+61.94.192.in-addr.arpa.         NS        rain.psg.com.
+
+; Source AFRINIC
+210.94.192.in-addr.arpa.         NS        mcd4330.medunsa.ac.za.
+210.94.192.in-addr.arpa.         NS        inet.up.ac.za.
+210.94.192.in-addr.arpa.         NS        rain.psg.com.
+
+; Source AFRINIC
+241.94.192.in-addr.arpa.         NS        pgserv.execom.co.za.
+241.94.192.in-addr.arpa.         NS        userv.execom.co.za.
+
+; Source AFRINIC
+246.94.192.in-addr.arpa.         NS        mje99.posix.co.za.
+246.94.192.in-addr.arpa.         NS        secdns1.posix.co.za.
+246.94.192.in-addr.arpa.         NS        secdns2.posix.co.za.
+246.94.192.in-addr.arpa.         DS        60541 8 1 51B18D3DA021C621D883C2E1FCAC36B67FB79FDB
+246.94.192.in-addr.arpa.         DS        60541 8 2 9B97B790CFCEFD95C89C48DE1E8B622BA189136A946754EA556FA8CD553A96E4
+
+; Source AFRINIC
+1.96.192.in-addr.arpa.         NS        ndaweb2.nda.agric.za.
+1.96.192.in-addr.arpa.         NS        apollo.is.co.za.
+
+; Source AFRINIC
+2.96.192.in-addr.arpa.         NS        risc1.unisa.ac.za.
+2.96.192.in-addr.arpa.         NS        inet.up.ac.za.
+2.96.192.in-addr.arpa.         NS        risc.unisa.ac.za.
+2.96.192.in-addr.arpa.         NS        mopanie.unisa.ac.za.
+
+; Source AFRINIC
+3.96.192.in-addr.arpa.         NS        jupiter.is.co.za.
+3.96.192.in-addr.arpa.         NS        titan.is.co.za.
+3.96.192.in-addr.arpa.         NS        demeter.is.co.za.
+3.96.192.in-addr.arpa.         NS        mje99.posix.co.za.
+
+; Source AFRINIC
+5.96.192.in-addr.arpa.         NS        bootes.hartrao.ac.za.
+5.96.192.in-addr.arpa.         NS        hippo.ru.ac.za.
+5.96.192.in-addr.arpa.         NS        apus.hartrao.ac.za.
+5.96.192.in-addr.arpa.         NS        rain.psg.com.
+
+; Source AFRINIC
+7.96.192.in-addr.arpa.         NS        hippo.ru.ac.za.
+7.96.192.in-addr.arpa.         NS        disa.tenet.ac.za.
+7.96.192.in-addr.arpa.         NS        extdns.nmmu.ac.za.
+7.96.192.in-addr.arpa.         NS        neptune.nmmu.ac.za.
+7.96.192.in-addr.arpa.         NS        rain.psg.com.
+
+; Source AFRINIC
+8.96.192.in-addr.arpa.         NS        hippo.ru.ac.za.
+8.96.192.in-addr.arpa.         NS        disa.tenet.ac.za.
+8.96.192.in-addr.arpa.         NS        extdns.nmmu.ac.za.
+8.96.192.in-addr.arpa.         NS        neptune.nmmu.ac.za.
+8.96.192.in-addr.arpa.         NS        rain.psg.com.
+
+; Source AFRINIC
+10.96.192.in-addr.arpa.         NS        ns2.capewools.co.za.
+10.96.192.in-addr.arpa.         NS        ns1.capewools.co.za.
+
+; Source AFRINIC
+11.96.192.in-addr.arpa.         NS        daisy.ee.und.ac.za.
+11.96.192.in-addr.arpa.         NS        hippo.ru.ac.za.
+11.96.192.in-addr.arpa.         NS        ucthpx.uct.ac.za.
+11.96.192.in-addr.arpa.         NS        rain.psg.com.
+11.96.192.in-addr.arpa.         NS        cd4380.ufh.ac.za.
+
+; Source AFRINIC
+13.96.192.in-addr.arpa.         NS        dns2.citec.net.
+13.96.192.in-addr.arpa.         NS        nameserver.intrinsitech.com.
+
+; Source AFRINIC
+15.96.192.in-addr.arpa.         NS        hippo.ru.ac.za.
+15.96.192.in-addr.arpa.         NS        disa.tenet.ac.za.
+15.96.192.in-addr.arpa.         NS        extdns.nmmu.ac.za.
+15.96.192.in-addr.arpa.         NS        neptune.nmmu.ac.za.
+15.96.192.in-addr.arpa.         NS        rain.psg.com.
+
+; Source AFRINIC
+16.96.192.in-addr.arpa.         NS        olsa99.olivetti.za.
+16.96.192.in-addr.arpa.         NS        cyber1.cybersoft.co.za.
+
+; Source AFRINIC
+20.96.192.in-addr.arpa.         NS        rain.psg.com.
+20.96.192.in-addr.arpa.         NS        hippo.ru.ac.za.
+20.96.192.in-addr.arpa.         NS        aloe.fortcox.ac.za.
+20.96.192.in-addr.arpa.         NS        ns.utr.ac.za.
+
+; Source AFRINIC
+21.96.192.in-addr.arpa.         NS        ns1.iafrica.com.
+21.96.192.in-addr.arpa.         NS        ns2.iafrica.com.
+21.96.192.in-addr.arpa.         NS        pixie.udw.ac.za.
+21.96.192.in-addr.arpa.         NS        hippo.ru.ac.za.
+
+; Source AFRINIC
+22.96.192.in-addr.arpa.         NS        aztec.co.za.
+22.96.192.in-addr.arpa.         NS        ns0.netbenefit.co.uk.
+22.96.192.in-addr.arpa.         NS        citadel.cequrux.com.
+
+; Source AFRINIC
+24.96.192.in-addr.arpa.         NS        mje99.posix.co.za.
+24.96.192.in-addr.arpa.         NS        secdns1.posix.co.za.
+24.96.192.in-addr.arpa.         NS        secdns2.posix.co.za.
+24.96.192.in-addr.arpa.         DS        46162 8 1 E720B6B91078006B2CB4AA98EA235D5130A56E2F
+24.96.192.in-addr.arpa.         DS        46162 8 2 87886F923ABAC55717EFF7D09644C50BE17AF2625C83570BD786A7B53B541DF2
+
+; Source AFRINIC
+25.96.192.in-addr.arpa.         NS        mje99.posix.co.za.
+25.96.192.in-addr.arpa.         NS        secdns1.posix.co.za.
+25.96.192.in-addr.arpa.         NS        secdns2.posix.co.za.
+25.96.192.in-addr.arpa.         DS        64834 8 1 0EC0A9B44D54187603FD03F320236B58B379797A
+25.96.192.in-addr.arpa.         DS        64834 8 2 B55E3B7F8F2F1E0B2C3BB96497D7C3A3E1CA5D2A921651DC369A1942D74A645F
+
+; Source AFRINIC
+26.96.192.in-addr.arpa.         NS        mje99.posix.co.za.
+26.96.192.in-addr.arpa.         NS        secdns1.posix.co.za.
+26.96.192.in-addr.arpa.         NS        secdns2.posix.co.za.
+26.96.192.in-addr.arpa.         DS        36892 8 1 43169365CDD075AC3CD656DFB13E9F98B4F72E86
+26.96.192.in-addr.arpa.         DS        36892 8 2 7D1C9AEEA4E11F130A7AF7D60AD0505191E7FEC7C4A22024D9714B5E1CDC7577
+
+; Source AFRINIC
+27.96.192.in-addr.arpa.         NS        mje99.posix.co.za.
+27.96.192.in-addr.arpa.         NS        secdns1.posix.co.za.
+27.96.192.in-addr.arpa.         NS        secdns2.posix.co.za.
+27.96.192.in-addr.arpa.         DS        1855 8 1 4D39384EBB7C4C7557D5296C5B257C7058ED025B
+27.96.192.in-addr.arpa.         DS        1855 8 2 28FB60D256492EE6E037118EE4209AB08076E08DB6AC6F01EBD8B1A5CCDADDF9
+
+; Source AFRINIC
+28.96.192.in-addr.arpa.         NS        mje99.posix.co.za.
+28.96.192.in-addr.arpa.         NS        secdns1.posix.co.za.
+28.96.192.in-addr.arpa.         NS        secdns2.posix.co.za.
+28.96.192.in-addr.arpa.         DS        41125 8 1 C045582AD495EC4145617443298E8112CF1C8D98
+28.96.192.in-addr.arpa.         DS        41125 8 2 ED38C4F73AD61A749AA327A0EC290B345AF3A1D7F5AE75CD665ECFA49A9CA166
+
+; Source AFRINIC
+29.96.192.in-addr.arpa.         NS        mje99.posix.co.za.
+29.96.192.in-addr.arpa.         NS        secdns1.posix.co.za.
+29.96.192.in-addr.arpa.         NS        secdns2.posix.co.za.
+29.96.192.in-addr.arpa.         DS        19084 8 1 F48BB9505995A57E4603321792D7EF37186BA7A5
+29.96.192.in-addr.arpa.         DS        19084 8 2 8F74A0F371BCD664C73E7058300F81B0EFD58D1B679A3E5B6864EB19D53F56BA
+
+; Source AFRINIC
+30.96.192.in-addr.arpa.         NS        auth.co.za.
+30.96.192.in-addr.arpa.         NS        secdns1.posix.co.za.
+30.96.192.in-addr.arpa.         NS        secdns2.posix.co.za.
+30.96.192.in-addr.arpa.         DS        760 8 1 34C9966BFFF0300CCF8E972A9C8C782B43924B27
+30.96.192.in-addr.arpa.         DS        760 8 2 33C151C8A6330B816CC7F56E2FF3915043381ED1A72B28E7288461DB624D849C
+30.96.192.in-addr.arpa.         DS        19144 8 1 892B2222803C4675D559362D6D51B5A81A80D6F0
+30.96.192.in-addr.arpa.         DS        19144 8 2 10B226882159EACC0477473698A8DF3CAD398DE4854F9FF5395C5AA5D8F4AC23
+
+; Source AFRINIC
+31.96.192.in-addr.arpa.         NS        mje99.posix.co.za.
+31.96.192.in-addr.arpa.         NS        secdns1.posix.co.za.
+31.96.192.in-addr.arpa.         NS        secdns2.posix.co.za.
+31.96.192.in-addr.arpa.         DS        10174 8 1 A31C6D7446FD7793A4E8BFDA100FA3338B268A62
+31.96.192.in-addr.arpa.         DS        10174 8 2 61E96EDBAC149D38D35DCB643D63572E2E6E3032F9ADD6B147C43752821D74A2
+
+; Source AFRINIC
+32.96.192.in-addr.arpa.         NS        flu.ff.co.za.
+32.96.192.in-addr.arpa.         NS        mumble.proxima.alt.za.
+
+; Source AFRINIC
+34.96.192.in-addr.arpa.         NS        store.intergraph.co.za.
+34.96.192.in-addr.arpa.         NS        names.ibi.co.za.
+34.96.192.in-addr.arpa.         NS        roger.ibi.co.za.
+
+; Source AFRINIC
+37.96.192.in-addr.arpa.         NS        ns2.tiscali.co.za.
+37.96.192.in-addr.arpa.         NS        ns1.netactive.net.
+
+; Source AFRINIC
+38.96.192.in-addr.arpa.         NS        ovisun.ovi.ac.za.
+38.96.192.in-addr.arpa.         NS        demeter.is.co.za.
+38.96.192.in-addr.arpa.         NS        jupiter.is.co.za.
+38.96.192.in-addr.arpa.         NS        inet.up.ac.za.
+38.96.192.in-addr.arpa.         NS        hippo.ru.ac.za.
+
+; Source AFRINIC
+40.96.192.in-addr.arpa.         NS        demeter.is.co.za.
+40.96.192.in-addr.arpa.         NS        jupiter.is.co.za.
+40.96.192.in-addr.arpa.         NS        titan.is.co.za.
+
+; Source AFRINIC
+43.96.192.in-addr.arpa.         NS        ns1.tradepage.co.za.
+43.96.192.in-addr.arpa.         NS        www.tradesearch.co.za.
+
+; Source AFRINIC
+48.96.192.in-addr.arpa.         NS        ns3.zadns.net.
+48.96.192.in-addr.arpa.         NS        ns1.zadns.net.
+48.96.192.in-addr.arpa.         NS        ns2.zadns.net.
+
+; Source AFRINIC
+51.96.192.in-addr.arpa.         NS        igubu.saix.net.
+51.96.192.in-addr.arpa.         NS        ns1.netsys.co.za.
+51.96.192.in-addr.arpa.         NS        ns2.netsys.co.za.
+51.96.192.in-addr.arpa.         NS        sangoma.saix.net.
+
+; Source AFRINIC
+57.96.192.in-addr.arpa.         NS        mail.gcl.co.za.
+57.96.192.in-addr.arpa.         NS        apollo.is.co.za.
+57.96.192.in-addr.arpa.         NS        hermes.is.co.za.
+
+; Source AFRINIC
+58.96.192.in-addr.arpa.         NS        igubu.saix.net.
+58.96.192.in-addr.arpa.         NS        induna.saix.net.
+58.96.192.in-addr.arpa.         NS        sangoma.saix.net.
+58.96.192.in-addr.arpa.         NS        mdns.acc.co.za.
+
+; Source AFRINIC
+60.96.192.in-addr.arpa.         NS        server2.smb.co.za.
+60.96.192.in-addr.arpa.         NS        mispyr.olivetti.za.
+60.96.192.in-addr.arpa.         NS        ns1.iafrica.com.
+
+; Source AFRINIC
+68.96.192.in-addr.arpa.         NS        secdns1.posix.co.za.
+68.96.192.in-addr.arpa.         NS        mje99.posix.co.za.
+
+; Source AFRINIC
+69.96.192.in-addr.arpa.         NS        mje99.posix.co.za.
+69.96.192.in-addr.arpa.         NS        secdns1.posix.co.za.
+
+; Source AFRINIC
+71.96.192.in-addr.arpa.         NS        mje99.posix.co.za.
+71.96.192.in-addr.arpa.         NS        secdns1.posix.co.za.
+
+; Source AFRINIC
+74.96.192.in-addr.arpa.         NS        sun1.general.co.za.
+74.96.192.in-addr.arpa.         NS        igubu.saix.net.
+
+; Source AFRINIC
+76.96.192.in-addr.arpa.         NS        mispyr.olivetti.za.
+76.96.192.in-addr.arpa.         NS        olsa99.olivetti.za.
+76.96.192.in-addr.arpa.         NS        ns1.coremedia.co.za.
+76.96.192.in-addr.arpa.         NS        ns2.coremedia.co.za.
+
+; Source AFRINIC
+77.96.192.in-addr.arpa.         NS        olsa99.olivetti.za.
+77.96.192.in-addr.arpa.         NS        ns1.iafrica.com.
+77.96.192.in-addr.arpa.         NS        pyrod.ovsod.co.za.
+77.96.192.in-addr.arpa.         NS        mispyr.olivetti.za.
+
+; Source AFRINIC
+79.96.192.in-addr.arpa.         NS        ntsrv2.eastcapenet.co.za.
+79.96.192.in-addr.arpa.         NS        ntsrv.eastcapenet.co.za.
+
+; Source AFRINIC
+85.96.192.in-addr.arpa.         NS        ntsrv.eastcapenet.co.za.
+85.96.192.in-addr.arpa.         NS        ntsrv2.eastcapenet.co.za.
+
+; Source AFRINIC
+87.96.192.in-addr.arpa.         NS        ns1.iafrica.com.
+87.96.192.in-addr.arpa.         NS        daisy.ee.und.ac.za.
+87.96.192.in-addr.arpa.         NS        ns.proxima.alt.za.
+87.96.192.in-addr.arpa.         NS        rip.psg.com.
+87.96.192.in-addr.arpa.         NS        cstatu.cstat.co.za.
+
+; Source AFRINIC
+88.96.192.in-addr.arpa.         NS        ns2.iafrica.com.
+88.96.192.in-addr.arpa.         NS        ns1.iafrica.com.
+
+; Source AFRINIC
+89.96.192.in-addr.arpa.         NS        ns1.sprintlink.net.
+89.96.192.in-addr.arpa.         NS        apollo.is.co.za.
+89.96.192.in-addr.arpa.         NS        hermes.is.co.za.
+89.96.192.in-addr.arpa.         NS        icm1.icp.net.
+
+; Source AFRINIC
+90.96.192.in-addr.arpa.         NS        icm1.icp.net.
+90.96.192.in-addr.arpa.         NS        ns1.sprintlink.net.
+90.96.192.in-addr.arpa.         NS        apollo.is.co.za.
+90.96.192.in-addr.arpa.         NS        hermes.is.co.za.
+
+; Source AFRINIC
+91.96.192.in-addr.arpa.         NS        ns1.sprintlink.net.
+91.96.192.in-addr.arpa.         NS        apollo.is.co.za.
+91.96.192.in-addr.arpa.         NS        hermes.is.co.za.
+91.96.192.in-addr.arpa.         NS        icm1.icp.net.
+
+; Source AFRINIC
+92.96.192.in-addr.arpa.         NS        hermes.is.co.za.
+92.96.192.in-addr.arpa.         NS        icm1.icp.net.
+92.96.192.in-addr.arpa.         NS        ns1.sprintlink.net.
+92.96.192.in-addr.arpa.         NS        apollo.is.co.za.
+
+; Source AFRINIC
+94.96.192.in-addr.arpa.         NS        hippo.ru.ac.za.
+94.96.192.in-addr.arpa.         NS        demeter.is.co.za.
+94.96.192.in-addr.arpa.         NS        jupiter.is.co.za.
+94.96.192.in-addr.arpa.         NS        ovisun.ovi.ac.za.
+94.96.192.in-addr.arpa.         NS        inet.up.ac.za.
+
+; Source AFRINIC
+95.96.192.in-addr.arpa.         NS        hippo.ru.ac.za.
+95.96.192.in-addr.arpa.         NS        demeter.is.co.za.
+95.96.192.in-addr.arpa.         NS        jupiter.is.co.za.
+95.96.192.in-addr.arpa.         NS        ovisun.ovi.ac.za.
+95.96.192.in-addr.arpa.         NS        inet.up.ac.za.
+
+; Source AFRINIC
+96.96.192.in-addr.arpa.         NS        aztec.co.za.
+96.96.192.in-addr.arpa.         NS        ns0.plig.net.
+96.96.192.in-addr.arpa.         NS        ns1.plig.net.
+
+; Source AFRINIC
+97.96.192.in-addr.arpa.         NS        ns2.quickvoice.co.za.
+97.96.192.in-addr.arpa.         NS        ns1.quickvoice.co.za.
+
+; Source AFRINIC
+104.96.192.in-addr.arpa.         NS        demeter.is.co.za.
+104.96.192.in-addr.arpa.         NS        jupiter.is.co.za.
+104.96.192.in-addr.arpa.         NS        titan.is.co.za.
+
+; Source AFRINIC
+109.96.192.in-addr.arpa.         NS        ns2.saao.ac.za.
+109.96.192.in-addr.arpa.         NS        ns1.saao.ac.za.
+
+; Source AFRINIC
+111.96.192.in-addr.arpa.         NS        ns1.iafrica.com.
+111.96.192.in-addr.arpa.         NS        ns2.iafrica.com.
+
+; Source AFRINIC
+121.96.192.in-addr.arpa.         NS        fwb2.gcl.co.za.
+121.96.192.in-addr.arpa.         NS        mail.gcl.co.za.
+
+; Source AFRINIC
+122.96.192.in-addr.arpa.         NS        mail.gcl.co.za.
+122.96.192.in-addr.arpa.         NS        fwb2.gcl.co.za.
+
+; Source AFRINIC
+124.96.192.in-addr.arpa.         NS        mail.gcl.co.za.
+124.96.192.in-addr.arpa.         NS        fwb2.gcl.co.za.
+
+; Source AFRINIC
+125.96.192.in-addr.arpa.         NS        mail.gcl.co.za.
+125.96.192.in-addr.arpa.         NS        fwb2.gcl.co.za.
+
+; Source AFRINIC
+128.96.192.in-addr.arpa.         NS        fwb2.gcl.co.za.
+128.96.192.in-addr.arpa.         NS        mail.gcl.co.za.
+
+; Source AFRINIC
+129.96.192.in-addr.arpa.         NS        fwb2.gcl.co.za.
+129.96.192.in-addr.arpa.         NS        mail.gcl.co.za.
+
+; Source AFRINIC
+130.96.192.in-addr.arpa.         NS        fwb2.gcl.co.za.
+130.96.192.in-addr.arpa.         NS        mail.gcl.co.za.
+
+; Source AFRINIC
+131.96.192.in-addr.arpa.         NS        mail.gcl.co.za.
+131.96.192.in-addr.arpa.         NS        fwb2.gcl.co.za.
+
+; Source AFRINIC
+133.96.192.in-addr.arpa.         NS        fwb2.gcl.co.za.
+133.96.192.in-addr.arpa.         NS        mail.gcl.co.za.
+
+; Source AFRINIC
+134.96.192.in-addr.arpa.         NS        jupiter.is.co.za.
+134.96.192.in-addr.arpa.         NS        titan.is.co.za.
+134.96.192.in-addr.arpa.         NS        demeter.is.co.za.
+
+; Source AFRINIC
+139.96.192.in-addr.arpa.         NS        jupiter.is.co.za.
+139.96.192.in-addr.arpa.         NS        titan.is.co.za.
+139.96.192.in-addr.arpa.         NS        demeter.is.co.za.
+
+; Source AFRINIC
+140.96.192.in-addr.arpa.         NS        hippo.ru.ac.za.
+140.96.192.in-addr.arpa.         NS        disa.tenet.ac.za.
+140.96.192.in-addr.arpa.         NS        extdns.nmmu.ac.za.
+140.96.192.in-addr.arpa.         NS        neptune.nmmu.ac.za.
+140.96.192.in-addr.arpa.         NS        rain.psg.com.
+
+; Source AFRINIC
+141.96.192.in-addr.arpa.         NS        hippo.ru.ac.za.
+141.96.192.in-addr.arpa.         NS        disa.tenet.ac.za.
+141.96.192.in-addr.arpa.         NS        extdns.nmmu.ac.za.
+141.96.192.in-addr.arpa.         NS        neptune.nmmu.ac.za.
+141.96.192.in-addr.arpa.         NS        rain.psg.com.
+
+; Source AFRINIC
+142.96.192.in-addr.arpa.         NS        hippo.ru.ac.za.
+142.96.192.in-addr.arpa.         NS        disa.tenet.ac.za.
+142.96.192.in-addr.arpa.         NS        extdns.nmmu.ac.za.
+142.96.192.in-addr.arpa.         NS        neptune.nmmu.ac.za.
+142.96.192.in-addr.arpa.         NS        rain.psg.com.
+
+; Source AFRINIC
+147.96.192.in-addr.arpa.         NS        titan.is.co.za.
+147.96.192.in-addr.arpa.         NS        demeter.is.co.za.
+147.96.192.in-addr.arpa.         NS        jupiter.is.co.za.
+
+; Source AFRINIC
+150.96.192.in-addr.arpa.         NS        cssnws01.cssgroup.co.za.
+150.96.192.in-addr.arpa.         NS        makhadodns.makhado.co.za.
+
+; Source AFRINIC
+164.96.192.in-addr.arpa.         NS        ns2.iafrica.com.
+164.96.192.in-addr.arpa.         NS        mailhub.vector.co.za.
+164.96.192.in-addr.arpa.         NS        ns1.iafrica.com.
+
+; Source AFRINIC
+165.96.192.in-addr.arpa.         NS        ns1.iafrica.com.
+165.96.192.in-addr.arpa.         NS        ns2.iafrica.com.
+165.96.192.in-addr.arpa.         NS        mailhub.vector.co.za.
+
+; Source AFRINIC
+166.96.192.in-addr.arpa.         NS        ns2.iafrica.com.
+166.96.192.in-addr.arpa.         NS        mailhub.vector.co.za.
+166.96.192.in-addr.arpa.         NS        ns1.iafrica.com.
+
+; Source AFRINIC
+167.96.192.in-addr.arpa.         NS        ns1.iafrica.com.
+167.96.192.in-addr.arpa.         NS        ns2.iafrica.com.
+167.96.192.in-addr.arpa.         NS        mailhub.vector.co.za.
+
+; Source AFRINIC
+177.96.192.in-addr.arpa.         NS        auth.co.za.
+177.96.192.in-addr.arpa.         NS        secdns1.posix.co.za.
+177.96.192.in-addr.arpa.         NS        secdns2.posix.co.za.
+177.96.192.in-addr.arpa.         DS        61510 8 1 DF197468F35857EA4D6A8104F1996C2923C6F040
+177.96.192.in-addr.arpa.         DS        61510 8 2 D11BF30B90C16B77777502A6E4B639CE906F08626C306E61F3E5F46B6BD3260D
+177.96.192.in-addr.arpa.         DS        59527 8 1 612F96DB244E6C68EE19C0798685C0AEF0BEAD77
+177.96.192.in-addr.arpa.         DS        59527 8 2 D89D43F7A2ED0B95E87E8FFF98A927CDDB35ED8696182253326C9CD473CAB5F7
+
+; Source AFRINIC
+193.96.192.in-addr.arpa.         NS        ns1.sabinet.co.za.
+193.96.192.in-addr.arpa.         NS        hippo.ru.ac.za.
+193.96.192.in-addr.arpa.         NS        rain.psg.com.
+193.96.192.in-addr.arpa.         NS        ns2.sabinet.co.za.
+
+; Source AFRINIC
+194.96.192.in-addr.arpa.         NS        ns2.sabinet.co.za.
+194.96.192.in-addr.arpa.         NS        hippo.ru.ac.za.
+194.96.192.in-addr.arpa.         NS        rain.psg.com.
+194.96.192.in-addr.arpa.         NS        ns1.sabinet.co.za.
+
+; Source AFRINIC
+246.96.192.in-addr.arpa.         NS        titan.is.co.za.
+246.96.192.in-addr.arpa.         NS        demeter.is.co.za.
+246.96.192.in-addr.arpa.         NS        jupiter.is.co.za.
+
+; Source AFRINIC
+247.96.192.in-addr.arpa.         NS        hippo.ru.ac.za.
+247.96.192.in-addr.arpa.         NS        disa.tenet.ac.za.
+247.96.192.in-addr.arpa.         NS        extdns.nmmu.ac.za.
+247.96.192.in-addr.arpa.         NS        neptune.nmmu.ac.za.
+247.96.192.in-addr.arpa.         NS        rain.psg.com.
+
+; Source AFRINIC
+248.96.192.in-addr.arpa.         NS        hippo.ru.ac.za.
+248.96.192.in-addr.arpa.         NS        disa.tenet.ac.za.
+248.96.192.in-addr.arpa.         NS        extdns.nmmu.ac.za.
+248.96.192.in-addr.arpa.         NS        neptune.nmmu.ac.za.
+248.96.192.in-addr.arpa.         NS        rain.psg.com.
+
+; Source AFRINIC
+249.96.192.in-addr.arpa.         NS        hippo.ru.ac.za.
+249.96.192.in-addr.arpa.         NS        disa.tenet.ac.za.
+249.96.192.in-addr.arpa.         NS        extdns.nmmu.ac.za.
+249.96.192.in-addr.arpa.         NS        neptune.nmmu.ac.za.
+249.96.192.in-addr.arpa.         NS        rain.psg.com.
+249.96.192.in-addr.arpa.         NS        secdns1.posix.co.za.
+
+; Source AFRINIC
+250.96.192.in-addr.arpa.         NS        hippo.ru.ac.za.
+250.96.192.in-addr.arpa.         NS        disa.tenet.ac.za.
+250.96.192.in-addr.arpa.         NS        extdns.nmmu.ac.za.
+250.96.192.in-addr.arpa.         NS        neptune.nmmu.ac.za.
+250.96.192.in-addr.arpa.         NS        rain.psg.com.
+
+; Source AFRINIC
+251.96.192.in-addr.arpa.         NS        ns1.netconnect.co.za.
+251.96.192.in-addr.arpa.         NS        scitso.synergy.co.za.
+
+; Source AFRINIC
+253.96.192.in-addr.arpa.         NS        demeter.is.co.za.
+253.96.192.in-addr.arpa.         NS        jupiter.is.co.za.
+253.96.192.in-addr.arpa.         NS        titan.is.co.za.
+
+; Source AFRINIC
+1.100.192.in-addr.arpa.         NS        aqua.ccwr.ac.za.
+1.100.192.in-addr.arpa.         NS        shrike.und.ac.za.
+1.100.192.in-addr.arpa.         NS        rain.psg.com.
+
+; Source AFRINIC
+9.102.192.in-addr.arpa.         NS        uwcunx.uwc.ac.za.
+9.102.192.in-addr.arpa.         NS        hippo.ru.ac.za.
+9.102.192.in-addr.arpa.         NS        ucthpx.uct.ac.za.
+9.102.192.in-addr.arpa.         NS        rain.psg.com.
+
+; Source AFRINIC
+55.136.192.in-addr.arpa.         NS        pluton.ird.bf.
+55.136.192.in-addr.arpa.         NS        ns1.ird.fr.
+
+; Source AFRINIC
+254.231.192.in-addr.arpa.         NS        ns.sni.co.za.
+254.231.192.in-addr.arpa.         NS        ns.pipex-sa.net.
+254.231.192.in-addr.arpa.         NS        jupiter.is.co.za.
+254.231.192.in-addr.arpa.         NS        ns1.pipex.net.
+
+; Source AFRINIC
+148.245.192.in-addr.arpa.         NS        decst.cerist.dz.
+148.245.192.in-addr.arpa.         NS        vaxst.cerist.dz.
+148.245.192.in-addr.arpa.         NS        nameserver.cnr.it.
+
+AFRINIC.192.in-addr.arpa.	IN	TXT	"Generated at 2016-04-16 21:23:27Z with 321 NS records from AFRINIC."
+AFRINIC.192.in-addr.arpa.	IN	TXT	"Generated at 2016-04-16 21:23:27Z with 26 DS records from AFRINIC."

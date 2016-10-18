@@ -1,0 +1,70 @@
+$TTL 172800
+$ORIGIN .
+
+
+; Source AFRINIC
+112.57.64.in-addr.arpa.         NS        ns2.leo.co.ls.
+112.57.64.in-addr.arpa.         NS        ns1.leo.co.ls.
+
+; Source AFRINIC
+113.57.64.in-addr.arpa.         NS        ns2.leo.co.ls.
+113.57.64.in-addr.arpa.         NS        ns1.leo.co.ls.
+
+; Source AFRINIC
+114.57.64.in-addr.arpa.         NS        ns2.leo.co.ls.
+114.57.64.in-addr.arpa.         NS        ns1.leo.co.ls.
+
+; Source AFRINIC
+115.57.64.in-addr.arpa.         NS        ns2.leo.co.ls.
+115.57.64.in-addr.arpa.         NS        ns1.leo.co.ls.
+
+; Source AFRINIC
+116.57.64.in-addr.arpa.         NS        ns2.leo.co.ls.
+116.57.64.in-addr.arpa.         NS        ns1.leo.co.ls.
+
+; Source AFRINIC
+117.57.64.in-addr.arpa.         NS        ns2.leo.co.ls.
+117.57.64.in-addr.arpa.         NS        ns1.leo.co.ls.
+
+; Source AFRINIC
+118.57.64.in-addr.arpa.         NS        ns2.leo.co.ls.
+118.57.64.in-addr.arpa.         NS        ns1.leo.co.ls.
+
+; Source AFRINIC
+119.57.64.in-addr.arpa.         NS        ns2.leo.co.ls.
+119.57.64.in-addr.arpa.         NS        ns1.leo.co.ls.
+
+; Source AFRINIC
+120.57.64.in-addr.arpa.         NS        ns2.leo.co.ls.
+120.57.64.in-addr.arpa.         NS        ns1.leo.co.ls.
+
+; Source AFRINIC
+121.57.64.in-addr.arpa.         NS        ns2.leo.co.ls.
+121.57.64.in-addr.arpa.         NS        ns1.leo.co.ls.
+
+; Source AFRINIC
+122.57.64.in-addr.arpa.         NS        ns2.leo.co.ls.
+122.57.64.in-addr.arpa.         NS        ns1.leo.co.ls.
+
+; Source AFRINIC
+123.57.64.in-addr.arpa.         NS        ns2.leo.co.ls.
+123.57.64.in-addr.arpa.         NS        ns1.leo.co.ls.
+
+; Source AFRINIC
+124.57.64.in-addr.arpa.         NS        ns2.leo.co.ls.
+124.57.64.in-addr.arpa.         NS        ns1.leo.co.ls.
+
+; Source AFRINIC
+125.57.64.in-addr.arpa.         NS        ns2.leo.co.ls.
+125.57.64.in-addr.arpa.         NS        ns1.leo.co.ls.
+
+; Source AFRINIC
+126.57.64.in-addr.arpa.         NS        ns2.leo.co.ls.
+126.57.64.in-addr.arpa.         NS        ns1.leo.co.ls.
+
+; Source AFRINIC
+127.57.64.in-addr.arpa.         NS        ns2.leo.co.ls.
+127.57.64.in-addr.arpa.         NS        ns1.leo.co.ls.
+
+AFRINIC.64.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:06Z with 32 NS records from AFRINIC."
+AFRINIC.64.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:06Z with 0 DS records from AFRINIC."

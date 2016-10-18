@@ -1,0 +1,12 @@
+$TTL 172800
+$ORIGIN .
+
+
+; Source AFRINIC
+136.223.206.in-addr.arpa.         NS        ns.coza.net.za.
+136.223.206.in-addr.arpa.         NS        ns1.coza.net.za.
+136.223.206.in-addr.arpa.         NS        ns2.coza.net.za.
+136.223.206.in-addr.arpa.         NS        secdns1.posix.co.za.
+
+AFRINIC.206.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:14Z with 4 NS records from AFRINIC."
+AFRINIC.206.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:14Z with 0 DS records from AFRINIC."

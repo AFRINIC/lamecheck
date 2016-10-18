@@ -1,0 +1,16 @@
+$TTL 172800
+$ORIGIN .
+
+
+; Source AFRINIC
+128.143.in-addr.arpa.         NS        dbndhns.ukzn.ac.za.
+128.143.in-addr.arpa.         NS        pmbdhns.ukzn.ac.za.
+
+; Source AFRINIC
+160.143.in-addr.arpa.         NS        ns.puk.ac.za.
+160.143.in-addr.arpa.         NS        hippo.ru.ac.za.
+160.143.in-addr.arpa.         NS        rain.psg.com.
+160.143.in-addr.arpa.         NS        ucthpx.uct.ac.za.
+
+AFRINIC.143.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:10Z with 6 NS records from AFRINIC."
+AFRINIC.143.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:10Z with 0 DS records from AFRINIC."

@@ -1,0 +1,42 @@
+$TTL 172800
+$ORIGIN .
+
+
+; Source AFRINIC
+64.146.in-addr.arpa.         NS        ns-1.csir.co.za.
+64.146.in-addr.arpa.         NS        ns-2.csir.co.za.
+
+; Source AFRINIC
+141.146.in-addr.arpa.         NS        caesar.wits.ac.za.
+141.146.in-addr.arpa.         NS        shannon.ee.wits.ac.za.
+141.146.in-addr.arpa.         NS        concave.cs.wits.ac.za.
+141.146.in-addr.arpa.         NS        rain.psg.com.
+141.146.in-addr.arpa.         NS        hippo.ru.ac.za.
+
+; Source AFRINIC
+182.146.in-addr.arpa.         NS        ns.ufs.ac.za.
+182.146.in-addr.arpa.         NS        ns.puk.ac.za.
+182.146.in-addr.arpa.         NS        rain.psg.com.
+182.146.in-addr.arpa.         NS        hippo.ru.ac.za.
+
+; Source AFRINIC
+230.146.in-addr.arpa.         NS        dbndhns.ukzn.ac.za.
+230.146.in-addr.arpa.         NS        pmbdhns.ukzn.ac.za.
+230.146.in-addr.arpa.         NS        disa.tenet.ac.za.
+
+; Source AFRINIC
+231.146.in-addr.arpa.         NS        hippo.ru.ac.za.
+231.146.in-addr.arpa.         NS        terrapin.ru.ac.za.
+231.146.in-addr.arpa.         NS        raccoon.ru.ac.za.
+231.146.in-addr.arpa.         NS        ucthpx.uct.ac.za.
+231.146.in-addr.arpa.         DS        7672 8 1 398F43FDE66E8DE2AF88C7C1EA0ACDC61A2F5DD6
+231.146.in-addr.arpa.         DS        7672 8 2 8819D2638F4EDD8F6BDDCFCD3107AB2EA2AB2382DA2DF66758054E45681BF2A3
+
+; Source AFRINIC
+232.146.in-addr.arpa.         NS        sunvax.sun.ac.za.
+232.146.in-addr.arpa.         NS        ucthpx.uct.ac.za.
+232.146.in-addr.arpa.         NS        hippo.ru.ac.za.
+232.146.in-addr.arpa.         NS        rain.psg.com.
+
+AFRINIC.146.in-addr.arpa.	IN	TXT	"Generated at 2016-04-16 21:23:27Z with 22 NS records from AFRINIC."
+AFRINIC.146.in-addr.arpa.	IN	TXT	"Generated at 2016-04-16 21:23:27Z with 2 DS records from AFRINIC."

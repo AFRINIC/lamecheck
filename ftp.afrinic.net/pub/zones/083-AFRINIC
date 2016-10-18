@@ -1,0 +1,38 @@
+$TTL 172800
+$ORIGIN .
+
+
+; Source AFRINIC
+24.143.83.in-addr.arpa.         NS        ns1vbn.vbnservices.net.
+24.143.83.in-addr.arpa.         NS        ns2vbn.vbnservices.net.
+
+; Source AFRINIC
+25.143.83.in-addr.arpa.         NS        ns1vbn.vbnservices.net.
+25.143.83.in-addr.arpa.         NS        ns2vbn.vbnservices.net.
+
+; Source AFRINIC
+26.143.83.in-addr.arpa.         NS        ns1vbn.vbnservices.net.
+26.143.83.in-addr.arpa.         NS        ns2vbn.vbnservices.net.
+
+; Source AFRINIC
+27.143.83.in-addr.arpa.         NS        ns1vbn.vbnservices.net.
+27.143.83.in-addr.arpa.         NS        ns2vbn.vbnservices.net.
+
+; Source AFRINIC
+28.143.83.in-addr.arpa.         NS        ns1vbn.vbnservices.net.
+28.143.83.in-addr.arpa.         NS        ns2vbn.vbnservices.net.
+
+; Source AFRINIC
+29.143.83.in-addr.arpa.         NS        ns1vbn.vbnservices.net.
+29.143.83.in-addr.arpa.         NS        ns2vbn.vbnservices.net.
+
+; Source AFRINIC
+30.143.83.in-addr.arpa.         NS        ns1vbn.vbnservices.net.
+30.143.83.in-addr.arpa.         NS        ns2vbn.vbnservices.net.
+
+; Source AFRINIC
+31.143.83.in-addr.arpa.         NS        ns1vbn.vbnservices.net.
+31.143.83.in-addr.arpa.         NS        ns2vbn.vbnservices.net.
+
+AFRINIC.83.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:14Z with 16 NS records from AFRINIC."
+AFRINIC.83.in-addr.arpa.	IN	TXT	"Generated at 2016-03-11 07:47:14Z with 0 DS records from AFRINIC."
