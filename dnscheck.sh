@@ -20,8 +20,8 @@ if [ -z "$1" ]; then
    exit 1
 fi
 
-zone=$(echo $1 |sed s/\.$//)
-ns=$(echo $2 | sed s/\.$//)
+zone=$(echo "$1" |sed -e 's/\.$//')
+ns=$(echo "$2" | sed -e 's/\.$//')
 
 #tmp=$(mktemp /tmp/.try-get-zone.XXXXXXXXXX)
 tmp="/tmp/out.lame"
