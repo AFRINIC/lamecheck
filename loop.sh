@@ -7,6 +7,6 @@ do
 		domain=$(echo $line | cut -f1 -d ',')
 		ns=$(echo $line | cut -f2 -d ',')
 
-		sh try-get-zone.sh $domain $ns >> out/$file.out
+		sh zone-lame-check.sh $domain $ns >> out/$file.out
 	done
 done
