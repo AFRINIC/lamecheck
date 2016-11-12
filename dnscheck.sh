@@ -16,7 +16,7 @@ unset LANG
 unset LC_MESSAGES
 
 if [ -z "$1" ]; then
-   echo "Usage: $0 zone [storage-directory]" >&2
+   echo "Usage: $0 zone authns" >&2
    exit 1
 fi
 
