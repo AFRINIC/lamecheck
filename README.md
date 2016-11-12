@@ -1,7 +1,7 @@
 # lamecheck
 some code snippets to check lameness of a zone
 
-``sh dnscheck.sh <domain> <nameserver>``
+``sh zone-lame-check.sh <domain> <nameserver>``
 
 CASE_0: all good not lame
 CASE_1: server not reachable, nameserver cannot be resolved, port 53 closed etc
