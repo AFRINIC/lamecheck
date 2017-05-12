@@ -6,9 +6,13 @@ Some code snippets to check lameness of a zone.
 
  ``sh zone-lame-check.sh <domain> <nameserver>``
 
+### Multiple Zones:
+
+Run `zones-loop.sh` to extra NS records from a zonelet files and run the check on each on.
+
 Zone files to parse for NS seeding must be placed into the `zones/` folder first.
 
-### Details:
+### Output Details:
 
 CASE_0: all good not lame  
 CASE_1: server not reachable, nameserver cannot be resolved, port 53 closed etc  

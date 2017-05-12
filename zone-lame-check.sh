@@ -33,26 +33,26 @@ tmp="/tmp/out.lame"
 dig @${ns} +norec NS ${zone} &> $tmp | tee $tmp
 
 if egrep "connection timed out|Name or service not known|connection refused|network unreachable|host unreachable|end of file|communications error|couldn't get address" $tmp > /dev/null; then
-    echo "$zone,$ns,CASE_1"
+    echo "$zone,$ns,LAME,CASE_1"
     exit 1;
 fi
 
 if egrep "status: REFUSED|status: SERVFAIL|status: NXDOMAIN" $tmp > /dev/null; then
 	error=$(egrep -o "REFUSED|SERVFAIL|NXDOMAIN" $tmp)
-        echo "$zone,$ns,CASE_3:"$error
+        echo "$zone,$ns,LAME,CASE_3:"$error
 	exit 3;
 fi
 
 if egrep "status: NOERROR" $tmp > /dev/null;then
 	if egrep "ANSWER: 0" $tmp > /dev/null;then
-        	echo "$zone,$ns,CASE_3:NO_ANSWER"
+        	echo "$zone,$ns,LAME,CASE_3:NO_ANSWER"
 		exit 3;
         fi
 	if ! egrep "flags: qr.+aa.+" $tmp > /dev/null; then
 		if egrep "flags: qr.+ra.+" $tmp > /dev/null; then
-			echo "$zone,$ns,CASE_4:RECURSIVE"
+			echo "$zone,$ns,LAME,CASE_4:RECURSIVE"
 		else
-			echo "$zone,$ns,CASE_4"
+			echo "$zone,$ns,LAME,CASE_4"
 		fi
 		exit 4;
 	fi
@@ -60,9 +60,9 @@ fi
 
 if egrep "status: NOERROR" $tmp > /dev/null;then
 	if egrep "flags: qr.+ra.+" $tmp > /dev/null; then
-		echo "$zone,$ns,CASE_0:RECURSIVE"
+		echo "$zone,$ns,OK,CASE_0:RECURSIVE"
 	else
-		echo "$zone,$ns,CASE_0"
+		echo "$zone,$ns,OK,CASE_0"
 	fi
 	exit 0;
 fi
