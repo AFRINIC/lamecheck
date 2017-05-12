@@ -6,6 +6,10 @@ Some code snippets to check lameness of a zone.
 
  ``sh zone-lame-check.sh <domain> <nameserver>``
 
+Zone files to parse for NS seeding must be placed into the `zones/` folder first.
+
+### Details:
+
 CASE_0: all good not lame  
 CASE_1: server not reachable, nameserver cannot be resolved, port 53 closed etc  
 CASE_3: nameserver reachable but not responsive or not serving zone  
