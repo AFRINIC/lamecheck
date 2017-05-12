@@ -8,7 +8,7 @@ Some code snippets to check lameness of a zone.
 
 ### Multiple Zones:
 
-Run `zones-loop.sh` to extra NS records from a zonelet files and run the check on each on.
+Run `loop-zones.sh` to extra NS records from a zonelet files and run the check on each on.
 
 Zone files to parse for NS seeding must be placed into the `zones/` folder first.
 
